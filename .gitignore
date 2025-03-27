@@ -1,0 +1,3 @@
+*.ipynb # Ignore Jupyter notebooks
+__pycache__/ # Ignore Python cache
+.DS_Store # Ignore macOS system files
