@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Module documentation
+Module documentation
 [
 create
 ] [
@@ -516,10 +510,3 @@ _main
  
 _main
 }
-
-
-
-
-
-
-

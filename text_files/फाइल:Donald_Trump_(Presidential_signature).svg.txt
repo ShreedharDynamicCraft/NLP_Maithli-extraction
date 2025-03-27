@@ -4,7 +4,6 @@ SPICE
 
 
 
-सङ्क्षेप
 
 
 
@@ -13,157 +12,30 @@ SPICE
 
 
 
-जानकारी
-Donald Trump (Presidential signature).svg
 
 
 
 
-English: 
- 
-Donald Trump
- Presidential signature
-
-
-
-
-
-
-दिनाङ्क
-
-
-
-
-२० जनवरी २०१७
-
-
-
-
-
-
-स्रोत
-
-
-
-Vectorized in Adobe Illustrator from the large signature available at 
-this article
- (archive URL: 
-https://web.archive.org/web/20220816001529/https://qz.com/891546/donald-trump-official-signature-trump-takes-a-tediously-long-time-to-sign-his-name/
-)
-
-
-
-
-
-
-लेखक
-
-
-
-
-Donald Trump
-
-
-
-
-SVG 
-genesis
-InfoField
- 
-The 
-SVG
- code is 
-valid
-.
- 
-इस  
-वेक्टर चित्र
- को 
-Adobe Illustrator
- की मदद से बनाया गया था।
-
-
-
-
-
-
-
-
-अधिकृत करब
-
-
-
-
-
-
-Public domain
-Public domain
-false
-false
-
-
-
-
-
-
-
-
-
-
-
-
-यह हस्ताक्षर 
-कॉपीराइट
- के अयोग्य और परिणामस्वरूप 
-सार्वजनिक डोमेन
- में माना गया है क्योंकि यह संयुक्त राज्य और स्रोत देश (अगर अलग हो), किसी में भी मौलिकता की दहलीज़ को पार नहीं करता है। इस मामले में स्रोत देश (जैसे हस्ताक्षर करने वाली की राष्ट्रीयता का देश) 
-अमेरिका
- माना गया है।
-
-
-ध्यान रखें कि इस टैग का प्रयोग सभी हस्ताक्षरों पर नहीं किया जा सकता है, क्योंकि सभी हस्ताक्षर कॉपीराइट-मुक्त नहीं हैं।
-
-
-इस टैग का कब प्रयोग किया जा सकता है, इसकी व्याख्या के लिए 
-Commons:When to use the PD-signature tag
- देखें
-
-
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
 अंगरेजी
 Donald Trump's signature
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 डोनाल्ड ट्रम्प
 हस्ताक्षर
  
-हिन्दी
 data size
  
-अंगरेजी
 ३२,९६१ 
 बाइट
 media type
  
-अंगरेजी
 image/svg+xml
 checksum
  
-अंगरेजी
 9d69649c8d77b473f3613b4853e53549ee338c24
 निर्धारण विधि
  
-हिन्दी
 : 
 SHA-1
-
-
-
-
-
-
-

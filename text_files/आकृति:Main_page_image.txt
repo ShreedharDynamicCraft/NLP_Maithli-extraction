@@ -1,5 +1,3 @@
-
-
 Caption goes here.
 
 
@@ -27,7 +25,6 @@ Main Page
 
 
 
-Usage
 [
 सम्पादन करी
 ]
@@ -84,10 +81,3 @@ Add categories to the
  subpage. 
 Subpages of this template
 .
-
-
-
-
-
-
-

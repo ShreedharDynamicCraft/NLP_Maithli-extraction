@@ -1,40 +1,11 @@
-Need my help?
-
-
-If the matter is important or I do not give a response within a reasonable period of time (about 2 - 3 days at most) or there's a backlog on {Wikibooks or MediaWiki} that requires something that you cannot do, it's OK to ask on my talk page - I respond to them quickly since I get notified by email.
-
-
-If the matter is less urgent, pinging is OK. In practice, I respond to pings quickly as well, but do message me on my talk page if I miss one by chance.
-
-
-Special:EmailUser
- is also fine. Discord is also OK but is not recommended.
-
-
-The same applies to anything on the 
-Beta Cluster
- since I have full rights there.
-
-
-I have two hands. The left hand writes code, and the right hand proves things, and I can't let go of either. That's why I do both in real life. Oh, and I have a 
+I have two hands. The left hand writes code, and the right hand proves things, and I can't let go of either. That's why I do both in real life. Oh, and I have a
 GitHub page
 .
-
-But on Wikimedia, my hands work for me as a Wikibooks, MediaWiki and Meta-Wiki administrator (if I'm active, that is). 
-
-
-
-Other things
-
-
+But on Wikimedia, my hands work for me as a Wikibooks, MediaWiki and Meta-Wiki administrator (if I'm active, that is).
 StewardMark
-
-
 Leaderbot
-, that runs 
+, that runs
 Global statistics
- and 
+and
 Global reminder bot
-
-
 WMF Quiz 2024

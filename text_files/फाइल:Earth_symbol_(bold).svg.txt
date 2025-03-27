@@ -1,117 +1,3 @@
-सङ्क्षेप
-
-
-
-
-
-
-
-
-जानकारी
-Earth symbol (bold).svg
-
-
-
-
-English: 
- U+1F728 🜨, heavier line weight (1.333 px)
-
-
-
-
-
-
-दिनाङ्क
-
-
-
-
-१४ दिसम्बर २०२१
-
-
-
-
-
-
-स्रोत
-
-
-
-
-अपन काम
-
-
-
-
-
-
-लेखक
-
-
-
-
-Kwamikagami
-
-
-
-
-
-
-दूसरे संस्करण
-
-
-
-
-
-
-
-
-
-
-Earth symbol (small, bold).svg
-
-
-
-
-
-
-
-
-SVG 
-genesis
-InfoField
- 
-The 
-SVG
- code is 
-valid
-.
- 
-इस  
-वेक्टर चित्र
- को 
-Inkscape
- की मदद से बनाया गया था.
-This   SVG symbol 
-shows
- a very simple image. Drawing uncomplicated graphics 
-with a text editor
- seems 
-more
- adequate than using a vector graphics program, and will often result in a 
-dramatic reduction
- of file size.
-
-
-
-
-
-
-
-
-अधिकृत करब
-
-
 मैं, इस कार्य का/की कॉपीराइट धारक, इसे निम्न लाइसेंस के अंतर्गत प्रकाशित करता/करती हूँ:
 
 
@@ -150,62 +36,40 @@ CC BY-SA 4.0
 Creative Commons Attribution-Share Alike 4.0 
 true
 true
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 रचियता
  
-हिन्दी
 some value
 Wikimedia username
  
-अंगरेजी
 : 
 Kwamikagami
 लेखक के नाम का स्ट्रिंग
  
-हिन्दी
 : 
 Kwamikagami
 URL
  
-हिन्दी
 : 
 https://commons.wikimedia.org/wiki/User:Kwamikagami
 कॉपीराइट की स्थिति
  
-हिन्दी
 कॉपीराइट के अंतर्गत
  
-हिन्दी
 अनुज्ञप्ति
  
-हिन्दी
 Creative Commons Attribution-ShareAlike 4.0 International
  
-अंगरेजी
 निर्माण की तिथि
  
-हिन्दी
 १४ दिसम्बर 2021
 source of file
  
-अंगरेजी
 original creation by uploader
  
-अंगरेजी
 media type
  
-अंगरेजी
 image/svg+xml
-
-
-
-
-
-
-

@@ -1,119 +1,36 @@
-
-
-
-
-Userboxes
-
-
-
-
-
-
-
-
-This user is a member of the 
-Small Wiki Monitoring Team
-.
-
-
-This user operates 
-DreamRimmer bot III
-, 
-DreamRimmer bot
- and 
-DreamRimmer bot II
-.
-
-
-This user tries to do the right thing. If they make a mistake, please 
-let them know
-.
-
-
-
-
-I created my account in April 2021, but I really got into editing in March 2023. Editing articles about Indian films and politics is something I truly enjoy, and I am equally fascinated by German history and politics. Turkish cinema is another area of interest for me. I write bots, regularly combat vandalism. I am mainly a tech person. I have created many 
+I created my account in April 2021, but I really got into editing in March 2023. Editing articles about Indian films and politics is something I truly enjoy, and I am equally fascinated by German history and politics. Turkish cinema is another area of interest for me. I write bots, regularly combat vandalism. I am mainly a tech person. I have created many
 user scripts
- and tools and contributed code on Gerrit and GitHub.
-
-I currently run three bots: 
+and tools and contributed code on Gerrit and GitHub.
+I currently run three bots:
 DreamRimmer bot III
- (
+(
 talk
- 
 ·
- 
 contribs
-), 
+),
 DreamRimmer bot
- (
+(
 talk
- 
 ·
- 
 contribs
-), and 
+), and
 DreamRimmer bot II
- (
+(
 talk
- 
 ·
- 
 contribs
 ).
-Alt account:  
+Alt account:
 en:User:DreamRimmer Alt
 , mainly for AWB, Huggle and AntiVandal
-
-
-
-Quick links
-
-
 Global_renamers/Stats
-
-
 User:DreamRimmer/AdminStats
-
-
 User:DreamRimmer/GlobalSysopStats
-
-
-Tools
-
-
 https://galaxybots.toolforge.org/g13reports
-
-
 https://galaxybots.toolforge.org/iprangecalculator
-
-
 https://insource.toolforge.org
-
-
 http://baranbot.toolforge.org
-
-
 https://restrictionscan.toolforge.org
-
-
-Maintainer
-
-
 en:User:PearBOT
-
-
 https://ftools.toolforge.org
-
-
 https://arandomtest123.toolforge.org
-
-
-Committed identity
-: 
-6d9787fbffd5d2be4217897a85a3140836cf9ff104d3b13204685adb1ef42663550e9aefb0747e1662fcd23f90c4c41119a07c4e70ed4f9fe7c00443e2e7fe61
- is a 
-SHA-512
- 
-commitment
- to this user's real-life identity.

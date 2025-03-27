@@ -1,35 +1,23 @@
-This account is provided by MediaWiki's 
+This account is provided by MediaWiki's
 MassMessage
- extension and delivers messages to users as requested by them. Any user with the 'massmessage' right can send such messages via 
+extension and delivers messages to users as requested by them. Any user with the 'massmessage' right can send such messages via
 Special:MassMessage
- on a local wiki. Messages may also be sent from 
+on a local wiki. Messages may also be sent from
 Meta-Wiki
- to any wiki.
-
-It is also used by the 
+to any wiki.
+It is also used by the
 TranslationNotifications extension
- to deliver talk page messages based on the translators' 
+to deliver talk page messages based on the translators'
 notification preferences
 .
-
-To review past mass message deliveries, please consult the mass message log. The 
+To review past mass message deliveries, please consult the mass message log. The
 log on Meta
- includes global message deliveries, while each wiki's 
+includes global message deliveries, while each wiki's
 local log
- shows message deliveries local to that wiki.
-
-To quickly see who sent a given message, there is also a hidden comment in the wikitext source of the text added, indicating who sent the message, what wiki they sent it from, and what input list was used. If you do not wish to receive any messages, add your user talk page to 
+shows message deliveries local to that wiki.
+To quickly see who sent a given message, there is also a hidden comment in the wikitext source of the text added, indicating who sent the message, what wiki they sent it from, and what input list was used. If you do not wish to receive any messages, add your user talk page to
 Category:Opted-out of message delivery
 .
-
 Although this user has bot rights, it only marks its edits with the bot flag when leaving messages on user talk pages.
-
-
-
-See also
-
-
 MassMessage
-
-
 Help:Extension:MassMessage

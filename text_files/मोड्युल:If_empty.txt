@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Module documentation
+Module documentation
 [
 view
 ] [
@@ -309,10 +303,3 @@ end
 return
  
 p
-
-
-
-
-
-
-

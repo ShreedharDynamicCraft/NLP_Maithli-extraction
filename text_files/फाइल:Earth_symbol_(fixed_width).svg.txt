@@ -1,84 +1,3 @@
-सङ्क्षेप
-
-
-
-
-
-
-
-
-जानकारी
-Earth symbol (fixed width).svg
-
-
-
-
-English: 
- U+1F728 🜨: Planetary symbol for the Earth; Daltonian symbol for sulphur when red. Unicode identifies it as a symbol for verdigris.
-
-
-
-
-
-
-दिनाङ्क
-
-
-
-
-२८ सितम्बर २०२१
-
-
-
-
-
-
-स्रोत
-
-
-
-suberic.net/~dmm/astro/index.html
-
-
-
-
-
-
-लेखक
-
-
-
-Denis Moskowitz
-
-
-
-
-
-
-दूसरे संस्करण
-
-
-
-
-Sulphur symbol (Dalton).svg
-: 
-, 
-Verdigris symbol (medieval).svg
-: 
-
-
-
-
-
-
-
-
-अधिकृत करब
-
-
-
-
- 
 इस फ़ाइल को 
 क्रिएटिव कॉमन्स
  
@@ -111,54 +30,34 @@ CC BY-SA 4.0
 Creative Commons Attribution-Share Alike 4.0 
 true
 true
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
 अंगरेजी
 Astronomical symbol for Earth, derived from medieval depictions of the world as quadrisected after the time of Eden
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 खगोलीय चिन्ह
  
-हिन्दी
 प्रयुक्त हिस्सा
  
-हिन्दी
 : 
 पृथ्वी
 इस पर आधारित
  
-हिन्दी
 : 
 four corners of the world
  
-अंगरेजी
 कॉपीराइट की स्थिति
  
-हिन्दी
 कॉपीराइट के अंतर्गत
  
-हिन्दी
 अनुज्ञप्ति
  
-हिन्दी
 Creative Commons Attribution-ShareAlike 4.0 International
  
-अंगरेजी
 निर्माण की तिथि
  
-हिन्दी
 २८ सितम्बर 2021
 media type
  
-अंगरेजी
 image/svg+xml
-
-
-
-
-
-
-

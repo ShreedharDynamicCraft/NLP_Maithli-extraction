@@ -1,62 +1,20 @@
-Hey, I'm 
+Hey, I'm
 Sarthak Parashar
- from India. I'm a technical contributor at Mediawiki but I also have an interest to work in Wikimedia Commons & Wikidata.
-
-
-
-My Work
-
-
- Technical Contributions 
-
-
-
-
+from India. I'm a technical contributor at Mediawiki but I also have an interest to work in Wikimedia Commons & Wikidata.
+Technical Contributions
 https://github.com/indictechcom/indic-wsstats/pull/7
-
-
 https://github.com/Jayprakash-SE/imagebulk/pull/1
-
-
 https://gerrit.wikimedia.org/r/c/mediawiki/extensions/CountDownClock/+/793803
-
-
 https://gerrit.wikimedia.org/r/c/labs/tools/bookreader/+/795247
-
-
 https://gerrit.wikimedia.org/r/c/labs/tools/bookreader/+/795248
-
-
 https://github.com/Jayprakash-SE/wscontest-backend/pull/1
-
-
 https://github.com/indictechcom/indic-wsstats/pull/17
-
-
 https://github.com/indictechcom/indic-wsstats/pull/18
-
-
 https://github.com/indictechcom/indic-wsstats/pull/19
-
-
 https://github.com/indictechcom/indic-wsstats/pull/20
-
-
 https://github.com/indictechcom/indic-wsstats/pull/21
-
-
- Program Outcomes of Wikimania 2022 regional event in Bangalore, India  
-
-
-
-
+Program Outcomes of Wikimania 2022 regional event in Bangalore, India
 https://github.com/Jayprakash-SE/indic-ocr/pull/4
-
-
 https://github.com/Jayprakash-SE/indic-ocr/pull/5
-
-
 https://github.com/Jayprakash-SE/indic-ocr/pull/6
-
-
 https://github.com/Jayprakash-SE/indic-ocr/pull/7

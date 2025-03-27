@@ -1,181 +1,3 @@
-सङ्क्षेप
-
-
-
-
-
-
-
-
-जानकारी
-US insular areas.svg
-
-
-
-
-English: 
- This is a map of the 
-insular areas
- of the 
-United States
-.
-
-
-
-English
- (en):  This map is color-coded according to each territory's status.
-
-
-
-
-
-
-
- 
- The 
-50 states
- and the 
-District of Columbia
-
-
- 
- Incorporated, unorganized territory
-
-
- 
- Unincorporated territory with Commonwealth status
-
-
- 
- Unincorporated, organized territory
-
-
- 
- Unincorporated, unorganized territory
-
-
- 
- 
-Compact of Free Association
-
-
-
-
-Version descriptions:
-
-
-
-
-Version 1: The first version of this map was based off 
-File:BlankMap-World-v6.png
- by 
-User:Astrokey44
- with the locations of a few islands added; the source for this are two CIA maps; the maps are a 
-map of the Pacific region
- and a map of the 
-United States Pacific Island Wildlife Refuges
-. Hawaii has also been added to the map. Names of the islands are from the CIA Factbook.
-
-
-Version 2: The second version is based off 
-File:Dependent territories 2007.png
- by 
-User:Sesmith
-. Additional attribution includes 
-User:Hoshie 
- and 
-User:KronosLine
-.
-
-
-Version 3: The third version incorporated all of the above in an SVG re-creation using 
-File:OCDE World Map.svg
- by 
-User:Mark Miller
-.
-
-
-Version 4 (Current): The current version incorporated all of the above in an SVG re-creation using 
-File:BlankMap-World.svg
- by 
-Pharexia
-.
-
-
-
-
-
-
-स्रोत
-
-
-
-For the PNG image this maps is based off, see 
-File:US insular areas.png
-. For an uncolor-coded map, see 
-File:US insular areas-B.png
-. For a version with the freely associated states, see 
-File:US insular areas FAS.png
-.
-
-
-
-
-
-
-लेखक
-
-
-
-
-Svenskbygderna
- 
-(
-talk
-) 
- 
-(latest revision)
-
-
-
-
-SVG 
-genesis
-InfoField
- 
-The 
-SVG
- code is 
-valid
-.
- 
-इस  
-वेक्टर चित्र
- को 
-Inkscape
- की मदद से बनाया गया था.
- 
- This 
-world map
- uses  
-embedded
- text that can be 
-easily translated
- using a text editor.
-
-
-
-
-
-
-
-
-अधिकृत करब
-
-
-
-
- 
 ई फाइल लाइसेन्सड अछि एहि अन्तर्गत 
 क्रिएटिभ कमन्स
  
@@ -208,36 +30,21 @@ CC BY-SA 3.0
 Creative Commons Attribution-Share Alike 3.0 
 true
 true
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
 रूसी
 Островные территории США
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 No value exists for this property
 कॉपीराइट की स्थिति
  
-हिन्दी
 कॉपीराइट के अंतर्गत
  
-हिन्दी
 अनुज्ञप्ति
  
-हिन्दी
 क्रिएटिव कॉमन्स Attribution-ShareAlike 3.0 Unported
  
-हिन्दी
 media type
  
-अंगरेजी
 image/svg+xml
-
-
-
-
-
-
-

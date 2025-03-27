@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Template documentation
+Template documentation
 [
 create
 ] [
@@ -32,10 +26,3 @@ Add categories to the
  subpage. 
 Subpages of this template
 .
-
-
-
-
-
-
-

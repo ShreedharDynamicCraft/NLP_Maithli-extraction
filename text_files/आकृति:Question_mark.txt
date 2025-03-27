@@ -37,10 +37,3 @@ Add categories to the
  subpage. 
 Subpages of this template
 .
-
-
-
-
-
-
-

@@ -1,158 +1,3 @@
-सङ्क्षेप
-
-
-
-
-
-
-
-
-जानकारी
-Ambox globe.svg
-
-
-
-A new globe icon in the Ambox style
-
-
-
-
-
-
-दिनाङ्क
-
-
-
-
-२ मई २००८
-
-
-
-
-
-
-स्रोत
-
-
-
-इसपर आधारित अपना कार्य: 
-Information icon3.svg
- और 
-Earth clip art.svg
-
-
-
-
-
-
-लेखक
-
-
-
-
-penubag
-
-
-
-
-
-
-अनुमति
-(
-ई फाइलक पुनः उपयोग
-)
-
-
-
-
-
-
-
-
-Public domain
-Public domain
-false
-false
-
-
-
-
-
-
-
-
-
-
-
-
-इस कार्य को इसके लेखक, 
-penubag
- द्वारा 
-सार्वजनिक डोमेन
- में प्रकाशित किया गया है। यह पूरे विश्व में लागू होता है।
-
-
-कुछ देशों में यह कानूनी तौर पर नहीं हो सकता है; ऐसा हो तो:
-
-
-penubag
- सभी को इस कार्य का इस्तेमाल 
-किसी भी उद्देश्य
- से, बिना किसी बाधाओं के इन शर्तों के कानून द्वारा अनिवार्य किए तक करने की अनुमति देता/देती हैं।
-
-
-
-
-
-
-
-
-
-
-दूसरे संस्करण
-
-
-
-
-[
-सम्पादन
-]
-
-•
-
-
-
-
-
-
-
-
-
-
-
-
-SVG 
-genesis
-InfoField
- 
-इस  
-SVG
- का स्रोत कोड एक त्रुटि के कारण 
-अमान्य
- है।
- 
-इस W3Cअमान्य 
-वेक्टर चित्र
- को 
-Inkscape
- की मदद से बनाया गया था.
-
-
-
-
-
-
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
 अंगरेजी
@@ -161,58 +6,38 @@ Map of the world with circular borders
 Mapa del mundo con bordes circulares
 टर्किश
 anani
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 कॉपीराइट की स्थिति
  
-हिन्दी
 copyrighted, dedicated to the public domain by copyright holder
  
-अंगरेजी
 अनुज्ञप्ति
  
-हिन्दी
 released into the public domain by the copyright holder
  
-अंगरेजी
 निर्माण की तिथि
  
-हिन्दी
 २ मई 2008
 media type
  
-अंगरेजी
 image/svg+xml
 checksum
  
-अंगरेजी
 a746f2e3a849d0123dd5b2d236aa4b2e357c79ae
 निर्धारण विधि
  
-हिन्दी
 : 
 SHA-1
 data size
  
-अंगरेजी
 ४,११७ 
 बाइट
 ऊँचाई
  
-हिन्दी
 ५१२ 
 पिक्सल
 width
  
-अंगरेजी
 ५१२ 
 पिक्सल
-
-
-
-
-
-
-

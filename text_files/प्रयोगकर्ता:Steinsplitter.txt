@@ -1,7 +1,3 @@
-
-
-
-
 Hello, I am Steinsplitter from 
 Tyrol
 . Feel free to contact me if you have any questions 
@@ -40,10 +36,3 @@ de-4
 en-2
  - 
 it-2
-
-
-
-
-
-
-

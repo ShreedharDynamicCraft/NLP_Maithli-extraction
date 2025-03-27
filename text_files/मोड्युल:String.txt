@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Module documentation
+Module documentation
 [
 view
 ] [
@@ -14,29 +8,6 @@ history
 ] [
 purge
 ]
-
-
-
-
-
-
-
-
-
-
- 
-ई आकृति कऽ प्रयोग 
-1,800,000+ पृष्ठसभमे
- कएल जा रहल अछि ।
-पैग मात्रामे व्यवधान आ अनावश्यक सर्भर लोडसँ वचवाक लेल, कोनो भी परिवर्तनके पहिने ई आकृतिके 
-/प्रयोगपृष्ठ
- उपपृष्ठ या अपन 
-उपयोगकर्ता स्थान
- पर जाँचि कऽ देखी । जाँचल गेल परिवर्तनके ई आकृतिमे एक बेरमे जोड़ल जा सकैत अछि । अन्य उपयोगकर्ताक लेल, परिवर्तन करिसँ पहिने एहिसँ सम्बन्धित वार्तालाप 
-वार्ता पृष्ठ
- पर करी । 
-
-
 
 
 
@@ -82,7 +53,6 @@ Most of the functions provided here can be invoked with named parameters, unname
 
 
 
-Global options
 [
 सम्पादन करी
 ]
@@ -114,7 +84,6 @@ Module:String/testcases
 
 
 
-len
 [
 सम्पादन करी
 ]
@@ -150,7 +119,6 @@ s
 The string whose length to report
 
 
-sub
 [
 सम्पादन करी
 ]
@@ -213,7 +181,6 @@ If the requested indices are out of range for the given string, an error is repo
 
 
 
-sublength
 [
 सम्पादन करी
 ]
@@ -225,7 +192,6 @@ Str sub old
 
 
 
-match
 [
 सम्पादन करी
 ]
@@ -332,7 +298,6 @@ http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Patterns
 http://www.mediawiki.org/wiki/Extension:Scribunto/Lua_reference_manual#Ustring_patterns
 
 
-pos
 [
 सम्पादन करी
 ]
@@ -387,7 +352,6 @@ A requested value of zero, or a value greater than the length of the string retu
 
 
 
-str_find
 [
 सम्पादन करी
 ]
@@ -403,7 +367,6 @@ Important Note: If the "target" string is empty / missing, this function returns
 
 
 
-find
 [
 सम्पादन करी
 ]
@@ -479,7 +442,6 @@ This function should be safe for UTF-8 strings.
 
 
 
-replace
 [
 सम्पादन करी
 ]
@@ -561,7 +523,6 @@ regular expression
 ); defaults to true
 
 
-rep
 [
 सम्पादन करी
 ]
@@ -4698,10 +4659,3 @@ end
 return
  
 str
-
-
-
-
-
-
-

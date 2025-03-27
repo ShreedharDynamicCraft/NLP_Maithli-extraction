@@ -1,262 +1,8 @@
-सङ्क्षेप
-
-
-
-
-
-
-
-
-जानकारी
-Nepal (orthographic projection).svg
-
-
-
-
-English: 
- Locator map of Nepal in orthographic projection
-
-
-
-
-
-
-दिनाङ्क
-
-
-
-
-५ अक्टुबर २००९
-
-
-
-
-
-
-स्रोत
-
-
-
-इसपर आधारित अपना कार्य: 
-India (orthographic projection).svg
- 
-by
- 
-Ssolbergj
-
-
-
-
-
-
-लेखक
-
-
-
-
-Shahid Parvez
-. Based on a file by 
-Ssolbergj
-
-
-
-
-SVG 
-genesis
-InfoField
- 
-The 
-SVG
- code is 
-valid
-.
- 
-इस  
-वेक्टर चित्र
- को 
-Adobe Illustrator
- की मदद से बनाया गया था,
- 
-and with Inkscape.
- 
-This  
-Adobe
- 
-SVG
- 
-world map
- is very large because its creator kept the superfluous Adobe 
-PGF
- or other 
-CDATA
- garbage
-.
-
-
-
-
-
-
-
-
-अधिकृत करब
-
-
-
-
-
-
-
-
-
-
-The map has been created with the 
-Generic Mapping Tools
-: 
-https://www.generic-mapping-tools.org/
- using one or more of these 
-public-domain
- datasets for the relief:
-
-ETOPO2 (
-topography
-/
-bathymetry
-): 
-http://www.ngdc.noaa.gov/mgg/global/global.html
-
-
-GLOBE (
-topography
-): 
-http://www.ngdc.noaa.gov/mgg/topo/gltiles.html
-
-
-SRTM (
-topography
-): 
-http://www2.jpl.nasa.gov/srtm/
-
-
-
-
-বাংলা
- 
-∙
- 
-English
- 
-∙
- 
-español
- 
-∙
- 
-français
- 
-∙
- 
-italiano
- 
-∙
- 
-日本語
- 
-∙
- 
-македонски
- 
-∙
- 
-sicilianu
- 
-∙
- 
-中文（简体）
- 
-∙
- 
-中文（繁體）
- 
-∙
- 
-+/−
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ई दस्तावेजके 
-मुक्त सफ्टवेयर फाउन्डेसन
-द्वारा प्रकाशित 
-जिएनयु मुक्त डक्युमेन्टेसन लाइसेन्स
-क संस्करण १.२ या नव (बिना कोनो इन्वेरिएन्ट अनुभागसभ आ आगु आ पिछुल्का आवरणक पाठ)के अन्तर्गत कपी, वितरित एवं/अथवा परिवर्तित करैक लेल अनुमति प्रदान कएल जाइत अछि । ई लाइसेन्सक एक प्रति 
-जिएनयु मुक्त डक्युमेन्टेसन लाइसेन्स
- नामक अनुभागमे शामिल अछि ।
-http://www.gnu.org/copyleft/fdl.html
-GFDL
-GNU Free Documentation License
-true
-true
-
-
-
-
-मूल अपलोड लॉग
-
-
 The original description page was 
 here
 . All following user names refer to en.wikipedia.
 
 
-
-
-
-
-Upload date
-
-
-User
-
-
-Bytes
-
-
-Dimensions
-
-
-Comment
-
-
-
-
-
-2009-10-05 17:31:42
-
-
-Parvez gsm
-
-
-513232
-
-
-541×541
-
-
-{{Information |Description = Nepal orthographic_projection |Source = I have created this work entirely by myself. |Date = October 5th,2009 |Author = Shahid Parvez |other_versions = }}
-
-
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
 अंगरेजी
@@ -265,35 +11,20 @@ Nepal (orthographic projection)
 โลกใหม่
 फ़्रेंच
 Globe terrestre avec le Népal en vert.
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 नेपाल
 कॉपीराइट की स्थिति
  
-हिन्दी
 कॉपीराइट के अंतर्गत
  
-हिन्दी
 अनुज्ञप्ति
  
-हिन्दी
 GNU Free Documentation License, version 1.2 or later
  
-अंगरेजी
 निर्माण की तिथि
  
-हिन्दी
 ५ अक्टुबर 2009
 media type
  
-अंगरेजी
 image/svg+xml
-
-
-
-
-
-
-

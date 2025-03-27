@@ -1,14 +1,4 @@
-
-
-
-
-
-
-
-
-
-
- Template documentation
+Template documentation
 [
 view
 ] [
@@ -18,29 +8,6 @@ history
 ] [
 purge
 ]
-
-
-
-
-
-
-
-
-
-
- 
-ई आकृति कऽ प्रयोग 
-190,000+ पृष्ठसभमे
- कएल जा रहल अछि ।
-पैग मात्रामे व्यवधान आ अनावश्यक सर्भर लोडसँ वचवाक लेल, कोनो भी परिवर्तनके पहिने ई आकृतिके 
-/प्रयोगपृष्ठ
- उपपृष्ठ या अपन 
-उपयोगकर्ता स्थान
- पर जाँचि कऽ देखी । जाँचल गेल परिवर्तनके ई आकृतिमे एक बेरमे जोड़ल जा सकैत अछि । अन्य उपयोगकर्ताक लेल, परिवर्तन करिसँ पहिने एहिसँ सम्बन्धित वार्तालाप 
-वार्ता पृष्ठ
- पर करी । 
-
-
 
 
 
@@ -55,7 +22,6 @@ It helps other templates detect if they are on a "Template:" page or some "other
 
 
 
-Usage
 [
 सम्पादन करी
 ]
@@ -95,7 +61,6 @@ Note that in the example above the "template" parameter was left empty.
 
 
 
-Demospace
 [
 सम्पादन करी
 ]
@@ -153,7 +118,6 @@ demospace
 
 
 
-Technical details
 [
 सम्पादन करी
 ]
@@ -169,7 +133,6 @@ main talk other
 
 
 
-See also
 [
 सम्पादन करी
 ]
@@ -354,10 +317,3 @@ Add categories to the
  subpage. 
 Subpages of this template
 .
-
-
-
-
-
-
-

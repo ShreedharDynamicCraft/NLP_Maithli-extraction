@@ -1,148 +1,17 @@
-सङ्क्षेप
-
-
-
-
-
-
-
-
-जानकारी
-MediaWiki Vector skin blue star watchlist icon.svg
-
-
-
-
-English: 
- Blue star watchlist icon from the Vector skin of MediaWiki. Indicates the page is currently watched.
-
-
-
-
-
-
-दिनाङ्क
-
-
-
-
-१३ मई २०१०
-
-
-
-
-
-
-स्रोत
-
-
-
-
-https://en.wikipedia.org/wiki/Main_Page
-
-
-
-
-
-
-लेखक
-
-
-
-Wikimedia Foundation and MediaWiki volunteers
-
-
-
-
-SVG 
-genesis
-InfoField
- 
-The 
-SVG
- code is 
-valid
-.
- 
-This  icon was created with a 
-text editor
-.
-
-
-
-
-
-
-
-
-अधिकृत करब
-
-
-
-
-
-
-
-
-
-
-
-
-This work is 
-free software
-; you can redistribute it and/or modify it under the terms of the 
-GNU General Public License
- as published by the 
-Free Software Foundation
-; either version 2 of the License, or any later version. This work is distributed in the hope that it will be useful, but 
-without any warranty
-; without even the implied warranty of 
-merchantability
- or 
-fitness for a particular purpose
-. See 
-version 2
- and 
-version 3 of the GNU General Public License
- for more details.
-http://www.gnu.org/licenses/gpl.html
-GPL
-GNU General Public License
-true
-true
-
-
-
-
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
 अंगरेजी
 Blue star watchlist icon from the Vector skin of MediaWiki. Indicates the page is currently watched.
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 कॉपीराइट की स्थिति
  
-हिन्दी
 कॉपीराइट के अंतर्गत
  
-हिन्दी
 अनुज्ञप्ति
  
-हिन्दी
 GNU General Public License, version 2.0 or later
  
-अंगरेजी
 निर्माण की तिथि
  
-हिन्दी
 १३ मई 2010
-
-
-
-
-
-
-

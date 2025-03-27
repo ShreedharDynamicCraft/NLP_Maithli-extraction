@@ -1,12 +1,4 @@
-
-
-
-
-
-
-
-
- Template documentation
+Template documentation
 [
 view
 ] [
@@ -28,74 +20,6 @@ Template:Userboxक
 
 
 
-
-
-
-
- 
-ई आकृति कऽ प्रयोग 
-2,200,000+ पृष्ठसभमे
- कएल जा रहल अछि ।
-पैग मात्रामे व्यवधान आ अनावश्यक सर्भर लोडसँ वचवाक लेल, कोनो भी परिवर्तनके पहिने ई आकृतिके 
-/प्रयोगपृष्ठ
- उपपृष्ठ या अपन 
-उपयोगकर्ता स्थान
- पर जाँचि कऽ देखी । जाँचल गेल परिवर्तनके ई आकृतिमे एक बेरमे जोड़ल जा सकैत अछि । अन्य उपयोगकर्ताक लेल, परिवर्तन करिसँ पहिने एहिसँ सम्बन्धित वार्तालाप 
-वार्ता पृष्ठ
- पर करी । 
-
-
-
-
-This template uses 
-Lua
-:
-
-Module:Infobox
-
-
-{{{title}}}
-{{{above}}}
-{{{subheader}}}
-{{{subheader2}}}
-......
-{{{subheader20}}}
-{{{image}}}
-{{{caption}}}
-{{{image2}}}
-{{{caption2}}}
-......
-{{{image20}}}
-{{{caption20}}}
-{{{header1}}}
-( 
-or
- )
-{{{label1}}}
-{{{data1}}}
-( 
-or
- )
-{{{data1}}}
-{{{header2}}}
-( 
-or
- )
-{{{label2}}}
-{{{data2}}}
-( 
-or
- )
-{{{data2}}}
-( 
-etc
- )
-{{{below}}}
-v
-t
-e
-
-
 This template is intended as a meta-template: a template used for constructing other templates. 
 Note
 : In general, it is not meant for use directly in an article, but can be used on a one-off basis if required. 
@@ -110,7 +34,6 @@ Category:Infobox templates
 
 
 
-Usage
 [
 सम्पादन करी
 ]
@@ -124,7 +47,6 @@ To insert an image somewhere other than at the top of the infobox, or to insert 
 
 
 
-Optional control parameters
 [
 सम्पादन करी
 ]
@@ -160,7 +82,6 @@ decat
 If this is set to "yes", the current page will not be autocategorized in a maintenance category when the generated infobox has some problems or no visible data section. Leave empty by default or set to "yes" to activate it.
 
 
-Content parameters
 [
 सम्पादन करी
 ]
@@ -200,11 +121,6 @@ Examples:
 
 
 
-Text in caption over infobox
-Subheader of the infobox
-v
-t
-e
 
 
 {{Infobox
@@ -216,12 +132,6 @@ e
 
 
 
-Text in uppermost cell of infobox
-Subheader of the infobox
-Second subheader of the infobox
-v
-t
-e
 
 
 {{Infobox
@@ -426,11 +336,6 @@ You can also make headers optional in a similar way. Consider this example:
 
 
 
-Example of an undesirable header
-Undesirable header
-Static header
-Static item
-Static value
 
 
 {{Infobox
@@ -449,10 +354,6 @@ If you want the first header to appear only if one or more of the data fields th
 
 
 
-Example of an optional header
-Static header
-Static item
-Static value
 
 
 {{Infobox
@@ -487,7 +388,6 @@ below
 Text to put in the bottom cell. The bottom cell is intended for footnotes, see-also, and other such information.
 
 
-Presentation parameters
 [
 सम्पादन करी
 ]
@@ -719,7 +619,6 @@ microformat
 
 
 
-Examples
 [
 सम्पादन करी
 ]
@@ -743,20 +642,6 @@ above
 
 
 
-Test Infobox
-Above text
-Subheader above image
-Second subheader
-Caption displayed below example.png
-Header defined alone
-Data defined alone
-All three defined (header, label, data, all with same number)
-Label and data defined (label)
-Label and data defined (data)
-Below text
-v
-t
-e
 
 
 {{Infobox
@@ -810,20 +695,6 @@ labelstyle
 
 
 
-Test Infobox
-Label 1
-Data 1
-Label 2
-Data 2
-Label 3
-Data 3
-Header 4
-Label 5
-Data 5: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Below text
-v
-t
-e
 
 
 {{Infobox
@@ -859,7 +730,6 @@ e
 
 
 
-Embedding
 [
 सम्पादन करी
 ]
@@ -873,18 +743,6 @@ One infobox template can be embedded into another using the
 
 
 
-Top level title
-First subsection
-Label 1.1
-Data 1.1
-
-
-Second subsection
-Label 2.1
-Data 2.1
-
-
-Below text
 
 
 {{Infobox
@@ -917,18 +775,6 @@ label
 
 
 
-Top level title
-First subsection
-Label 1.1
-Data 1.1
-
-
-Second subsection
-Label 2.1
-Data 2.1
-
-
-Below text
 
 
 {{Infobox
@@ -953,20 +799,6 @@ or,
 
 
 
-Top level title
-First subsection
-   
-Label 1.1
-Data 1.1
-
-
-Second subsection
-   
-Label 2.1
-Data 2.1
-
-
-Below text
 
 
 {{Infobox
@@ -993,7 +825,6 @@ Note that omitting the
 
 
 
-Subboxes
 [
 सम्पादन करी
 ]
@@ -1005,17 +836,6 @@ An alternative method for embedding is to use
 
 
 
-Main 1
-Main 2
-Sub 3-1
-Sub 3-2
-Label 3-3
-Data 3-3
-Label 4-1
-Data 4-1
-Label 5
-Data 5
-Main 6
 
 
 {{Infobox
@@ -1048,41 +868,6 @@ Sidebar
 
 
 
-Heading 1
-
-
-
-
-Heading 2
-
-
-
-
-
-
-Sub 3-1
-Sub 3-2
-Label 3-3
-Data 3-3
-
-
-
-
-
-
-Label 4-1
-Data 4-1
-
-
-
-
-Heading 5
-
-
-
-
-
-
 {{Sidebar
  | navbar = off
  | headingstyle = background-color:#eee;
@@ -1108,7 +893,6 @@ Note that the default padding of the parent data cell containing each subbox is 
 
 
 
-Full blank syntax
 [
 सम्पादन करी
 ]
@@ -1209,7 +993,6 @@ Full blank syntax
 
 
 
-Limitations
 [
 सम्पादन करी
 ]
@@ -1223,15 +1006,6 @@ For example, this code will display properly:
 
 
 
-Section 1
-Label A
-Data A
-Data B
-Label C
-Data C
-Section 2
-Label D
-Data D
 
 
 
@@ -1274,9 +1048,6 @@ But in this code, only Section 1, Label A and Data A will be displayed, because 
 
 
 
-Section 1
-Label A
-Data A
 
 
 
@@ -1319,15 +1090,6 @@ Note that parameter values may be blank - parameters are counted unless they are
 
 
 
-Section 1
-Label A
-Data A
-Data B
-Label C
-Data C
-Section 2
-Label D
-Data D
 
 
 
@@ -1379,9 +1141,6 @@ data(n)
 
 
 
-Section 1
-Label A
-Data A
 
 
 
@@ -1431,7 +1190,6 @@ subheader(n)
 
 
 
-Porting to other MediaWikis
 [
 सम्पादन करी
 ]
@@ -1447,7 +1205,6 @@ WikiProject Transwiki
 
 
 
-See also
 [
 सम्पादन करी
 ]
@@ -1518,12 +1275,3 @@ Add categories to the
  subpage. 
 Subpages of this template
 .
-
-
-
-
-
-
-
-
-

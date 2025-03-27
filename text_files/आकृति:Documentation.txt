@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Template documentation
+Template documentation
 [
 view
 ] [
@@ -18,35 +12,6 @@ purge
 
 
 
-
-
-
-
-
-
- 
-This template is used on 
-many pages
-, so changes to it will be widely noticed. Please test any changes in the template's 
-/sandbox
- or 
-/testcases
- subpages, or in your own 
-user subpage
-. Please consider discussing changes on the 
-talk page
- before implementing them. 
-
-
-
-
-
-
-This template uses 
-Lua
-:
-
-Module:Documentation
 
 
 This is the 
@@ -79,7 +44,6 @@ protected
 
 
 
-Usage
 [
 सम्पादन करी
 ]
@@ -237,7 +201,6 @@ content
 
 
 
-Shortcut
 [
 सम्पादन करी
 ]
@@ -255,7 +218,6 @@ substitution
 {{subst:doc-code}}
 
 
-Best practice
 [
 सम्पादन करी
 ]
@@ -289,7 +251,6 @@ Template:tag
 
 
 
-Heading
 [
 सम्पादन करी
 ]
@@ -350,7 +311,6 @@ CSS
 heading-style=font-size:150%;color:red;
 
 
-Link box
 [
 सम्पादन करी
 ]
@@ -376,7 +336,6 @@ You can also insert customised text into the link box, by setting the
 
 
 
-Automatic functions
 [
 सम्पादन करी
 ]
@@ -400,7 +359,6 @@ Template sandbox notice
 
 
 
-Subject namespaces vs. talk namespaces
 [
 सम्पादन करी
 ]
@@ -435,7 +393,6 @@ This template automatically points its [create] links for the /doc, /sandbox and
 
 
 
-Testing
 [
 सम्पादन करी
 ]
@@ -457,7 +414,6 @@ module testcases page
 
 
 
-Technical details
 [
 सम्पादन करी
 ]
@@ -500,7 +456,6 @@ Full syntax
 
 
 
-See also
 [
 सम्पादन करी
 ]
@@ -573,10 +528,3 @@ Add categories to the
  subpage. 
 Subpages of this template
 .
-
-
-
-
-
-
-

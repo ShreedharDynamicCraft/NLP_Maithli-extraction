@@ -1,25 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Peter Pelberg Product Manager
 
 
@@ -41,7 +19,6 @@ David Bohm
 
 
 
-About me
 
 
 
@@ -71,7 +48,6 @@ PPelberg (WMF)/Greenhouse
 
 
 
-My work
 
 
 
@@ -93,7 +69,6 @@ Disclaimer:
 
 
 
-Contact me
 
 
 
@@ -109,10 +84,3 @@ Are.na:
 Time zone: 
 Pacific
  (UTC−8)
-
-
-
-
-
-
-

@@ -1,24 +1,19 @@
-Experimental bot by 
+Experimental bot by
 Magnus Manske
-. It generates and updates lists on Wikipedia based on Wikidata. 
+. It generates and updates lists on Wikipedia based on Wikidata.
 Example
 .
-
-
-Use the local version of 
+Use the local version of
 Template:Wikidata list
- and 
+and
 Template:Wikidata list end
- to define a list on a page.
-
-Lists are based on SPARQL queries at 
+to define a list on a page.
+Lists are based on SPARQL queries at
 Wikidata Query Service
-. For help about these, see 
+. For help about these, see
 Wikidata Query Help
-. You can request a query to be written for you at 
+. You can request a query to be written for you at
 Request a query
 .
-
-To report issues or propose new ideas, click on 
+To report issues or propose new ideas, click on
 Support
-

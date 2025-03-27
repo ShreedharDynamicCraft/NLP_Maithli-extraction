@@ -1,137 +1,4 @@
-सङ्क्षेप
-
-
-
-
-कैमरा स्थान
-१०° ००′ ००″ N, १५° ००′ ००″ E
- 
-यह और अन्य आसपास की छवियों यहां पर देखें: 
-ओपन स्ट्रीट मैप
- 10.000000;   15.000000
-
-
-
-
-
-
-
-
-
-
-जानकारी
-Arab world location map.svg
-
-
-
-
-English: 
- Blank administrative map of political 
-Arab world
- as in 2011-12, for geo-location purposes. On English Wikipedia, in "
-Template:Location_map_Arab_world
-" to set marker along curved latitude/longitude lines.
-
-
-
-
-
-
-दिनाङ्क
-
-
-
-
-१९ दिसम्बर २०११
-
-
-
-
-
-
-स्रोत
-
-
-
-
-अपन काम
-
-
-
-
-
-
-लेखक
-
-
-
-
-Faycal.09
-
-
-
-
-SVG 
-genesis
-InfoField
- 
-The 
-SVG
- code is 
-valid
-.
- 
-इस  
-वेक्टर चित्र
- को 
-Inkscape
- की मदद से Faycal द्वारा बनाया गया था.
-This 
-locator map
- is not a real 
-SVG
- file and is just a 
-wrapper
- containing one or more raster graphics without vector coding.
-Using SVG as just a wrapper is undesirable.
-Note:
- This template should be used if the SVG file contains only raster graphics. If the SVG file contains both vector and raster graphics, then use 
-{{BadSVG}}
-.
-
-
-
-
-
-
-
-
-अधिकृत करब
-
-
 मैं, इस कार्य का/की कॉपीराइट धारक, इसे निम्न लाइसेंसों के अंतर्गत प्रकाशित करता/करती हूँ:
-
-
-
-
-
-
-
-
-
-
-ई दस्तावेजके 
-मुक्त सफ्टवेयर फाउन्डेसन
-द्वारा प्रकाशित 
-जिएनयु मुक्त डक्युमेन्टेसन लाइसेन्स
-क संस्करण १.२ या नव (बिना कोनो इन्वेरिएन्ट अनुभागसभ आ आगु आ पिछुल्का आवरणक पाठ)के अन्तर्गत कपी, वितरित एवं/अथवा परिवर्तित करैक लेल अनुमति प्रदान कएल जाइत अछि । ई लाइसेन्सक एक प्रति 
-जिएनयु मुक्त डक्युमेन्टेसन लाइसेन्स
- नामक अनुभागमे शामिल अछि ।
-http://www.gnu.org/copyleft/fdl.html
-GFDL
-GNU Free Documentation License
-true
-true
 
 
 
@@ -174,97 +41,68 @@ true
 
 
 अहाँ अपन पसन्दक लाइसेन्स चुनि सकैत छी।
-Captions
 मैथिली
 Add a one-line explanation of what this file represents
 अंगरेजी
 Arab World Countries
 Chinese (Taiwan)
 2011-12 年阿拉伯政治世界的空白行政地圖，用於地理定位。 在英文維基百科上，在「Template:Location_map_Arab_world」中沿著彎曲的緯度/經度線設定標記。
-Items portrayed in this file
 चित्रण
  
-हिन्दी
 रचियता
  
-हिन्दी
 some value
 लेखक के नाम का स्ट्रिंग
  
-हिन्दी
 : 
 Faycal.09
 Wikimedia username
  
-अंगरेजी
 : 
 Faycal.09
 URL
  
-हिन्दी
 : 
 https://commons.wikimedia.org/wiki/user:Faycal.09
 कॉपीराइट की स्थिति
  
-हिन्दी
 कॉपीराइट के अंतर्गत
  
-हिन्दी
 अनुज्ञप्ति
  
-हिन्दी
 GNU Free Documentation License, version 1.2 or later
  
-अंगरेजी
 क्रिएटिव कॉमन्स Attribution-ShareAlike 3.0 Unported
  
-हिन्दी
 निर्माण की तिथि
  
-हिन्दी
 १९ दिसम्बर 2011
 source of file
  
-अंगरेजी
 original creation by uploader
  
-अंगरेजी
 coordinates of the point of view
  
-अंगरेजी
 10°0'0.000"N, 15°0'0.000"E
 media type
  
-अंगरेजी
 image/svg+xml
 checksum
  
-अंगरेजी
 86c99788ccce25ec3e0e4896784ea6ec18d17fda
 निर्धारण विधि
  
-हिन्दी
 : 
 SHA-1
 data size
  
-अंगरेजी
 ५,५९,८६३ 
 बाइट
 ऊँचाई
  
-हिन्दी
 १,०८२ 
 पिक्सल
 width
  
-अंगरेजी
 १,५२४ 
 पिक्सल
-
-
-
-
-
-
-

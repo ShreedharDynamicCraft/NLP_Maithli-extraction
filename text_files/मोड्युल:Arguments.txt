@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Module documentation
+Module documentation
 [
 create
 ] [
@@ -2577,10 +2571,3 @@ end
 return
  
 arguments
-
-
-
-
-
-
-

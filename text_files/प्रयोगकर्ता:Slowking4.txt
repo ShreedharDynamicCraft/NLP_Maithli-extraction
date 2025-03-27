@@ -1,1082 +1,424 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Slowking4
-- member of Wikisource User Group
-- GLAM volunteer
-
-
-      decline will continue based on organizational culture, until an investment is made to shift the culture.
-[1]
-.
-
-
-      To attract and retain more diverse members, the Wikimedia Foundation must invest in affiliates’ institutional resilience through capacity development focused on communications, contributor development, and community governance 
-[2]
-
-
-     Contra the prevailing belief, “success” isn’t being on top of a hierarchy, it is standing outside all hierarchies. Or, even better, for those who can, not being aware of, or not giving a f*** about hierarchy.
-[3]
-  
-
-
-     Change comes from recruiting and nurturing supportive allies, not wasting time and emotional energy fighting perceived “enemies.” 
-[4]
- 
-
-
-     They are unanimous in their hate for me--and I welcome their hatred.
-I should like to have it said of my first Administration that in it the forces of selfishness and of lust for power met their match. I should like to have it said of my second Administration that in it these forces met their master.
-[5]
-  
-
-
-     Plato famously argued in The Republic that a tyrant, however powerful, ultimately suffers in the end by corrupting his own soul. You make a similar argument about assholes — that they might win at life but still fail as human beings.
-[6]
-  
-
-
-
-
-
-
-Wikisource user page >>>
-(home wiki)             
-
-
-
-     The harm is that telling people to “assume good intent” is a sign that if they come to you with a concern, you will minimize their feelings, police their reactions, and question their perceptions. It tells marginalized people that you don’t see codes of conduct as tools to address systemic discrimination, but as tools to manage personal conflicts without taking power differences into account. Telling people to “assume good intent” sends a message about whose feelings you plan to center when an issue arises in your community.
-[7]
-  
-
-
-     I know that it is not going to happen .. Jimmy Wales sending me 1 million dollar is not going to happen either.  I will just have to live with it.  And if I have the choice between checking with Google to see whether WikiData is correct, and if it is not using Google to get the correct data, or skip WikiData and just get the correct data from Google directly, then I choose the latter option.  WikiData has its place in this world, but no place on en.wikipedia.  
-
-
-
-this is hilarious. you realize that 
+The harm is that telling people to “assume good intent” is a sign that if they come to you with a concern, you will minimize their feelings, police their reactions, and question their perceptions. It tells marginalized people that you don’t see codes of conduct as tools to address systemic discrimination, but as tools to manage personal conflicts without taking power differences into account. Telling people to “assume good intent” sends a message about whose feelings you plan to center when an issue arises in your community.
+I know that it is not going to happen .. Jimmy Wales sending me 1 million dollar is not going to happen either.  I will just have to live with it.  And if I have the choice between checking with Google to see whether WikiData is correct, and if it is not using Google to get the correct data, or skip WikiData and just get the correct data from Google directly, then I choose the latter option.  WikiData has its place in this world, but no place on en.wikipedia.
+this is hilarious. you realize that
 knowledge graph
- uses wikidata, google having abandoned their knowledge database in favor of it? 
-[8]
- have you tried a grant request? what would you spend it on, other than "send me money"? wikidata on the other hand, has no funding problems.  
-[9]
-  
-
-
-      «Wikipédia est un boys club, c’est sans doute le plus beau projet progressiste aux mains de conservateurs.» 
-[10]
-  
-
-
-
-
+uses wikidata, google having abandoned their knowledge database in favor of it?
+have you tried a grant request? what would you spend it on, other than "send me money"? wikidata on the other hand, has no funding problems.
+«Wikipédia est un boys club, c’est sans doute le plus beau projet progressiste aux mains de conservateurs.»
 ***
-
-
 love the spirit outside of yourself: for the collective unconscious is greater than you
-
-
 make no little plans: for failure in the right is better than success in the wrong
-
-
 be charitable in good fortune: for the world created it
-
-
 be steadfast in adversity: for Sisyphus was happy
-
-
 be not afraid: for the end of things is better than the beginning
-
-
 be not angry: for a quarrel will empty your fortune by the law
-
-
 be not envious: for Schwesternschaft is better than Schadenfreude
-
-
 speak the truth: for yours are unclean lips in a land of unclean lips
-
-
 honor your grandparents and grandchildren: for we owe a debt to the past and future, not the present
-
-
-rest and reflect every seventh day, and seventh year: for life is not from task to task, but dream to dream (after  Szilárd 
-[11]
+rest and reflect every seventh day, and seventh year: for life is not from task to task, but dream to dream (after  Szilárd
 )
-
-
 for all the articles i wrote before
-
-
-
-
-
-
 new active editors 2019 < 10000
-
-
 fishbone
-
-
-workflow by group 
-
-
-
-
-
-
-
-
-this user is 
-Mad, Bad and Dangerous to Know
-
-
-This user supports the creation of a
-North American Hub
-
-
-3
-This user has an 
-advanced
- level of 
-project management skills
- (can manage a project alone including small team (up to 10) and client management. Responsible for schedules and budgets).
-
-
-This user is affiliated with 
-Wikimedia DC
-
-
-
-
-
-
-User language
-
-
-
-
-
-
-
-
-
-
-
-
-en
--N
-
-
-
-
-This user has a 
-native
- understanding of 
-English
-.
-
-
-
-
-
-
-
-
-
-fr
--1
-
-
-
-
-Cet utilisateur dispose de connaissances 
-de base
- en 
-français
-.
-
-
-
-
-
-
-
-
-
-de
--1
-
-
-
-
-Dieser Benutzer beherrscht 
-Deutsch
- auf 
-grundlegendem
- Niveau.
-
-
-
-
-
-
-
-
-
-es
--1
-
-
-
-
-Esta persona tiene un conocimiento 
-básico
- del 
-español
-.
-
-
-
-
-
-
-
-
-
-ru
--1
-
-
-
-
-Этот участник владеет 
-русским языком
- на 
-начальном уровне
-.
-
-
-
-
-
-
-
-
-
-Users by language
-
-
-
-
-
-
+workflow by group
 community engagement workflow
-
-
 Misalignment Between Content Quality and Views
-
-
 Wikisource 10th anniversary contest
-
-
 Europeana Art History Challenge 2016
-
-
-
-
-Management Literature
-
-
-Oldach, Laurel (March 8, 2022). 
+Oldach, Laurel (March 8, 2022).
 "What’s with Wikipedia and women?"
-. 
+.
 American Society for Biochemistry and Molecular Biology
 .
- 
-
-
-Ivan Smirnov; Camelia Oprea; Markus Strohmaier. 
+Ivan Smirnov; Camelia Oprea; Markus Strohmaier.
 "Toxic comments are associated with reduced activity of volunteer editors on Wikipedia"
-. 
+.
 academic.oup.com
 .
- 
-
-
-Eyrich, Nicholas W.; Quinn, Robert E.; Fessell, David P. (2020-01-12). 
+Eyrich, Nicholas W.; Quinn, Robert E.; Fessell, David P. (2020-01-12).
 "How One Person Can Change the Conscience of an Organization"
-. 
+.
 Harvard Business Review
-. Retrieved 
+. Retrieved
 2024-05-01
 .
- 
-
-
 "The female-focused social spaces finding solace in human curation"
-. 
+.
 Digital Frontier
-. Retrieved 
+. Retrieved
 2024-03-22
 .
- 
-
-
-Beilock, Sian (2019-10-07). 
+Beilock, Sian (2019-10-07).
 "Women-Only Spaces Provide A Recipe For Success: Here Are The Ingredients"
-. 
+.
 Forbes
-. Retrieved 
+. Retrieved
 2024-03-22
 .
- 
-
-
 Workplace Bullying Institute
-
-
-Cappelli, Peter; Eldor, Liat (2024-01-03). 
+Cappelli, Peter; Eldor, Liat (2024-01-03).
 "Can Workplaces Have Too Much Psychological Safety?"
-. 
+.
 Harvard Business Review
 .
- 
-
-
-Grisel, Florian (2023-05-04). "Canceling Disputes: How Social Capital Affects the Arbitration of Disputes on Wikipedia". 
+Grisel, Florian (2023-05-04). "Canceling Disputes: How Social Capital Affects the Arbitration of Disputes on Wikipedia".
 Law & Social Inquiry
- (Cambridge University Press (CUP)): 1–22. 
+(Cambridge University Press (CUP)): 1–22.
 ISSN
- 
 0897-6546
-. 
+.
 doi
 :
 10.1017/lsi.2023.15
 .
- 
-
-
-Ruprechter, Thorsten; Burghardt, Keith; Helic, Denis (2023-11-08). "Poor attention: The wealth and regional gaps in event attention and coverage on Wikipedia". 
+Ruprechter, Thorsten; Burghardt, Keith; Helic, Denis (2023-11-08). "Poor attention: The wealth and regional gaps in event attention and coverage on Wikipedia".
 PLOS ONE
- (Public Library of Science (PLoS)) 
+(Public Library of Science (PLoS))
 18
- (11): e0289325. 
+(11): e0289325.
 ISSN
- 
 1932-6203
-. 
+.
 doi
 :
 10.1371/journal.pone.0289325
 .
- 
-
-
-Garry, Joan (2022-06-30). 
+Garry, Joan (2022-06-30).
 "An Onboarding Checklist for New Board Members"
-. 
+.
 Joan Garry Consulting
-. Retrieved 
+. Retrieved
 2023-09-12
 .
- 
-
-
 "Who Is In Charge? How to Eliminate Gatekeeping and Boost Quality"
-. 
+.
 Digital.ai
 . 2023-06-26
-. Retrieved 
+. Retrieved
 2023-07-08
 .
- 
-
-
-López-Cabrera, Rocío; Arenas, Alicia; Medina, Francisco J.; Euwema, Martin; Munduate, Lourdes (2020-05-04). 
+López-Cabrera, Rocío; Arenas, Alicia; Medina, Francisco J.; Euwema, Martin; Munduate, Lourdes (2020-05-04).
 "Inside “Pandora’s Box” of Solidarity: Conflicts Between Paid Staff and Volunteers in the Non-profit Sector"
-. 
+.
 Frontiers in Psychology
- 
 11
-: 556. 
+: 556.
 ISSN
- 
 1664-1078
-. 
+.
 PMC
- 
 PMC7212825
- 
-Check 
+Check
 |pmc=
- value (
+value (
 help
 )
-. 
+.
 PMID
- 
 32431634
-. 
+.
 doi
 :
 10.3389/fpsyg.2020.00556
 .
- 
-
-
-Lemus-Rojas, Mairelys; Odell, Jere; Brys, Lucille Frances; Rojas, Mirian Ramirez (2022-07-27). 
+Lemus-Rojas, Mairelys; Odell, Jere; Brys, Lucille Frances; Rojas, Mirian Ramirez (2022-07-27).
 "Leveraging Wikidata to Build Scholarly Profiles as Service"
-. 
+.
 KULA: Knowledge Creation, Dissemination, and Preservation Studies
- 
 6
- (3): 1–14. 
+(3): 1–14.
 ISSN
- 
 2398-4112
-. 
+.
 doi
 :
 10.18357/kula.171
 .
- 
-
-
 "Announcement: Open Review for “Finding Balance: Collaborative Workflows for Risk Management in Sharing Cultural Heritage Collections Online” (book) – OER + ScholComm"
- (in en-US)
-. Retrieved 
+(in en-US)
+. Retrieved
 2022-08-10
 .
- 
- CS1 maint: Unrecognized language (
+CS1 maint: Unrecognized language (
 link
 )
-
-
-Tristan Matthews, 
+Tristan Matthews,
 For Open Data, think twice before applying Non-Commercial conditions
 , Springer Nature, July 18, 2022
-
-
-Meredith Somers, 
+Meredith Somers,
 Why distributed leadership is the future of management
 , MIT Sloan School of Management, Apr 19, 2022
-
-
 "Does your company suffer from broken culture syndrome?"
-. 
+.
 MIT Sloan
-. Retrieved 
+. Retrieved
 2022-06-06
 .
- 
-
-
-Brian Eastwood (May 11, 2021). 
+Brian Eastwood (May 11, 2021).
 "Digital business needs new KPIs. here’s why they matter"
 .
- 
-
-
 "How to Avoid the 'Ethical Slide' That Leads Companies Astray"
-. 
+.
 https://hbswk.hbs.edu/
 . 17 April 2022.
- 
-
-
-Marc Miquel-Ribé; Cristian Consonni; David Laniado (14 April 2022). 
+Marc Miquel-Ribé; Cristian Consonni; David Laniado (14 April 2022).
 "Community Vital Signs: Measuring Wikipedia Communities’ Sustainable Growth and Renewal"
 .
- 
-
-
 A Wolf in Sheep’s Clothing: How the DMCA Is Used To Inhibit Free Expression on the Internet
- publicknowledge.com
-
-
-Catherine D'Ignazio and Lauren F. Klein, 
+publicknowledge.com
+Catherine D'Ignazio and Lauren F. Klein,
 Data Feminism
 , The MIT Press, 2020
-
-
-Maelle Gavet 
-Trampled by Unicorns: Big Tech's Empathy Problem and How to Fix It 
- , Wiley, 2020 
+Maelle Gavet
+Trampled by Unicorns: Big Tech's Empathy Problem and How to Fix It
+, Wiley, 2020
 ISBN 9781119730644
-
-
-Sengul-Jones, Monika (2018-09-14). "Intervening in Wikipedia". 
+Sengul-Jones, Monika (2018-09-14). "Intervening in Wikipedia".
 Feminist Interventions in Participatory Media
- 
 (PDF)
-. Routledge. 
+. Routledge.
 ISBN
- 
 978-1-351-23898-4
-. 
+.
 doi
 :
 10.4324/9781351238984-2
 .
- 
-
-
-Matt Asay, 
+Matt Asay,
 Open source has a people problem
-, 
+,
 Infoworld,
- August 19, 2020
-
-
+August 19, 2020
 Punjabi Wikimedians/Punjabi Wikisource SDOC Pilot
-
-
 Kaetrena Kendrick: The Low-Morale Experience
 , Mar 16, 2020
-
-
-Robichaud, Danielle; McCracken, Krista (2017-04-28). 
+Robichaud, Danielle; McCracken, Krista (2017-04-28).
 "Collaborative archival practice: Rethinking outreach, access, and reconciliation using Wikipedia"
-. 
+.
 UWSpace Home
-. Retrieved 
+. Retrieved
 2018-01-27
 .
- 
-
-
 "Almost Wikipedia: What Eight Collaborative Encyclopedia Projects Reveal About Mechanisms of Collective Action"
-. 
+.
 Berkman Klein Center
 . 2011-10-11
-. Retrieved 
+. Retrieved
 2017-12-20
 .
- 
-
-
-Leberecht, T. (2015). 
+Leberecht, T. (2015).
 The Business Romantic: Give Everything, Quantify Nothing, and Create Something Greater Than Yourself
-. HarperCollins. 
+. HarperCollins.
 ISBN
- 
 978-0-06-230252-6
-. Retrieved 
+. Retrieved
 2017-10-23
 .
- 
-
-
-Kraut, R. E.; Resnick, P. (2012). 
+Kraut, R. E.; Resnick, P. (2012).
 Building successful online communities: Evidence-based social design.
- 
-
-
-Sarah Schulman, 
+Sarah Schulman,
 Conflict is not Abuse
 ,
-
-
-Fischer, Molly (2020-08-03). 
+Fischer, Molly (2020-08-03).
 "Good Conflict"
-. 
+.
 New York Magazine
 .
- 
-
-
-Robert I Sutton (2017). 
+Robert I Sutton (2017).
 The Asshole Survival Guide: How to Deal with People Who Treat You Like Dirt
-. Penguin Books Limited. 
+. Penguin Books Limited.
 ISBN
- 
 9780241980187
 .
- 
-
-
-Sean Illing, 
+Sean Illing,
 A Stanford psychologist on the art of avoiding assholes
-, 
+,
 Vox
 , September 26, 2017
-
-
-Aaron James (30 October 2012). 
+Aaron James (30 October 2012).
 Assholes: A Theory
-. Knopf Doubleday Publishing Group. 
+. Knopf Doubleday Publishing Group.
 ISBN
- 
 978-0-385-53568-7
 .
- 
-
-
 "Robert Sutton’s ‘Good Boss, Bad Boss’"
-. 
+.
 The Washington Post
-. 
+.
 Bad bosses, especially bullies, have a profoundly negative impact on their workplaces.
- 
-
-
 Assholes are killing your project
-
-
 http://electricpulp.com/guykawasaki/arse/
-
-
-Kyle Wagner (10/14/14). 
+Kyle Wagner (10/14/14).
 "The Future Of The Culture Wars Is Here, And It's Gamergate"
-. 
+.
 deadspin
 .
- 
- 
-Check date values in: 
+Check date values in:
 |date=
- (
+(
 help
 )
-
-
-Tomas Chamorro-Premuzic, 
+Tomas Chamorro-Premuzic,
 "Why Do So Many Incompetent Men Become Leaders?"
-, 
+,
 Harvard Business Review
 , August 22, 2013
-
-
-Zhu, Haiyi; Kraut, Robert; Kittur, Aniket (2012-02-11). 
+Zhu, Haiyi; Kraut, Robert; Kittur, Aniket (2012-02-11).
 Effectiveness of shared leadership in online communities
- 
 (PDF)
-. ACM. 
+. ACM.
 ISBN
- 
 978-1-4503-1086-4
-. 
+.
 doi
 :
 10.1145/2145204.2145269
 .
- 
-
-
-Nina Jankowicz. 
+Nina Jankowicz.
 A Woman's Guide to the Most Toxic Trolls on the Internet
- Wired. April 24, 2022
-
-
-Timothy R. Clark: (2020-03-03). 
+Wired. April 24, 2022
+Timothy R. Clark: (2020-03-03).
 "The 4 Stages of Psychological Safety"
-. 
+.
 PenguinRandomhouse.com
-. 
+.
 ISBN
- 
 9781523087686
 .
- 
-
-
-Albert O. Hirschman (1970). 
+Albert O. Hirschman (1970).
 Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States
-. Harvard University Press. 
+. Harvard University Press.
 ISBN
- 
 978-0-674-27660-4
 .
- 
-
-
-Johnson, J.A. (2018). 
+Johnson, J.A. (2018).
 Toward Information Justice: Technology, Politics, and Policy for Data in Higher Education Administration
-. Public Administration and Information Technology. Springer International Publishing. 
+. Public Administration and Information Technology. Springer International Publishing.
 ISBN
- 
 978-3-319-70894-2
-. Retrieved 
+. Retrieved
 2018-04-16
 .
- 
-
-
-Ryan Calo; Alex Rosenblat (2017). 
+Ryan Calo; Alex Rosenblat (2017).
 "The Taking Economy: Uber, Information, and Power"
-. 
+.
 Columbia Law Review
- 
 117
 .
- 
-
-
-Jonathan Chang, Cristian Danescu-Niculescu-Mizil 
+Jonathan Chang, Cristian Danescu-Niculescu-Mizil
 Trajectories of Blocked Community Members
-, 
- 
+,
 ACM
- doi 3308558.3313638
-
-
+doi 3308558.3313638
 Accept, decline, postpone: How newcomer productivity is reduced in English Wikipedia by pre-publication review
-
-
 What wikipedia must do 2015 esp. slide 45
-
-
 Wikipedia is a Game - Raph Koster - Wikimania 2014
-
-
 Changing change management
-
-
 Volunteer Management
-
-
 Research:Newsletter
-
-
 Feelings of Pride and Respect as Drivers of Ongoing Member Activity on Crowdsourcing Platforms
-
-
 The Misalignment Between Content Quality and Popularity in Wikipedia
-
-
 Intellectual Labor and the Datalogical encyclopedia
-
-
-Ben Ramalingam, David Nabarro, Arkebe Oqubay, Dame Ruth Carnall, and Leni Wild (September 11, 2020). 
+Ben Ramalingam, David Nabarro, Arkebe Oqubay, Dame Ruth Carnall, and Leni Wild (September 11, 2020).
 "5 Principles to Guide Adaptive Leadership"
 .
- 
-
-
 What is adaptive leadership?
- WGU 2021
-
-
+WGU 2021
 3 Sins of leadership
-
-
 8 signs of dysfunction
-
-
 Grants talk:Project/JackieKoerner/Investigating the Impact of Implicit Bias on Wikipedia
-
-
 User_talk:Jorm#Board_of_Trustees_election
-
-
-Wikimedia talks
-
-
- Presentation "Nine WikiSteps" by Mike Dickison
-
-
+Presentation "Nine WikiSteps" by Mike Dickison
 Wikidata:Linked open data workflow
-
-
 user:Slowking4/1lib1ref
-
-
 user:Slowking4/Wikisource Year in Review 2019 presentation
-
-
 https://www.slideshare.net/jhayes8/what-is-psychological-safety
-
-
 User:Slowking4/Open letter on Community Health
-
-
 user:Slowking4/Wikisource Year in Review 2018 presentation
-
-
 user:Slowking4/Wikisource Year in Review presentation
-
-
 user:Slowking4/Wikisource User Group presentation links
-
-
 c:File:A walk through Wikicommons Wikisource 4.pptx (3).pdf
-
-
 c:File:Drain the swamp idea lab proposal.pdf
-
-
 What Wikipedia Must Do - Andrew Lih 2015
-
-
 http://www.slideshare.net/sosarasays
-
-
 Submissions/Wikipedia & Quality
-
-
 User:Slowking4/WMDC membership banner
-
-
 Research:Teahouse
-
-
-essays
-
-
 User:Slowking4/Not compatable with an authoritarian project
-
-
 User:Slowking4/Snailification
-
-
 User:Slowking4/Open letter on Community Health
-
-
 User:Slowking4/Arbcom agenda
-
-
 User:Slowking4/Training in Wikimedia
-
-
 Women through the glass ceiling: gender asymmetries in Wikipedia
-
-
 s:Danielle Citron speaks at WikiConference USA 2015
-
-
 User:Slowking4/The Farmbrough effect
-
-
 User:Slowking4/the Wikinews scenario
-
-
 User:Slowking4/english wikipedia has cancer
-
-
 User:Slowking4/wikicommons has cancer
-
-
 User:Slowking4/blow up AfC
-
-
 User:Slowking4/Why i think Narrowing focus is a strategic mistake
-
-
 User:Slowking4/Why i think the Heilman matter is a strategic mistake
-
-
 User:Slowking4/All knowledge versus free culture
-
-
 User:Slowking4/Leadership in Wikimedia
-
-
 user:Slowking4/Gender Gap & civility
-
-
 user:Slowking4/Gender Gap & arbcom
-
-
 Wikipedia & Leadership
-
-
 User:Slowking4/Wikipedia & copyright
-
-
 user:Slowking4/Drain the swamp - an inspire campaign idealab project
-
-
-Crowdsource projects
-
-
 http://www.archives.gov/citizen-archivist/
-
-
 https://transcription.si.edu/
-
-
 https://labs.loc.gov/
-
-
 https://blog.shakespearesworld.org/
-
-
 http://www.nypl.org/blog/2015/11/23/scribe-framework-community-transcription
-
-
 http://www.shakespearesworld.org/#/
-
-
 http://crowdmap.geog.uni-heidelberg.de/about
-
-
 wikidata and smithsonian, andrew lih 2017
-
-
 https://transcribathon.com/documents/
-
-
 user:Slowking4/Non-Western Cultural Knowledge
-
-
-wiki loves capitol hill
-
-
 user:Slowking4/WLCH presentation
-
-
 User:Slowking4/congressional briefing agenda 2014
-
-
 User:Slowking4/congressional briefing agenda
-
-
 User:Slowking4/congressional briefing handouts
-
-
-wiki karaoke
-
-
 User:Slowking4/root hog or die
-
-
 User:Slowking4/Try to forget
-
-
 User:Slowking4/Just like mechanical turk
-
-
 User:Slowking4/Thanks for the toolset
-
-
 User:Slowking4/on the wikipedia main page
-
-
-User:Slowking4/Wikipedia 20/Kookaburra 
-
-
+User:Slowking4/Wikipedia 20/Kookaburra
 User:Slowking4/mamas don't let you babies grow up to be admins
-
-
-tools
-
-
 Wikidata Tutorial: Intro to the Basics
 , July 15, 2022
-
-
 http://quarry.wmflabs.org/query/runs/all
-
-
 w:Pepsi Refresh Project
- grants rather than ads
-
-
+grants rather than ads
 https://strategy.wikimedia.org/wiki/Editor_Trends_Study/Results
-
-
 https://strategy.wikimedia.org/wiki/File:Wikimedia_Participation_Goal.png
-
-
 English vs non-English Wikipedia active editors trends tweeted
-
-
 Research:Plagiarism_on_the_English_Wikipedia
-
-
 Research:Wikipedia article creation
-
-
 http://mashable.com/2013/01/16/aaron-swartz-law-lofgren/
-
-
 http://falkvinge.net/2013/02/13/five-basic-misconceptions-about-the-copyright-monopoly-and-sharing-of-culture/
-
-
 http://www.washingtonpost.com/blogs/the-switch/wp/2014/02/07/the-justice-department-used-this-law-to-pursue-aaron-swartz-now-its-open-to-reforming-it/
-
-
 http://www.centerforsocialmedia.org/fair-use
-
-
 https://blog.wikimedia.org/2015/12/14/pageview-data-easily-accessible/
-
-
 http://wikimedia.7.x6.nabble.com/So-as-not-to-destroy-the-Wikipedia-in-order-to-save-it-td1001631.html
-
-
-links
-
-
 French Bistro images
-
-
 PhilosophyAndLogic Mon, 15 Jan 2001
-
-
 Remixers’ Understandings of Fair Use Online
-
-
 https://responsibledata.io/indigenous-peoples-responsible-data-readings/
-
-
 http://scantailor.org/
-
-
 https://upload.wikimedia.org/wikipedia/strategy/6/6d/WMF_staff_Riggs.pdf
-
-
 http://www.cato.org/multimedia/events/transparency-time-wikipedia-editing-congress
-
-
 http://www.c-span.org/video/?321030-1/discussion-wikipedia-government-transparency
-
-
 F2C2012: Aaron Swartz keynote - "How we stopped SOPA"
-
-
 http://prezi.com/ejzhjai_yqb2/wikipedia-and-the-humanities/
-
-
 advocacy is social engineering
-
-
 User:Slowking4/Mobile audio upload app grant
-
-
 Grants:IdeaLab/Grand Canyon Museum Collection
-
-
 User:Slowking4/block appeal
-
-
 User:Slowking4/commons
-
-
 User:Slowking4/wikidata
-
-
 User:Slowking4/interrogatories
-
-
 Wikidata Q123456789
-
-
 All the participants of an editathon blocked
-
-
 Sander.v.Ginkel_unblock_request

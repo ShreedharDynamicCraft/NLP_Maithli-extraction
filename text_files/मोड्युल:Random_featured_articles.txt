@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Module documentation
+Module documentation
 [
 create
 ] [
@@ -1233,10 +1227,3 @@ x
 ,
  
 multiplier
-
-
-
-
-
-
-

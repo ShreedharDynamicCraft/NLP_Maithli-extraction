@@ -1,4816 +1,2795 @@
-
-
-मूलभूत सिद्धान्त (Basic concepts)
-[
-सम्पादन करी
-]
-
-
 लोग
- (
+(
 Human being
 )
-
 पुरुष
- (
+(
 Man
 )
-
-
 जनानी
- (
+(
 Woman
 )
-
-
 बच्चा
- (
+(
 Child
 )
-
-
 चीज
- (
+(
 Thing
 )
-
-
 पशु
- (
+(
 Animal
 )
-
-
 वनस्पति
- (
+(
 Plant
 )
-
-
 खनिज
- (
+(
 Mineral
 )
-
-
-दर्शन
- (
-Philosophy
-)
-[
-सम्पादन करी
-]
-
-
 मन
- (
+(
 Mind
 )
-
-
 शरीर
- (
+(
 Body
 )
-
-
 आत्मा
- (
+(
 en:Soul
 )
-
-
 मुक्त कर्म
- (
+(
 en:Free will
 )
-
 कर्म
- (
+(
 en:Karma
 )
-
-
 वास्तविकता
- (
+(
 en:Reality
 )
-
-
 साँच
- (
+(
 en:Truth
 )
-
-
 चेतना
- (
+(
 en:Consciousness
 )
-
-
 तत्त्वज्ञान
- (
+(
 en:Metaphysics
 )
-
-
 नैतिकता
- (
+(
 en:Ethics
 )
-
-
 प्रमाणशास्त्र
- (
+(
 en:Epistemology
 )
-
-
 अलङ्कार
- या 
+या
 सौन्दर्यशास्त्र
- (
+(
 en:Aesthetics
 )
-
-
-जीवनी
- (
-en:Biography
-)
-[
-सम्पादन करी
-]
-
-
 प्रमुख ऐतिहासिक व्यक्तिक लेख पर कम से कम तीन वाक्य अवश्य रहवाक चाही ।
-
-
-
-संगीतकार
- (
-en:Musicians
-)
-[
-सम्पादन करी
-]
-
-
 वोल्फगान्क आमडेयुस मोत्सार्ट
- (
+(
 en:Wolfgang Amadeus Mozart
 )
-
-
 योहान सेबास्तियन बाख
- (
+(
 en:Johann Sebastian Bach
 )
-
-
-अन्वेषक
- (
-en:Explorers
-)
-[
-सम्पादन करी
-]
-
-
 तेन्जिङ नोर्गे शेर्पा
- (
+(
 en:Tenzing Norgay
 )
-
-
 ज्याक कार्टिअर
- (
+(
 en:Jacques Cartier
 )
-
-
 क्रिस्टोफर कोलम्बस
- (
+(
 en:Christopher Columbus
 )
-
-
 मार्को पोलो
- (
+(
 en:Marco Polo
 )
-
-
 हर्नान कोर्टस
- (
+(
 en:Hernán Cortés
 )
-
-
 भास्को दा गामा
- (
+(
 en:Vasco da Gama
 )
-
-
 फर्डिनान्ड म्यागलन
- (
+(
 en:Ferdinand Magellan
 )
-
-
 फ्रान्सिस ड्रेक
- (
+(
 en:Francis Drake
 )
-
-
 रोआल्ड एमन्डसन
- (
+(
 en:Roald Amundsen
 )
-
-
 एडमण्ड हिलारी
- (
+(
 en:Edmund Hillary
 )
-
-
-वैज्ञानिक
- (
-en:Scientists
-) आर 
-आविष्कारक
- (
-en:inventors
-)
-[
-सम्पादन करी
-]
-
-
-वैज्ञानिक (Scientists)
-[
-सम्पादन करी
-]
-
-
 अल्बर्ट आइनस्टाइन
- (
+(
 en:Albert Einstein
 )
-
-
 चार्ल्स डार्विन
- (
+(
 en:Charles Darwin
 )
-
-
 आइज्याक न्यूटन
- (
+(
 en:Isaac Newton
 )
-
-
 ग्यालिलियो ग्यालिली
- (
+(
 en:Galileo Galilei
 )
-
-
-भारतीय वैज्ञानिक ( Indian Scientist)
-[
-सम्पादन करी
-]
-
-
 आर्यभट्ट
- (
+(
 en:Aryabhatt
 )
-
-
 रामानुजन्
- (
+(
 en:Ramanujan
 )
-
-
 सी. वी. रमन
- (
+(
 en:C. V. Raman
 )
-
-
 डा. जगदीश चन्द्र बोस
- (
+(
 en:Jagdish Chandra Bose
 )
-
-
 सत्येन्द्र नाथ बोस
- (
+(
 en:Satyendra Nath Bose
 )
-
-
 प्रो. बीरबल साहनी
- (
+(
 en:Pro.Beerbal Sahni
 )
-
-
-आविष्कारक (Inventors)
-[
-सम्पादन करी
-]
-
-
 हेनरी फोर्ड
- (
+(
 Henry Ford
 )
-
-
 जोन गुटेन्बर्ग
- (
+(
 Johann Gutenberg
 )
-
-
 राइट दाजुभाइ
- (
+(
 Wright Brothers
 )
-
-
 लियोनार्दो दा भिन्ची
- (
+(
 Leonardo Da Vinci
 )
-
-
 थोमस एल्वा एडिसन
- (
+(
 Thomas Alva Edison
 )
-
-
 बिल गेट्स
- (
+(
 Bill Gates
 )
-
-
 लिनस टोरभाल्ड्स
- (
+(
 Linus Torvalds
 )
-
-
-लेखक
- (
-en:Writers
-) आ विचारक (thinkers)
-[
-सम्पादन करी
-]
-
-
-मैथिली
-[
-सम्पादन करी
-]
-
-
 महाकवि विद्यापति
-
-
-
-
-
-
-नेपाली
-[
-सम्पादन करी
-]
-
-
 लक्ष्मीप्रसाद देवकोटा
-
-
 लेखनाथ पौड्याल
- (
+(
 en:Lekhnath Paudyal
 )
-
-
 प्रेमचन्द
- (
+(
 en:Munshi Premchand
 )
-
-
 प्लेटो
- (
+(
 en:Plato
 )
-
-
 अरस्तू
- (
+(
 en:Aristotle
 )
-
-
 मार्टिन लूथर
- (
+(
 en:Martin Luther
 )
-
-
 एडम स्मिथ
- (
+(
 en:Adam Smith
 )
-
-
 कार्ल मार्क्स
- (
+(
 en:Karl Marx
 )
-
-
 विलियम शेक्सपियर
- (
+(
 en:William Shakespeare
 )
-
 ... (
 en:Hamlet
 )
-
-
 योहान वोल्फगान्क भान गोटे
- (
+(
 en:Johann Wolfgang von Goethe
 )
-
 ... (
 en:Goethe's Faust
 )
-
-
 सुकरात
- (
+(
 en:Socrates
 )
-
-
 पाइथागोरस
- (
+(
 en:Pythagoras
 )
-
-
 दान्ते ऐलिगिरी
- (
+(
 en:Dante Alighieri
 )
-
-
 म्यारी वुलस्टोनक्राफ्ट
- (
+(
 en:Mary Wollstonecraft
 )
-
-
 रोजा लक्सेम्बर्ग़
- (
+(
 en:Rosa Luxemburg
 )
-
-
 जर्ज अरवेल
- (
+(
 en:George Orwell
 )
-
-
 जे. आर. आर. टोल्कियन
- (
+(
 en:J. R. R. Tolkien
 )
-
 द लर्ड अफ द रिङ्ग्स
- (
+(
 en:The Lord of the Rings
 )
-
-
 जे. के. रोलिंग
- (
+(
 en:J. K. Rowling
- )
-
-
+)
 इम्मानुएल कांट
- (
+(
 en:Immanuel Kant
 )
-
-
 ... (
 en:Thomas Mann
 )
-
-
 ... (
 en:Franz Kafka
 )
-
-
 ... (
 en:Günter Grass
 )
-
-
 लाओ जू
- (
+(
 en:Lao Tzu
 )
-
-
 होमर
- (
+(
 en:Homer
 )
-
-
 हीरोडोटस
- (
+(
 en:Herodotus
 )
-
-
 हिप्पोक्रेटीस
- (
+(
 en:Hippocrates
 )
-
-
 वर्जिल
- (
+(
 en:Virgil
 )
-
-
 जेमि
- (
+(
 en:Zeami
 )
-
-
 भिक्टर ह्यूगो
- (
+(
 en:Victor Hugo
 )
-
-
 रने देकार्त
- (
+(
 en:René Descartes
 )
-
-
 मलिएर
- (
+(
 en:Molière
 )
-
-
 भोल्टेर
- (
+(
 en:Voltaire
 )
-
-
-राजनीतिज्ञ (Political persons)
-[
-सम्पादन करी
-]
-
-
 चाणक्य
- (
+(
 en:Chanakya
 )
-
-
 अकबर
- (
+(
 en:Akbar the Great
 )
-
-
 त्रोत्स्की
- (
+(
 en:Trotsky
 )
-
-
 तमेरलेन
- (
+(
 en:Tamerlane
 )
-
-
 जंगेज खाँ
- (
+(
 en:Genghis Khan
 )
-
-
 जूलियस सिजर
- (
+(
 en:Julius Caesar
 )
-
-
 सिजर अगस्टस
- (
+(
 en:Caesar Augustus
 )
-
-
 महात्मा गान्धी
- (
+(
 en:Mahatma Gandhi
 )
-
-
 सिटिङ बुल
- (
+(
 en:Sitting Bull
 )
-
-
 क्वामे न्क्रुमा
- (
+(
 en:Kwame Nkrumah
 )
-
-
 चार्ल्स द गल
- (
+(
 en:Charles de Gaulle
 )
-
-
 ओट्टो भान बिस्मार्क
- (
+(
 en:Otto von Bismarck
 )
-
-
 पीटर महान (रूस)
- (
+(
 en:Peter the Great
 ) (of Russia)
-
-
 साइमन बोलीवार
- (
+(
 en:Simón Bolívar
 )
-
-
 लेनिन
- (
+(
 en:Lenin
 )
-
-
 नेपोलियन बोनापार्ट
- (
+(
 en:Napoléon Bonaparte
 )
-
-
 अलेक्जेन्डर महान
- (
+(
 en:Alexander the Great
 )
-
-
 सलाउद्दीन
- (
+(
 en:Saladin
 )
-
-
 जोसेफ स्टालिन
- (
+(
 en:Josef Stalin
 )
-
-
 एडल्फ हिटलर
- (
+(
 en:Adolf Hitler
 )
-
-
 बेनितो मुसोलिनी
- (
+(
 en:Benito Mussolini
 )
-
-
 विन्स्टन चर्चिल
- (
+(
 en:Winston Churchill
 )
-
-
 फ्रान्क्लिन रुजवेल्ट
- (
+(
 en:Franklin Delano Roosevelt
 )
-
-
 हैरी ट्रूमन
- (
+(
 en:Harry Truman
 )
-
-
 माओ त्से-तुंग
- (
+(
 en:Mao Tse-tung
 )
-
-
 शाका जूलू
- (
+(
 en:Shaka Zulu
 )
-
-
 पोल पट
- (
+(
 en:Pol Pot
 )
-
-
 हिरोहितो, जापानको सम्राट
- (
+(
 en:Hirohito, Emperor of Japan
 )
-
-
 फ्रान्ज फर्डिनान्ड
- (
+(
 en:Franz Ferdinand
 )
-
-
 शार्लेमन्य
- (
+(
 en:Charlemange
 )
-
-
 महारानी भिक्टोरिया
- (
+(
 en:Queen Victoria
- (UK) )
-
-
+(UK) )
 सम्राट विल्हेम द्वितीय (जर्मनी)
- (
+(
 en:Emperor Wilhelm II
- (Germany) )
-
-
+(Germany) )
 क्लियोपेट्रा
- (
+(
 en:Cleopatra
 )
-
-
-आधुनिक अन्तर्राष्ट्रिय राजनीतिज्ञ आर नेता (Modern international politicans & leaders)
-[
-सम्पादन करी
-]
-
-
 गिरिजा प्रसाद कोइराला
- (
+(
 en:Girija Prasad Koirala
 )
-
-
 माधव कुमार नेपाल
- (
+(
 en:Madhav Kumar Nepal
 )
-
-
- पुष्प कमल दाहाल
- (
+पुष्प कमल दाहाल
+(
 en:Pushpa Kamal Dahal
 )
-
-
 अटल बिहारी वाजपेयी
- (
+(
 en:Atal Bihari Vajpayee
 )
-
-
 कोफी अन्नान
- (
+(
 en:Kofi Annan
 )
-
-
 ... (
 en:Ban Ki-moon
 )
-
-
 नेल्सन मण्डेला
- (
+(
 en:Nelson Mandela
 )
-
-
 ... (
 en:Donald Tusk
 )
-
-
 ... (
 en:Jean-Claude Juncker
 )
-
-
 गेर्हार्ड श्रोडर
- (
+(
 en:Gerhard Schröder
 )
-
-
 ... (
 en:Angela Merkel
 )
-
-
 ज्याक शिराक
- (
+(
 en:Jacques Chirac
 )
-
-
 टोनी ब्लेयर
- (
+(
 en:Tony Blair
 )
-
-
 बिल क्लिन्टन
- (
+(
 en:Bill Clinton
 )
-
-
 हिलारी क्लिन्टन
- (
+(
 en:Hillary Clinton
 )
-
-
 जर्ज बुश जुनियर
- (
+(
 en:George W. Bush
 )
-
-
 ... (
 en:Barack Obama
 )
-
-
-आन (Others)
-[
-सम्पादन करी
-]
-
-
 सावित्री बाई खानोलकर
- (Savitri Bai Khanolakar)
-
-
+(Savitri Bai Khanolakar)
 मार्टिन लूथर किंग
- (
+(
 en:Martin Luther King
 )
-
-
 गव्रिलो प्रिंत्सीप
- (
+(
 en:Gavrilo Princip
 )
-
-
 परमहन्स योगानन्द
- (
+(
 en:Paramhansa Yogananda
 )
-
-
-साहित्य
- (
-en:Literature
-)
-[
-सम्पादन करी
-]
-
-
 रामायण
- (
+(
 en: Ramayana
 )
-
-
 एक हजार एक रात
- (
+(
 en: One Thousand and One Nights
 )
-
-
 कुरान
- (
+(
 en:Qur'an
 )
-
-
 बाइबल
- (
+(
 en:Bible
 )
-
-
 डन क्विजोट
- (
+(
 en:Don Quixote
 )
-
-
 ओडेसी
- (
+(
 en:Odyssey
-/ 
+/
 इलियाड
- (
+(
 en:Iliad
 )
-
-
-प्लेटोको 
+प्लेटोको
 गणराज्य (प्लेटो)
- (Plato's 
+(Plato's
 The Republic
- )
-
-
+)
 म्याकियावेलीको
- 
 द प्रिन्स
- (Machiavelli's 
+(Machiavelli's
 En:The Prince
 )
-
-
 जे. के. रोलिंग
-
-
 ह्यारी पोटर
-
-
 ह्यारी पोटर आर पारस पत्थर
-
-
 ह्यारी पोटर आर रहस्यमयी तहखाना
-
-
 ह्यारी पोटर आर अज्कबानके कैदी
-
-
 ह्यारी पोटर आर आइगके कटौरी
-
-
 ह्यारी पोटर आर फीनिक्सके श्रेणी
-
-
 ह्यारी पोटर आर आधा-रगत राजकुमार
-
-
-देश
- (
-Countries
-)
-[
-सम्पादन करी
-]
-
-
 देश सभक सूची
- (
-en:List_of_countries 
+(
+en:List_of_countries
 )
-
 नेपाल
-
-
 चीन
-
-
 भारत
-
-
-
-
-
-
-नेपाल
-[
-सम्पादन करी
-]
-
-
 पूर्वाञ्चल
-
-
 मध्यमाञ्चल
-
-
 पश्चिमाञ्चल
-
-
 मध्यपश्चिमाञ्चल
-
-
 सुदुरपश्चिमाञ्चल
-
-
-नेपालक अञ्चलसभ
-[
-सम्पादन करी
-]
-
-
 मेची अञ्चल
-
-
 कोशी अञ्चल
-
-
 सगरमाथा अञ्चल
-
-
 जनकपुर अञ्चल
-
-
 बागमती अञ्चल
-
-
 नारायणी अञ्चल
-
-
 गण्डकी अञ्चल
-
-
 लुम्बिनी अञ्चल
-
-
 धवलगिरी अञ्चल
-
-
 राप्ती अञ्चल
-
-
 कर्णाली अञ्चल
-
-
 भेरी अञ्चल
-
-
 सेती अञ्चल
-
-
 महाकाली अञ्चल
-
-
-नेपालक जिलासभ
-[
-सम्पादन करी
-]
-
-
 झापा जिला
-
-
 इलाम जिला
-
-
 पाँचथर जिला
-
-
 ताप्लेजुङ जिला
-
-
 मोरङ जिला
-
-
 सुनसरी जिला
-
-
 धनकुटा जिला
-
-
 तेह्रथुम जिला
-
-
 भोजपुर जिला
-
-
 सङ्खुवासभा जिला
-
-
 सप्तरी जिला
-
-
 सिराहा जिला
-
-
 उदयपुर जिला
-
-
 खोटाङ जिला
-
-
 ओखलढुंगा जिला
-
-
 सोलुखुम्बु जिला
-
-
 धनुषा जिला
-
-
 महोत्तरी जिला
-
-
 सर्लाही जिला
-
-
 सिन्धुली जिला
-
-
 रामेछाप जिला
-
-
 दोलखा जिला
-
-
 काठमाडौं जिला
-
-
 ललितपुर जिला
-
-
 भक्तपुर जिला
-
-
 काभ्रेपलाञ्चोक जिला
-
-
 धादिङ जिला
-
-
 नुवाकोट जिला
-
-
 सिन्धुपाल्चोक जिला
-
-
 रसुवा जिला
-
-
-नेपालक प्रमुख शहर
-[
-सम्पादन करी
-]
-
-
 काठमाण्डौ
-
-
 पोखरा
-
-
 विरगञ्ज
-
-
 बिराटनगर
-
-
 नेपालगञ्ज
-
-
-घरेलू उपकरण (Domestic matters)
-[
-सम्पादन करी
-]
-
-
-खाद्यपदार्थ
- (
-en:Food
-)
-[
-सम्पादन करी
-]
-
-
 रोटी
- (
+(
 en:Bread
 )
-
-
 कफी
- (
+(
 en:Coffee
 )
-
-
 मकै
- (
+(
 en:Maize
 )
-
-
 कपास
- (
+(
 en:Cotton
 )
-
-
 भटमास
- (
+(
 en:Soya bean
 )
-
-
 गहूँ
- (
+(
 en:Wheat
 )
-
-
 जौ
- (
+(
 en:Barley
 )
-
-
 जई
- (
+(
 en:Oats
 )
-
-
 फल
- (
+(
 en:Fruit
 )
-
-
 तरकारी
- वा 
+वा
 सागसब्जी
- (
+(
 en:Vegetable
 )
-
-
 सुर्ती
- (
+(
 en:Tobacco
 )
-
-
 छुर्पी
- (
+(
 en:Cheese
 )
-
-
 दारु
- (
+(
 en:Alcohol
 )
-
-
 चाह
- (
+(
 en:Tea
 )
-
-
 धान
- (
+(
 en:Rice
 )
-
-
-पेयपदार्थ
- (
-en:Drinks
-)
-[
-सम्पादन करी
-]
-
-
 पानी
- (
+(
 en:Water
 )
-
-
 बियर
- (
+(
 en:Beer
 )
-
-
 वाइन
- (
+(
 en:Wine
 )
-
-
 कोका कोला
- (
+(
 en:Coca Cola
 )
-
-
 भोड्का
- (
+(
 en:Vodka
 )
-
-
 पेप्सी
- (
+(
 en:Pepsi
 )
-
-
 शर्वत
- (
+(
 en:Sharbat
 )
-
-
 दूध
- (
+(
 en:Milk
 )
-
-
-वर्तन
-[
-सम्पादन करी
-]
-
-
 नेपाली खाना बनाबएमे आवश्यक वर्तनसभ
-
-
 ई लेखमे सभ वर्तन सभके सूची अछि ।
-
-
-
-भूगोल
- (
-en:Geography
-)
-[
-सम्पादन करी
-]
-
-
-सभ 
+सभ
 महाद्वीप
- सभके बारेमे कनिकोमे तीन वाक्य-
-
-
-
+सभके बारेमे कनिकोमे तीन वाक्य-
 अफ्रिका
- (
+(
 en:Africa
 )
-
-
 अंटार्कटिका
- (
+(
 en:Antarctica
 )
-
-
 एशिया
- (
+(
 en:Asia
 )
-
-
 ओशिनिया
- (
+(
 en:Oceania
 )
-
-
 यूरोप
- (
+(
 en:Europe
 )
-
-
 उत्तर अमेरिका
- (
+(
 en:North America
 )
-
-
 दक्षिण अमेरिका
- (
+(
 en:South America
 )
-
-
-आन क्षेत्रसभ (Other Regions)
-[
-सम्पादन करी
-]
-
-
 मध्य पूर्व
- (
+(
 en:Middle East
 )
-
-
 ल्याटिन अमेरिका
- (
+(
 en:Latin America
 )
-
-
-अन्य (Other)
-[
-सम्पादन करी
-]
-
-
 सहारा
- (
+(
 en:Sahara
 )
-
-
 एन्डिज
- (
+(
 en:Andes
 )
-
-
 अमेजन नदी
- (
+(
 en:Amazon River
 )
-
-
 नाइल नदी
- (
+(
 en:Nile River
 )
-
-
 एटलान्टिक महासागर
- (
+(
 en:Atlantic Ocean
 )
-
-
 हिन्द महासागर
- (
+(
 en:Indian Ocean
 )
-
-
 प्रशान्त महासागर
- (
+(
 en:Pacific Ocean
 )
-
-
 अन्टार्क्टिक महासागर
- (
+(
 en:Southern Ocean
 )
-
-
 आर्कटिक महासागर
- (
+(
 en:Arctic Ocean
 )
-
-
 भूमध्य सागर
- (
+(
 en:Mediterranean Sea
 )
-
-
 काला सागर
- (
+(
 en:Black Sea
 )
-
-
 उत्तरी सागर
- (
+(
 en:North Sea
 )
-
-
 बाल्टिक सागर
- (
+(
 en:Baltic Sea
 )
-
-
 ज्वालामुखी
- (
+(
 en:Volcano
 )
-
-
 हिमालय
- (
+(
 en:Himalayas
 )
-
-
 एल्प्स
- (
+(
 en:Alps
 )
-
-
 ग्रान्ड क्यान्यन
- (
+(
 en:Grand Canyon
 )
-
-
 ग्रेट ब्यारियर रीफ
- (
+(
 en:Great Barrier Reef
 )
-
-
 मिसिसिपी नदी
- (
+(
 en:Mississippi River
 )
-
-
 नायगरा फल्स
- (
+(
 en:Niagara falls
 )
-
-
 तान्गानियाका ताल
- (
+(
 en:Lake Tanganyika
 )
-
-
 टिटीकाका ताल
- (
+(
 en:Lake Titicaca
 )
-
-
 विशाल ताल
- (
+(
 en:Great Lakes
 )
-
-
-शहर
- (
-Cities
-)
-[
-सम्पादन करी
-]
-
-
 दुनियाँ सभक प्रमुख नगर, ऐतिहासिक, अधिक जनसंख्या वा अधिक क्षेत्रफल।
-
-
-
 लण्डन
- (
+(
 en:London
 )
-
-
 पेरिस
- (
+(
 en:Paris
 )
-
-
 बर्लिन
- (
+(
 en:Berlin
 )
-
-
 इस्तानबुल
- (
+(
 en:Istanbul
- (formerly 
+(formerly
 Constantinople
 ))
-
-
 सेन्ट पिटर्सबर्ग
- (
+(
 en:St. Petersburg
 )
-
-
 मस्को
- (
+(
 en:Moscow
 )
-
-
 जेरुशलम
- (
+(
 en:Jerusalem
 )
-
-
 मक्का
- (
+(
 en:Mecca
 )
-
-
 टोकियो
- (
+(
 en:Tokyo
 )
-
-
 एथेन्स
- (
+(
 en:Athens
 )
-
-
 रोम
- (
+(
 en:Rome
 )
-
-
 शाङ्घाई
- (
+(
 en:Shanghai
 )
-
-
 बेइजिङ
- (
+(
 en:Beijing
 )
-
-
 न्यूयोर्क शहर
- (
+(
 en:New York City
 )
-
-
 वाशिंगटन
- (
+(
 en:Washington
 )
-
-
 तेनोखतित्लान
- (
+(
 en:Tenochtitlan
 )
-
-
 मुम्बई
- (
+(
 en:Bombay
- (Mumbai))
-
-
+(Mumbai))
 ब्यूनस आयर्स
- (
+(
 en:Buenos Aires
 )
-
-
 सियोल
- (
+(
 en:Seoul
 )
-
-
 जाकार्ता
- (
+(
 en:Jakarta
 )
-
-
 कराँची
- (
+(
 en:Karachi
 )
-
-
 मनिला
- (
+(
 en:Manila
 )
-
-
 साओ पाउलो
- (
+(
 en:Sao Paulo
 )
-
-
 मेक्सिको सिटी
- (
+(
 en:Mexico City
 )
-
-
 ढाका
- (
+(
 en:Dhaka
 )
-
-
 लागोस
- (
+(
 en:Lagos
 )
-
-
 काइरो
- (
+(
 en:Cairo
 )
-
-
 तेहरान
- (
+(
 en:Tehran
 )
-
-
 लिमा
- (
+(
 en:Lima
 )
-
-
 बोगोटा
- (
+(
 en:Bogota
 )
-
-
 बैंकक
- (
+(
 en:Bangkok
 )
-
-
 किन्शासा
- (
+(
 en:Kinshasa
 )
-
-
 रियो दी जेनेरियो
- (
+(
 en:Rio de Janeiro
 )
-
-
 बगदाद
- (
+(
 en:Baghdad
 )
-
-
 कोलकाता
- (
+(
 en:Calcutta
- (Kolkata))
-
-
+(Kolkata))
 बेंगलोर
- (
+(
 en:Bangalore
 )
-
-
 तिआन्जिन
- (
+(
 en:Tianjin
 )
-
-
 ओसाका
- (
+(
 en:Osaka
 )
-
-
 लस एन्जलस
- (
+(
 en:Los Angeles
 )
-
-
 हङकङ
- (
+(
 en:Hong Kong
 )
-
-
-इतिहास
- (
-en:History
-)
-[
-सम्पादन करी
-]
-
-
 टिप्पणी: निम्नलिखित सूची प्राय: अंग्रेज-केन्द्रित अछि आ "पश्चिमी सभ्यता"क वर्णन अछि । अन्य सभ्यता सभक विषयमें लेख सम्मिलित करवाक चाही ।"
-
-
 निम्नलिखित कनि से कनिक पाँच वाक्य-
-
-
-
 डायनोसर
- (
+(
 en:Dinosaur
 )
-
-
 मानवक विकास
- (
+(
 en:Human evolution
 )
-
-
 प्रागैतिहासिक काल
- (
+(
 en:Prehistory
 )
-
-
 पुरात्वशास्त्र
- (
+(
 en:Archaeology
 )
-
-
 पाषाण युग
- (
+(
 en:Stone Age
 )
-
-
 काँस्य युग
- (
+(
 en:Bronze Age
 )
-
-
 सूमेर सभ्यता
- (
+(
 en:Sumer
 )
-
 बाबिली सभ्यता
-
-
 प्राचीन मिस्रको सभ्यता
- (
+(
 en:Ancient Egypt
 )
-
-
 प्राचीन चीनी सभ्यता
- (
+(
 Ancient Chinese Civilization
 )
-
-
 लौह युग
- (
+(
 en:Iron Age
 )
-
-
 प्राचीन यूनानी सभ्यता
- (
+(
 en:Classical Greece
 )
-
-
 रोम साम्राज्य
- (
+(
 en:Roman Empire
 )
-
 प्राचीन रोम सभ्यता
-
-
 अन्धकार युग
- (
+(
 en:Dark Age
 )
-
-
 वाइकिङ
- (
+(
 en:Vikings
 )
-
-
 क्रूसेड
- (
+(
 en:Crusades
 )
-
-
 धार्मिक महाविच्छेद
- (
+(
 The Great Shism
 )
-
-
 कालो मृत्यु
- (
+(
 en:Black Death
 )
-
-
 पुनर्जागरण
- (
+(
 en:Renaissance
 )
-
-
 धर्मसुधार आन्दोलन
- (
+(
 en:Reformation
 )
-
-
 अमेरिकाक खोज
- (
+(
 en:Discovery of the Americas
 )
-
-
 स्पेनी धर्माधिकरण
- (
+(
 en:Spanish Inquisition
 )
-
-
 पवित्र रोम साम्राज्य
- (
+(
 en:Holy Roman Empire
 )
-
-
 अंग्रेजी गृहयुद्ध
- (
+(
 en:English Civil War
 )
-
-
 दासता
- (
+(
 en:Slavery
 )
-
-
 ज्ञानवर्धन
- the 
+the
 en:Enlightenment
 )
-
-
 फ्रान्सेली क्रान्ति
- (
+(
 en:French Revolution
 )
-
-
 औद्योगिक क्रान्ति
- (
+(
 en:Industrial Revolution
 )
-
-
 अमेरिकी गृहयुद्ध
- (
+(
 en:American Civil War
 )
-
-
 अफ्रिकाको लिये हातापाई
- (
+(
 en:Scramble for Africa
 )
-
-
 प्रथम विश्वयुद्ध
- (
+(
 en:World War I
 )
-
-
 रूसी क्रान्ति
- (
+(
 en:Russian Revolution
 )
-
-
 रूसी गृहयुद्ध
- (
+(
 en:Russian Civil War
 )
-
-
 स्पेनी गृहयुद्ध
- (
+(
 en:Spanish Civil War
 )
-
-
 द्वितीय विश्वयुद्ध
- (
+(
 en:World War II
 )
-
-
 यहूदी अग्निकान्ड
- (
+(
 en:Holocaust
 )
-
-
 शीत युद्ध
- (
+(
 en:Cold War
 )
-
-
 भियतनाम युद्ध
- (
+(
 en:Vietnam War
 )
-
-
 रंगभेद
- (
+(
 en:Apartheid
 )
-
-
 नेपालक इतिहास
-
-
 लिच्छविकाल
-
-
 मल्लवंश
-
-
 शाहवंश
-
-
 राणाशासन
-
-
 नेपालक प्रजातन्त्र
-
-
 नेपालक बहुदलीय प्रजातन्त्र
-
-
 नेपालक जनयुद्ध
- (
+(
 Nepalese Civil War
 )
-
-
 भारतको इतिहास
- (
+(
 en:History of India
 )
-
 सिन्धु घाटी सभ्यता
- (
+(
 en:Indus Valley Civilization
 )
-
-
 आर्यहरूको प्रवासको अवधारणा
-
-
 वैदिक सभ्यता
-
-
 अयोध्या वंश
-
-
 मौर्य वंश
-
-
 गुप्त वंश
-
-
 राजपूत काल
-
-
 शिशुनाग वंश
- (
+(
 en:Shishunaga dynasty
 )
-
-
 चोल वंश
-
-
 भारतमें इस्लामी शासन
- (Islamic rule of India)
-
-
+(Islamic rule of India)
 मुगल साम्राज्य
- (
+(
 en:Mughal Empire
 )
-
-
 मराठा साम्राज्य
-
-
 ब्रिटिश राज
- (
+(
 en:British Raj
 )
-
-
 भारतीय स्वतन्त्रता संग्राम
- (
+(
 en:Indian independence
 )
-
-
 भारतक विभाजन
- (
+(
 en:Partition of India
 )
-
-
 चीनक इतिहास
- (
+(
 en:History of China
 )
-
 युआन वंश
- (
+(
 en:Yuan Dynasty
 )
-
-
 मिङ वंश
- 
 en:Ming Dynasty
 )
-
-
 क्विङ वंश
- 
 en:Qing Dynasty
 )
-
-
 चीनियाँ गृहयुद्ध
- 
 en:Chinese Civil War
 )
-
-
 जापानक इतिहास
- (
+(
 en:History of Japan
 )
-
 मेइजी पुनर्स्थापन
- (
+(
 en:Meiji Restoration
 )
-
-
 अस्ट्रेलियाक इतिहास
- (
+(
 en:History of Australia
 )
-
-
 रूसको इतिहास
- (
+(
 en:History of Russia
 )
-
 रूसी साम्राज्य
- (
+(
 en:Imperial Russia
 )
-
-
 अफ्रिकाक इतिहास
- (
+(
 en:History of Africa
 )
-
-
 इजराइलक इतिहास
- (
+(
 en:History of Israel
 )
-
-
 विभिन्न धर्म/संस्कृतिक इतिहास-
-
-
-
 हिन्दू धर्मक इतिहास
- (
+(
 en:History of Hinduism
 )
-
-
 इसलामक इतिहास
- (
+(
 en:History of Islam
 )
-
-
 यहूदी धर्मक इतिहास
- (
+(
 en:History of Judaism
 )
-
-
 इसाई धर्मक इतिहास
- (
+(
 en:History of Christianity
 )
-
-
 बौद्ध धर्मक इतिहास
- (
+(
 en:History of Buddhism
 )
-
-
 सिख धर्मक इतिहास
- (
+(
 en:History of Sikhism
 )
-
-
 जैन धर्मक इतिहास
- (
+(
 en:History of Jainism
 )
-
-
-राजनीति
- (
-en:Politics
-)
-[
-सम्पादन करी
-]
-
-
 अराजकता
- या 
+या
 अशासन
- (
+(
 en:Anarchy
 )
-
-
 साम्यवाद
- (
+(
 en:Communism
 )
-
-
 फासीवाद
- (
+(
 en:Fascism
 )
-
-
 प्रजातन्त्र
- (
+(
 en:Democracy
 )
-
-
 राजतन्त्र
- (
+(
 en:Monarchy
 )
-
-
 तानाशाही
- (
+(
 en:Dictatorship
 )
-
-
 राष्ट्रवाद
- (
+(
 en:Nationalism
 )
-
-
 वैश्वीकरण
- (
+(
 en:Globalisation
 )
-
-
 समाजवाद
- (
+(
 en:Socialism
 )
-
-
 समाजवादी प्रजातंत्र
- (
+(
 en:Social Democracy
 )
-
-
 औदार्यवाद
- (
+(
 en:Liberalism
 )
-
-
 लिबेर्तवाद
- (
+(
 en:Libertarianism
 )
-
-
 पूंजीवाद
- (
+(
 en:Capitalism
 )
-
-
 साम्राज्यवाद
- (
+(
 en:Imperialism
 )
-
-
 रंगभेद
- (
+(
 en:Racism
 )
-
-
 स्त्रीवाद
- (
+(
 en:Feminism
 )
-
-
 धार्मिक रुढिवाद
- (
+(
 en:Religious Fundamentalism
 )
-
-
-मानवीय मुद्दा (Human issues)
-[
-सम्पादन करी
-]
-
-
 मानवाधिकार
- (
+(
 en:Human rights
 )
-
-
 लिङ्गवाद
- (
+(
 en:Sexism
 )
-
-
 नस्लवाद
- (
+(
 en:Racism
 )
-
-
 मृत्युदण्ड
- (
+(
 en:Capital punishment
 )
-
-
 गर्भपतन
- (
+(
 en:Abortion
 )
-
-
 गर्भनिरोध
- (
+(
 en:Birth control
 )
-
-
 युद्ध
- (
+(
 en:War
 )
-
-
 शान्ति
- (
+(
 en:Peace
 )
-
-
 समलैङ्गिकता
- (
+(
 en:Homosexuality
 )
-
-
 इच्छा मृत्यु
- वा 
+वा
 यूथेनेजिया
- (
+(
 en:Euthanasia
 )
-
-
-अन्तर्राष्ट्रिय (International)
-[
-सम्पादन करी
-]
-
-
 संयुक्त राष्ट्र
- (
+(
 en:United Nations
 )
-
-
 नोबेल पुरस्कार
- (
+(
 en:Nobel Prize
 )
-
-
 अरब लीग
- (
+(
 en:Arab League
 )
-
-
 नाटो
- (
+(
 en:NATO
 )
-
-
 यूरोपेली सङ्घ
- (
+(
 en:European Union
 )
-
-
 ओलम्पिक खेल
- (
+(
 en:Olympic Games
 )
-
-
 ओपेक
- वा 
+वा
 ओ.पी.ई.सी
- (
+(
 en:OPEC
 )
-
-
 कूटनीति
- (
+(
 en:Diplomacy
 )
-
-
 स्वतन्त्रता
- (
+(
 en:Freedom
 )
-
-
 रेड क्रस
- (
+(
 en:Red Cross
 /
 en:Red Crescent
 )
-
-
 विश्व स्वास्थ्य संगठन
- (
+(
 en:World Health Organization
 )
-
-
-धर्म
- (
-Religions
-[
-सम्पादन करी
-]
-
-
 निम्नलिखित कनि से कनिक पाँच वाक्य-
-
-
-
 ईश्वर
- (
+(
 en:God
 )
-
-
 देवता
- (
+(
 en:Gods
 )
-
-
 आत्मा (देवता)
- (
+(
 en:Spirits
 )
-
-
 बहाई धर्म
- (
+(
 en:Baha'i
 )
-
 बाब
- (
+(
 en:The Báb
 )
-
-
 बहाउल्लाह
- (
+(
 en:Bahá'u'lláh
 )
-
-
 बौद्ध धर्म
- (
+(
 en:Buddhism
 )
-
 गौतम बुद्ध
- (
+(
 en:Gautama Buddha
 )
-
-
 ईसाई धर्म
- (
+(
 en:Christianity
 )
-
 ईसा मसीह
- (
+(
 en:Jesus Christ
 )
-
-
 पोप
- (
+(
 en:Pope
 )
-
-
 बाइबल
- (
+(
 en:Bible
 )
-
-
 चर्च
- (
+(
 en:Church
 )
-
-
 शैतान
-
-
 कन्फ्युशियस धर्म
- (
+(
 en:Confucianism
 )
-
 कन्फ्यूशियस
- (
+(
 en:Confucius
 )
-
-
 हिन्दू धर्म
- (
+(
 en:Hinduism
 )
-
 वेद
-
-
 उपनिषद्
-
-
 पुराण
-
-
 भगवद्गीता
-
-
 राम
-
-
 कृष्ण
-
-
 शिव
-
-
 ब्रह्म
-
-
 इसलाम
- (
+(
 en:Islam
 )
-
 मुहम्मद
- (
+(
 en:Muhammad
 )
-
-
 कुरान
- (
+(
 en:Qur'an
 )
-
-
 मस्जिद
- (
+(
 en:Mosque
 )
-
-
 जैन धर्म
- (
+(
 en:Jainism
 )
-
-
 यहूदी धर्म
- (
+(
 en:Judaism
 )
-
 इब्राहिम
- (
+(
 en:Abraham
 )
-
-
 मूसा
- (
+(
 en:Moses
 )
-
-
 तोरा
- (
+(
 en:Torah
 )
-
-
 यहूदी मंदिर
- (
+(
 en:Synagogue
 )
-
-
 शिन्तो धर्म
- (
+(
 en:Shinto
 )
-
-
 सिख धर्म
- (
+(
 en:Sikhism
 )
-
 सिखसभक दश गुरु
- (
+(
 en:the Ten Gurus
 )
-
-
 गुरु ग्रन्थ साहिब
- Sri 
+Sri
 en:Guru Granth Sahib
 )
-
-
 ताओ धर्म
- (
+(
 en:Taoism
 )
-
 लाओ-त्सू
- (
+(
 en:Lao Tsu
 )
-
-
 ताओ-ते-चिंग
- (
+(
 en:Tao Te Ching
 )
-
-
 पारसी धर्म
- (
+(
 en:Zoroastrianism
 )
-
 जरथुश्त्र
- (
+(
 en:Zoroaster
 )
-
-
 वूडू
- (
+(
 en:Voodoo
 )
-
-
 शैतानी धर्म
-
-
 नास्तिकता
- (
+(
 en:Atheism
 )
-
-
 अज्ञेयवाद
- (
+(
 en:Agnosticism
 )
-
-
 मानवतावाद
- (
+(
 en:Humanism
 )
-
-
-आधुनिक समाजक मनोरंजन (Popular Culture)
-[
-सम्पादन करी
-]
-
-
 निम्नलिखित कनि से कनिक पाँच वाक्य-
-
-
-
 टेलिभिजन
- (
+(
 en:Television
 )
-
-
 रेडियो
- (
+(
 en:Radio
 )
-
-
 चलचित्र
- (
+(
 en:Film
 )
-
-
 नाटक
- (
-en:Theatre 
+(
+en:Theatre
 )
-
-
 साहित्य
- (
+(
 en:Literature
 )
-
-
 नृत्य
- (
+(
 en:Dance
 )
-
-
 कला
- (
+(
 en:Art
 )
-
-
 संगीत
- (
+(
 en:Music
 )
-
 पप
- (
+(
 en:Pop
 )
-
-
 रक
- (
+(
 en:Rock
 )
-
-
 पारम्परिक
- (
+(
 en:Traditional
 )
-
-
 कला (
 पाश्चात्य शास्त्रीय
- / 
+/
 जाज
 ) (Art (
 Western classical
 /
 en:Jazz
 ))
-
-
 कमिक्स
- (
+(
 en:Comics
 )
-
-
 बीटल्स
- (
+(
 en:The Beatles
 )
-
-
 खेल
- (
+(
 en:Games
 )
-
 चेस
- (
+(
 en:Chess
 )
-
-
 बदूक
- (
+(
 Go
 )
-
-
 मन्काला
- (
+(
 en:Mancala
 )
-
-
 चेक्कर्स
- (
+(
 en:Checkers
 )
-
-
 नर्द
- (
+(
 en:Backgammon
 ))
-
-
 ताश
- (
+(
 en:Playing cards
 )
-
-
 जुवा
- (
+(
 en:Dice
 )
-
-
-विज्ञान
- (
-en:Science
-)
-[
-सम्पादन करी
-]
-
-
 मुख्य विषय सभक कम से कम पाँच वाक्य वर्ण न।
-
-
-
-भौतिक विज्ञान
- (
-en:Physics
-)
-[
-सम्पादन करी
-]
-
-
 मूल संकल्पनासभ
- (Basic concepts):
-
-
-
+(Basic concepts):
 ताप
- (
+(
 en:Heat
 )
-
-
 विद्युत
- (
+(
 en:Electricity
 )
-
-
 चुम्बकत्व
- (
+(
 en:Magnetism
 )
-
-
 गुरुत्वाकर्षण
- (
+(
 en:Gravity
 )
-
-
 मात्रा
- या 
+या
 पिण्ड
- (
+(
 en:Mass
 )
-
-
 बल
- (
+(
 en:Force
 )
-
-
 समय
- (
+(
 en:Time
 )
-
-
 लम्बाई
- (
+(
 en:Length
 )
-
-
 क्षेत्रफल
- (
+(
 en:Area
 )
-
-
 वेग
- (
+(
 en:Velocity
 )
-
-
 त्वरण
- या 
+या
 प्रवेग
- (
+(
 en:Acceleration
 )
-
-
 परमाणु
- (
+(
 en:Atom
 )
-
-
 इलेक्ट्रोन
- (
+(
 en:Electron
 )
-
-
 प्रोटोन
- (
+(
 en:Proton
 )
-
-
 न्यूट्रोन
- (
+(
 en:Neutron
 )
-
-
 फोटोन
- (
+(
 en:Photon
 )
-
-
 क्वार्क
- (
+(
 en:Quark
 )
-
-
 उच्चतर स्तर
- (Higher level):
-
-
-
+(Higher level):
 न्यूटनके गतिके नियम
- (
+(
 en:Newton's laws of motion
 )
-
-
 उष्मागतिकी
- (
+(
 en:Thermodynamics
 )
-
-
 परमाणु सिद्धान्त
- (
+(
 en:Atomic theory
 )
-
-
 मूल कणसभके भौतिकी
- (
+(
 en:Particle physics
 )
-
-
 [सापेक्षिकताको सिद्धान्त]] (
 en:Theory of relativity
 )
-
-
 क्वान्टम सिद्धान्त
- (
+(
 en:Quantum theory
 )
-
-
-रसायन शास्त्र
- (
-en:Chemistry
-)
-[
-सम्पादन करी
-]
-
-
 तत्व
- (
+(
 en:Chemical element
 )
-
 आवर्त सारणी
- (
+(
 en:Periodic table
 )
-
-
-an article on every one of the 
+an article on every one of the
 chemical elements
 , with the properties table data
-
-
 रासायनिक अभिक्रिया
- (
+(
 en:Chemical reaction
 )
-
-
 अणु
- (
+(
 en:Molecule
 )
-
-
 अम्ल
- (
+(
 en:Acid
 )
-
-
 क्षार
- (
+(
 en:Alkali
 )
-
-
 पीएच मान
- (
+(
 en:pH
 )
-
-
 लवण
- (
+(
 en:Salt
 )
-
-
 यौगिक
- (
+(
 en:Compound
 )
-
-
 कार्बनिक रसायन
- (
+(
 en:Organic chemistry
 )
-
-
-जीव विज्ञान
- (
-en:Biology
-)
-[
-सम्पादन करी
-]
-
-
 कोशिका
- (
+(
 en:cell
 )
-
-
 जीवाणु
- (
+(
 en:Bacterium
 )
-
-
 पूर्वजीवाणु
- (
+(
 en:Archaea
 )
-
-
 प्रोटिस्ट
- (
+(
 en:Protist
 )
-
-
 ढुसी
- (
+(
 en:Fungus
 )
-
-
 बिरुवा
- (
+(
 en:Plant
 )
-
 रुख
- (
+(
 en:Tree
 )
-
-
 फूल
- (
+(
 en:Flower
 )
-
-
 प्राणी
- (
+(
 en:Animal
 )
-
 चरा
- (
+(
 en:Bird
 )
-
-
 माछा
 ) (
 en:Fish
 )
-
-
 घोडा
- (
+(
 en:Horse
 )
-
-
 किरा
- (
+(
 en:Insect
 )
-
-
 स्तनधारी
- (
+(
 en:Mammal
 )
-
-
 सरिसृप
- या 
+या
 सर्पणशील
- (
+(
 en:Reptile
 )
-
-
 सर्प
- (
+(
 en:Snake
 )
-
-
 हात्ती
- (
+(
 en:Elephant
 )
-
-
 उँट
- (
+(
 en:Camel
 )
-
-
 पशु
- (
+(
 en:Cattle
 )
-
-
 भेडा
- (
+(
 en:Sheep
 )
-
-
 कुत्ता
- (
+(
 en:Dog
 )
-
-
 बिलाई
- (
+(
 en:Cat
 )
-
-
 सिंह
- (
+(
 en:Lion
 )
-
-
 बाज
- (
+(
 en:Eagle
 )
-
-
 भालु
- (
+(
 en:Bear
 )
-
-
 ड्र्यागन
- (
+(
 en:Dragon
 )
-
-
 भूविज्ञान
- (
+(
 en:Geology
 )
-
-
 परिस्थिति-विज्ञान
- (
+(
 en:Ecology
 )
-
-
-खगोल शास्त्र
- (
-en:Astronomy
-)
-[
-सम्पादन करी
-]
-
-
 सौर्य परिवार
- (
+(
 en:Solar system
 )
-
 सूर्य
- (
+(
 en:Sun
 )
-
-
 पृथ्वी
- (
+(
 en:Earth
 )
-
 चन्द्रमा
- (
+(
 en:Moon
 )
-
-
 बुध
- (
+(
 en:Mercury
 )
-
-
 शुक्रग्रह
- (
+(
 en:Venus
 )
-
-
 मंगलग्रह
- (
+(
 en:Mars
 )
-
-
 गुरु
- (
+(
 en:Jupiter
 )
-
-
 शनिग्रह
- (
+(
 en:Saturn
 )
-
-
 अरुणग्रह
- (
+(
 en:Uranus
 )
-
-
 वरुणग्रह
- (
+(
 en:Neptune
 )
-
-
 यमग्रह
- (
+(
 en:Pluto
 )
-
-
 मंदाकिनी
- (
+(
 en:Galaxy
 )
-
-
 आकाश गंगा
- (
+(
 en:Milky Way
 )
-
-
 बिग बैंग
- (
+(
 en:Big Bang
 )
-
-
-खनिज
- (
-en:Minerals
-)
-[
-सम्पादन करी
-]
-
-
 नुन
- (
+(
 en:Salt
 )
-
-
 हीरा
- (
+(
 en:Diamond
 )
-
-
 चूना
- (
+(
 en:Chalk
 )
-
-
 ग्रेनाइट
- (
+(
 en:Granite
 )
-
-
 चकमक
- (
+(
 en:Flint
 )
-
-
 बलुवा ढुङ्गा
- (
+(
 en:Sandstone
 )
-
-
 क्वार्टज
- (
+(
 en:Quartz
 )
-
-
-दैनिक उपयोगक 
-धातुहरू
- (Elemantal 
-en:metals
- in common use)
-[
-सम्पादन करी
-]
-
-
 सुन
- (
+(
 en:Gold
 )
-
-
 चाँदी
- (
+(
 en:Silver
 )
-
-
 फलाम
- (
+(
 en:Iron
 )
-
-
 तामा
- (
+(
 en:Copper
 )
-
-
 जस्ता
- (
+(
 en:Zinc
 )
-
-
 टीन
- (
+(
 en:Tin
 )
-
-
 एल्युमिनियम
- (
+(
 en:Aluminium
 )
-
-
-उपयोगी 
-मिश्रधातु
- (
-en:Alloys
- in common use)
-[
-सम्पादन करी
-]
-
-
 काँस
- (
+(
 en:Bronze
 )
-
-
 पित्तल
- (
+(
 en:Brass
 )
-
-
 स्पात
- वा 
+वा
 स्टिल
- (
+(
 en:Steel
 )
-
-
-खनिज तेल
- (
-en:Oil
-)
-[
-सम्पादन करी
-]
-
-
-मौसम विज्ञान
- (
-en:Meteorology
-)
-[
-सम्पादन करी
-]
-
-
 वर्षा
- (
+(
 en:Rain
 )
-
-
 बादल
- (
+(
 en:Cloud
 )
-
-
 हिउँ
- (
+(
 en:Snow
 )
-
-
 असिना
- (
+(
 en:Hail
 )
-
-
 चक्रवात
- (
+(
 en:Hurricane
 )
-
-
 विश्वव्यापी तापमानमे वृद्धि
- (
+(
 en:Global warming
 )
-
-
 एल-नीनो
- (
+(
 en:El Niño
 )
-
-
 एल-नीना
- (
+(
 en:La Niña
 )
-
-
-प्रविधि
- एवं 
-आविष्कार
- (
-en:Technology
- and 
-en:invention
-)
-[
-सम्पादन करी
-]
-
-
 कृषि
- (
+(
 en:Agriculture
 )
-
-
-मानव द्वारा 
+मानव द्वारा
 अग्निके
- उपयोग (Human use of 
+उपयोग (Human use of
 fire
 )
-
-
 धातुविज्ञान
- (
+(
 en:Metallurgy
 )
-
-
 लेखन
- (
+(
 en:Writing
 )
-
-
 वर्णमाला
- (
+(
 en:Alphabet
 )
-
-
 जहाज
- (
+(
 en:Ship
 )
-
-
 पाल
- (
+(
 en:Sail
 )
-
-
 छड्के सतह
- (
+(
 en:Inclined plane
 )
-
-
 पाङ्ग्रा
- (
+(
 en:Wheel
 )
-
-
 घिर्नी
- (
+(
 en:Pulley
 )
-
-
 उत्तोलक
- (
+(
 en:Lever
 )
-
-
 पेच
- (
+(
 en:Screw
 )
-
-
 फान
- वा पच्चरी (
+वा पच्चरी (
 en:Wedge
 )
-
-
 शस्त्र
- (
+(
 en:Weapon
 )
-
 बन्दुक
- (
+(
 en:Gun
 )
-
-
 कुरहैर
- (
+(
 en:Axe
 )
-
-
 तरवार
- (
+(
 en:Sword
 )
-
-
 धनु
- (
+(
 en:Longbow
 )
-
-
 विस्फोटक पदार्थ
- (
+(
 en:Explosives
 )
-
-
 बारूद
- (
+(
 en:Gunpowder
 )
-
-
 साइकल
- (
+(
 en:Bicycle
 )
-
-
 बाष्प इन्जिन
- (
+(
 en:Steam engine
 )
-
-
 रेल
- (
+(
 en:Train
 )
-
-
 गाडी
- (
+(
 en:Automobile
 )
-
-
 विद्युत
- (
+(
 en:Electricity
 )
-
-
 इलेक्ट्रोनिक्स
- (
+(
 en:Electronics
 )
-
-
 विद्युतीय मोटर
- (
+(
 en:Electric motor
 )
-
-
 रेडियो
- (
+(
 en:Radio
 )
-
-
 टेलिभिजन
- (
+(
 en:Television
 )
-
-
 टेलिफोन
- (
+(
 en:Telephone
 )
-
-
 वायुयान
- वा 
+वा
 विमान
- (
+(
 en:Aircraft
 )
-
-
 कम्प्युटर
- (
+(
 en:Computer
 )
-
 लिनक्स
- (
+(
 en:Linux
 )
-
-
 माइक्रोसफ्ट विन्डोज
- (
+(
 en:Microsoft Windows
 )
-
-
 म्याक
- (
+(
 en:MacOS
 )
-
-
 लेजर
- (
+(
 en:Laser
 )
-
-
 इन्टरनेट
- (
+(
 en:Internet
 )
-
-
-भाषा
- (
-en:Languages
-)
-[
-सम्पादन करी
-]
-
-
 नेपाली
 (
 en:Nepalese language
 )
-
-
 सरल अंग्रेजी
- (
+(
 en:Simple English
 )
-
-
 अंग्रेजी भाषा
- (
+(
 en:English Language
 )
-
-
 चीनी भाषा
- (
+(
 en:Mandarin
 )
-
-
 क्यान्टोनी भाषा
- (
+(
 en:Cantonese
 )
-
-
 अरबी
- (
+(
 en:Arabic
 )
-
-
 जर्मनी भाषा
- (
+(
 en:German
 )
-
-
 बहासा इन्डोनेशिया
- (
+(
 en:Bahasa Indonesia
 )
-
-
 रूसी भाषा
- (
+(
 en:Russian
 )
-
-
 स्पेनी भाषा
- (
+(
 en:Spanish
 )
-
-
 फ्रान्सेली भाषा
- (
+(
 en:French Language
 )
-
-
 एस्पेरान्तो
- (
+(
 en:Esperanto
 )
-
-
 ल्याटिन
- (
+(
 en:Latin
 )
-
-
 आधुनिक यूनानी भाषा
- (
+(
 en:Modern Greek language
 )
-
-
 प्राचीन यूनानी भाषा
- (
+(
 en:Classical Greek language
 )
-
-
 जापानी भाषा
- (
+(
 en:Japanese language
 )
-
-
 कोरियाली भाषा
- (
+(
 en:Korean language
 )
-
-
 थाई भाषा
- (
+(
 en:Thai language
 )
-
-
 भियतनामी भाषा
- (
+(
 en:Vietnamese language
 )
-
-
 पोर्चुगली भाषा
- (
+(
 en:Portuguese language
 )
-
-
 इटाली भाषा
- (
+(
 en:Italian language
 )
-
-
 डच भाषा
- (
+(
 Dutch
 )
-
-
 हिन्दी
- (
+(
 en:Hindi
 )
-
-
-नेपालक भाषा सभ
-[
-सम्पादन करी
-]
-
-
 नेपाली
 (
 en:Nepalese language
 )
-
-
 संस्कृत
- (
+(
 en:Sanskrit language
 )
-
-
 नेवारी भाषा
- वा 
+वा
 नेपाल भाषा
-
-
 मैथिली भाषा
-
-
 तामाङ भाषा
-
-
 मगर भाषा
-
-
 गुरुङ भाषा
-
-
 लिम्बु भाषा
-
-
 भोजपुरी भाषा
-
-
 हिन्दी
- (
+(
 en:Hindi
 )
-
-
 उर्दू
- (
+(
 en:Urdu
 )
-
-
-वास्तुकला
- (
-en:Architecture
-)
-[
-सम्पादन करी
-]
-
-
 पिरामिड
- (
+(
 en:Pyramids
 )
-
-
 ग्रेटवाल
- (
+(
 en:Great Wall of China
 )
-
-
 गुम्बज
- (
+(
 en:Arch
 )
-
-
 चैत्य
- (
+(
 en:Dome
 )
-
-
 पुल
- (
+(
 en:Bridge
 )
-
-
 किला
- (
+(
 en:Nail
 )
-
-
 विश्वका सात आश्चर्य
- (
+(
 en:The seven wonders of the world
 )
-
-
 ताज महल
- (
+(
 en:Taj Mahal
 )
-
-
-गणित
- (
-en:Mathematics
-)
-[
-सम्पादन करी
-]
-
-
 संख्या
- (
+(
 en:Number
 )
-
 प्राकृतिक संख्या
- (
+(
 en:Natural number
 )
-
-
 पूर्ण संख्या
- (
+(
 en:Integer
 )
-
-
 परिमेय संख्या
- (
+(
 en:Rational number
 )
-
-
 वास्तविक संख्या
- (
+(
 en:Real number
 )
-
-
 समिश्र संख्या
- (
+(
 en:Complex number
 )
-
-
 ज्यामिति
- (
+(
 en:Geometry
 )
-
-
 बीजगणित
- (
+(
 en:Algebra
 )
-
 समीकरण
- (
+(
 en:Equation
 )
-
-
 चर
- (
+(
 en:Variable
 )
-
-
 सिद्धि
- या 
+या
 प्रमाण
- (
+(
 en:Proof
 )
-
-
 कलन शास्त्र
- (
+(
 en:Calculus
 )
-
-
 त्रिकोणमिति
- (
+(
 en:Trigonometry
 )
-
-
 पंचांग
- (
+(
 en:Calendar
 )
-
-
 समुच्चय सिद्धान्त
- (
+(
 en:Set theory
 )
-
-
 तर्कशास्त्र
- (
+(
 en:Logic
 )
-
-
-गणितज्ञ
- (
-en:Mathematicians
-)
-[
-सम्पादन करी
-]
-
-
 आर्किमिडीज
- (
+(
 en:Archimedes
 )
-
-
 पायथागोरस
- (
+(
 en:Pythagoras
 )
-
-
 फिबोन्नाची
- (
+(
 en:Fibonnacci
 )
-
-
 ब्लेज पास्कल
- (
+(
 en:Blaise Pascal
 )
-
-
 रने डेकार्ट
-
-
 कार्ल गस
- (
+(
 en:Karl Gauss
 )
-
-
 आइजक न्यूटन
- (
+(
 en:Isaac Newton
 )
-
-
 निकोलाय लोबाचेव्स्की
-
-
 अल्बर्ट आइनस्टाइन
- (
+(
 en:Albert Einstein
 )
-
-
-शारीरिक
- (
-en:Anatomy
-)
-[
-सम्पादन करी
-]
-
-
 योनि
- (
+(
 en:Vulva
 )
-
-
 शिश्न
- वा 
+वा
 लिङ्ग
 (
 en:Penis
 )
-
-
 आमाशय
- (
+(
 en:Stomach
 )
-
-
 करेजा
- (
+(
 en:Liver
 )
-
-
 कंकाल
- (
+(
 en:Skeleton
 )
-
-
 स्तन
- (
+(
 en:Breast
 )
-
-
 छाला
- (
+(
 en:Skin
 )
-
-
 कपार
 (
 en:Head
 )
-
 आँइख
- (
+(
 en:Eye
 )
-
-
 मुह
- (
+(
 en:Mouth
 )
-
-
 कान
- (
+(
 en:Ear
 )
-
-
 मस्तिष्क
- (
+(
 en:Brain
 )
-
-
 पाखुर
- (
+(
 en:Arm
 )
-
 कोहिनी
- (
+(
 en:Elbow
 )
-
-
 नाडी
- (
+(
 en:Wrist
 )
-
-
 हात
- (
+(
 en:Hand
 )
-
-
 तरहती
- (
+(
 en:Palm
 )
-
 आङगुर
- (
+(
 en:Finger
 )
-
-
 घुट्टी
- (
+(
 en:Ankle
 )
-
-
 तरबा
- (
+(
 en:Foot
 )
-
-
-प्रजनन (Reproduction)
-[
-सम्पादन करी
-]
-
-
 गर्भावस्था
- (
+(
 en:Pregnancy
 )
-
 भ्रूण
- (
+(
 en:Fetus
 )
-
-
 सालनाल
- (
+(
 en:Placenta
 )
-
-
-
-
-
-
-रोग वा चिकित्सा (
-en:Medicine
-)
-[
-सम्पादन करी
-]
-
-
-रोग
- (
-en:Illness
-)
-[
-सम्पादन करी
-]
-
-
 सरुवा रोग
 (
 en:Infectious disease
 )
-
-
 मानसिक रोग
- (
+(
 en:Mental illness
 )
-
-
 हृदय रोग
- (
+(
 en:Heart disease
 )
-
-
 कर्कट रोग
- (
+(
 en:Cancer
 )
-
-
 कुपोषण
 (
 en:Malnutrition
 )
-
-
 भोकमरी
 (
 en:Starvation
 )
-
-
 अपच
- (
+(
 en:Obesity
 )
-
-
 हैजा
- (
+(
 en:Cholera
 )
-
-
 क्षयरोग
- (
+(
 en:Tuberculosis
 )
-
-
 एड्स
- (
+(
 en:AIDS
 )
-
-
 बिफर
 (
 en:Smallpox
 )
-
-
 कुष्ठरोग
- (
+(
 en:Leprosy
 )
-
-
-चिकित्सा (Medical treatment)
-[
-सम्पादन करी
-]
-
-
 चिकित्सा
- (
+(
 en:Medication
 )
-
-
 खोप
- (
+(
 en:Vaccination
 )
-
-
 शल्यचिकित्सा
- (
+(
 en:Surgery
 )
-
-
-खेल (Sport)
-[
-सम्पादन करी
-]
-
-
 फुटबल
- (
+(
 en:Soccer
 )
-
-
 क्रिकेट
- (
+(
 en:Cricket
 )
-
-
 बेसबल
- (
+(
 en:Baseball
 )
-
-
 अमेरिकन फुटबल
- (
+(
 en:American football
 )
-
-
 एथलेटिक्स
- (
+(
 en:Athletics
 )
-
-
 पौडी
- (
+(
 en:Swimming
 )
-
-
-प्रकोप (
-en:Disasters
-)
-[
-सम्पादन करी
-]
-
-
 भूकम्प
- (
+(
 en:Earthquake
 )
-
-
 ज्वालामुखी
- (
+(
 en:Volcano
 )
-
-
 तूफान
- (
+(
 en:Hurricane
 )
-
-
 बाढी
- (
+(
 en:Flood
 )
-
-
 हिमपहिरो
- (
+(
 en:Avalanche
 )
-
-
 नाभिकीय गलाव
- (
+(
 en:Nuclear meltdown
 )
-
-
 समुन्द्री आँधी
- (
+(
 en:Tornado
 )
-
-
 सूनामी
- (
+(
 en:Tsunami
 )
-
-
-रंग
- (
-en:Colors
-)
-[
-सम्पादन करी
-]
-
-
 निर
- (
+(
 en:Blue
 )
-
-
 लाल
- (
+(
 en:Red
 )
-
-
 हरियर
- (
+(
 en:Green
 )
-
-
 पियर
- (
+(
 en:Yellow
 )
-
-
 केसरी
- (
+(
 en:Saffron
 )
-
-
 कारी
- (
+(
 en:Black
 )
-
-
 उजर
- (
+(
 en:White
 )
-
-
 संतोला
- (
+(
 Orange
 )
-
-
-
-
-
-
-

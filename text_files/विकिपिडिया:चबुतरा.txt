@@ -1,2271 +1,913 @@
-
-
-
-
-
-
-नव आगन्तुक सभके स्वागत अछि
-  विकिपिडिया एक एहन माध्यम अछि जे अहाँक विचारके समाज तक पहुँचाबैत अछि आ अहाँक विचारसँ कराबैत अछि । विकिपिडियाद्वारा हम सभ मिथिलाक संस्कृति तथा विज्ञान, कला आर दर्शनक जानकारी विश्वभरि मैथिली पढनिहार आ लिखनिहारधरि पहुँचि सकैत छी । अतः शुद्ध मैथिली जाननिहार आ बुझनिहार सभसँ अनुरोध अछि, जे अहाँ सभक कनिहो समय अछि तँ अपन जानकारीसभ मैथिली विकिपिडियामे राखी । एतय विकिपिडियाक प्रयोक्तासभसँ विकिपिडियासँ सम्बन्धित प्रश्न पुइछ सकैत छी । प्राविधिक विषयमे सेहो एतय प्रश्न पुछ सकैत छी । नवका मत लिखैक लेल 
-परिवर्तन
- ट्याबमे क्लिक करी, मुदा पहिने निर्देशन सभ पढी ।:
-
-
-
-
-यदि अहाँ के प्रश्न विकिपिडियाके समबन्ध में नै अछि तहन 
-रिफरेन्स डेस्कमें
- प्रयास करब ।
-
-
-माईनजन/प्रवन्धक सभ के सूचना देवाक लेल 
-प्रवन्धक सूचनाके
- प्रयोग कएल जाउँ ।
-
-
-कोनो विशेष लेखके सम्बन्धमें प्रश्न पुछए परत "ई पृष्ठ के सम्बन्धमे वार्ता करु" जडीके उपयोग कएर के उक्त लेखके 
-वार्ता पृष्ठमे
- जाएब (वा परिवर्तन करब) ।
-
-
-त्रुटि (बग) रिपोर्ट आ नव विशेषता के प्रस्ताव राखए के लेल वोकरा 
-श्रोत
- वा 
-मिडियाविकिमे
- राखल जाउँ ।
-
-
-सर्भरके स्थिति देखए के लेल 
-विकिमीडिया सर्वर (अंग्रेजी में)ऐ
- पृष्ठ देखुँ ।
-
-
-विकिपिडिया विज्ञापन के माध्यम नै छी
- । कृपया एकर उपयोग एहन काम के लेल नै करू ।
-
-
-विकिपिडिया कोनो कम्पनी नै छी । विकिपिडियाके प्रयोक्ता सभ जागीरदार नै छी; विकिपिडिया केकरो नोकरी में नै राखएत अछि; विकिपिडिया पैसा के अपेक्षा सहो नै करएत अछि । मुदा, 
-हम
- सभ अहाँके 
-चन्दा
-के लेल स्वागत करएत अछि ।
-
-
-जुडल सहायताके पृष्ठ: 
-बैंसी पुछय जाएवाला प्रश्न सभ
- - 
-सहयोग
- - 
-परिचय
-,
-
-
-आर सहायता : 
-मेल सूची
-आइआरसी च्यानल
-
-
-कृपया भाषाके सम्बन्धित सिकायत के लेल 
-विकिपिडिया:भाषा सम्बन्धित सिकायत सभ
- में तथा लेखसँ सम्बन्धित सिकायत सभ आ सुझाव के लेल 
-विकिपिडिया:लेख सम्बन्धित सिकायत
- मे लिखु । सम्बन्धित सम्पादक वा प्रबन्धक सभ त्रुटि सभ सुधार करए के प्रयत्न करत ।
-
-
-कोनो लेखसँ सम्बन्धित चर्चा वो लेख के वार्ता पृष्ठमें करब, एतए {{उचित पृष्ठ|सम्बन्धित लेख}}के जोंका एकटा जडी मात्र छोडब ।
-
-
-ऐहि चबुतरा पृष्ठमे अपन नव सन्देश छोड़ए केर लेल कृपया 
-एतएक
- क्लिक करब।
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-सहायता
-
-
-
-
-
-
-
-
-पहिनुका चबुतरा वार्तासभ
-
-
-सन् २०१४
-
-
-सन् २०१५
-
-
-सन् २०१६
-
-
-सन् २०१७
-
-
-सन् २०१८
-
-
-सन् २०१९
-
-
-सन् २०२०
-
-
-सन् २०२१-२०२३
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-विकी मिटअप (भेटघाट) सम्बन्धमे
-[
-सम्पादन करी
-]
-
-
 प्रणाम, मैथिली विकिमिडियन्स मित्र लोकनि,
-
-वर्तमान परिप्रेक्षयमे मैथिली विकिमिडियन्स समुदायक सदस्यसभ बीच एक आपसमे भौतिक भेटघाट, आपसी समन्वय केर लेल औनलाइन या औफलाइन सम्पर्क, आ  सहकार्यक अभाव अछि, जहि कारण मैथिली विकिपिडियाक सामुदायिक क्रियाकलाप लगभग शून्य अवस्थामे पहुँच गेल अछि। 
-
+वर्तमान परिप्रेक्षयमे मैथिली विकिमिडियन्स समुदायक सदस्यसभ बीच एक आपसमे भौतिक भेटघाट, आपसी समन्वय केर लेल औनलाइन या औफलाइन सम्पर्क, आ  सहकार्यक अभाव अछि, जहि कारण मैथिली विकिपिडियाक सामुदायिक क्रियाकलाप लगभग शून्य अवस्थामे पहुँच गेल अछि।
 ताए समुदायमे पुनर्ताजगी होए आ सदस्यसभक बीच खूब निक तालमेल स्थापित करैत मैथिली विकिपिडियाक विकास तेजीसँ आगा बढ़ए तकर लेल समुदायिक सदस्यसभ कोनो एके ठाम जमा भऽ बैसार करि नीति निर्माण कार्य केनाए अत्यावश्यक अछि।
-
 औफलाइन बैसार केर लेल सामुदायिक सदस्यसभ अप्पन-अप्पन दिस सँ प्रस्ताव, सुझाओ आ विचार राखी। एतय सँ मत प्राप्त करि विकिमिडिया शीघ्र अनुदानक लेल मेटा पर प्रस्ताव करब। अनुदान लेबक समय १ जुलाई २०२३ सँ पहिनिए अछि तहि लेल अप्पन मत शीघ्र राखबाक लेल अनुरोध सहित धन्यवाद।--
- 
 पंकज देव
- 
 (
 वार्ता
 )
- 
 १७:३४, २६ जुन २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-विचार
-[
-सम्पादन करी
-]
-
-
 बहुत दिनक बाद कोनो प्रस्ताव देख रहल छी। मैथिली समुदाय केर विकासक लेल काज आरम्भ होनाए नीक सङ्केत बुझि रहल छी। शुभकामना आ सदैव साथ रहवाक प्रतिवद्धता। धन्यवाद -
 Biplab Anand
- (
+(
 वार्ता
-) 
+)
 २०:३५, २६ जुन २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
 अहाँक प्रस्ताव मैथिली विकिपीडिया आ मैथिली विकिमिडियन्सक विकास लेल महत्वपूर्ण आ आवश्यक अछि। पूर्ण सहयोग के साथ शुभकामना। -
 Bijay Chaurasia
- (
+(
 वार्ता
-) 
+)
 १४:५६, २७ जुन २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
 सहमत- सर्वप्रथम प्रस्तुत विषयके उपर चर्चा करबाक लेल @
 PANKAJ DEO
- आओर @
+आओर @
 Biplab Anand
- दुनु गोटेके धन्यवाद दैत छि अहाँसभक ई विचार बड नीक लगल। एही सन्दर्भमें हम एतनी कहब जे अपनसभक ई मिसनमें हम सदैव अपन कार्क्षयमताके अनुरुप मैथिली विकिपीडिया के सफलताक शिखरधरि आगा बढेवाक लेल समर्पित भावसँ निरन्तर अपन योगदान देब। धन्यवाद !! - 
- 
+दुनु गोटेके धन्यवाद दैत छि अहाँसभक ई विचार बड नीक लगल। एही सन्दर्भमें हम एतनी कहब जे अपनसभक ई मिसनमें हम सदैव अपन कार्क्षयमताके अनुरुप मैथिली विकिपीडिया के सफलताक शिखरधरि आगा बढेवाक लेल समर्पित भावसँ निरन्तर अपन योगदान देब। धन्यवाद !! -
 IamTrendsetter
- 
 Talk
- 
- 
 १५:०३, २७ जुन २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
 विविध आयाम सभक अवलोकन कएलाक बाद ई प्रयास केर सराहना करऽ चाहैत छी। बहुत बढ़िया काजक आरम्भ भऽ रहल अछि। सहृदय धन्यवाद--
 Nilam
-☡
- 
 १०:०९, २९ जुन २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-CIS-A2K Newsletter June 2023
-[
-सम्पादन करी
-]
-
-
 Please feel free to translate it into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 Greetings! We are pleased to inform you that CIS-A2K has successfully completed several activities during the month of June. As a result, our monthly newsletter, which covers the highlights of the previous month, is now ready to be shared. We have taken care to mention the conducted events/activities in this newsletter, ensuring that all relevant information is captured.
-
-
-
 Conducted events
-
-
 Community Engagement Calls and Activities
-
 India Community Monthly Engagement Calls: 3 June 2023 call
-
-
 Takeaways of Indian Wikimedians from EduWiki Conference & Hackathon
-
-
 Punjabi Wikisource Proofread-a-thon
-
-
 Skill Development Programs
-
 Wikidata Training Sessions for Santali Community
-
-
 Indian Community Need Assessment and Transition Calls
-
-
 Partnerships and Trainings
-
 Academy of Comparative Philosophy and Religion GLAM Project
-
-
 Wikimedia Commons sessions with river activists
-
-
 Introductory session on Wikibase for Academy of Comparative Philosophy and Religion members
-
-
-Please find the Newsletter link 
+Please find the Newsletter link
 here
-. 
-
-If you want to subscribe/unsubscribe to this newsletter, click 
+.
+If you want to subscribe/unsubscribe to this newsletter, click
 here
-. 
-
-
-Thank you 
+.
+Thank you
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १३:१२, १७ जुलाई २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Deploying the Phonos in-line audio player to your Wiki
-[
-सम्पादन करी
-]
-
-
-
-
-
-
-नमस्ते!
-
-Apologies if this message is not in your language, ⧼Please help translate⧽ to your language.
-
-This wiki will soon be able to use the 
-inline audio player
- implemented by the 
-Phonos
- extension. This is part of fulfilling a wishlist proposal of providing 
-audio links that play on click
-.
-
-With the inline audio player, you can add text-to-speech audio snippets to wiki pages by simply using a tag:
-
-
-
-<phonos file="audio file" label="Listen"/>
-
-
-
-The above tag will show the text next to a speaker icon, and clicking on it will play the audio instantly without taking you to another page. A common example where you can use this feature is in adding pronunciation to words as illustrated on the 
-English Wiktionary
- below.
-
-
-
-{{
-audio
-|
-en
-|
-En-uk-English.oga
-|
-Audio (UK)
-}}
-
-
-
-
-Could become:
-
-
-
-<phonos file="En-uk-English.oga" label="Audio (UK)"/>
-
-
-
-The inline audio player will be available in your wiki in 2 weeks time; in the meantime, we would like you to 
-read about the features
- and give us feedback or ask questions about it in this 
-talk page
-.
-
-
-Thank you!
-
-
-UOzurumba (WMF)
-, on behalf of the Foundation's Language team
-
-
-
-
-
-
 ०८:११, २७ जुलाई २०२३ (+0545)
-
-
-
-Announcement of Train the Trainer 2023 and Call for Scholarship
-[
-सम्पादन करी
-]
-
-
 Dear all,
-
-We are excited to announce the reactivation of the 
+We are excited to announce the reactivation of the
 Train the Trainer (TTT)
- initiative by CIS-A2K in 2023. TTT aims to empower Indian Wikimedians like you with essential skills to support Wikimedia communities effectively. Through this program, we seek to enhance your capacity, encourage knowledge sharing, identify growth opportunities, and enable a positive impact on the communities you serve. The 
+initiative by CIS-A2K in 2023. TTT aims to empower Indian Wikimedians like you with essential skills to support Wikimedia communities effectively. Through this program, we seek to enhance your capacity, encourage knowledge sharing, identify growth opportunities, and enable a positive impact on the communities you serve. The
 scholarship application
- period is from ‘‘‘1st to 14th August 2023’’’. Unfortunately, we regretfully cannot consider applications from non-Indian Wikimedians due to logistical and compliance-related constraints. The event is scheduled for the end of September or the beginning of October 2023, and final dates and venue details will be announced soon. We encourage your active participation in 
+period is from ‘‘‘1st to 14th August 2023’’’. Unfortunately, we regretfully cannot consider applications from non-Indian Wikimedians due to logistical and compliance-related constraints. The event is scheduled for the end of September or the beginning of October 2023, and final dates and venue details will be announced soon. We encourage your active participation in
 TTT 2023
- and welcome you to apply for scholarships via the provided form.
-
+and welcome you to apply for scholarships via the provided form.
 For inquiries, please contact us at a2K@cis-India.org or nitesh@cis-India.org. We look forward to your enthusiastic involvement in making Train the Trainer 2023 a resounding success!
-
 Regards,
 Nitesh (CIS-A2K)
-
-
-
-Reminder for TTT Scholarship and announcement about Event dates
-[
-सम्पादन करी
-]
-
-
 Dear all,
-
-We wanted to remind you about the Scholarship form for the 
+We wanted to remind you about the Scholarship form for the
 Train the Trainer 2023 program
- and also provide you with the event dates. We encourage you to apply for scholarships to participate in Train the Trainer 2023, as it offers a valuable opportunity for you to actively contribute to your language communities. The scholarship form is accessible  
+and also provide you with the event dates. We encourage you to apply for scholarships to participate in Train the Trainer 2023, as it offers a valuable opportunity for you to actively contribute to your language communities. The scholarship form is accessible
 here
 , and the submission window will remain open until 14th August 2023. If you are genuinely interested in promoting knowledge sharing and community empowerment, we strongly encourage you to fill out the form. (Please note that we won't be able to consider applications from Wikimedians-based outside of India for TTT 2023.)
-
 The Train The Trainer program will take place on 29th, 30th September, and 1st October 2023. This program provides you an opportunity to enhance your leadership and community-building skills. Thank you for your attention.
-
-
-
-CIS-A2K Newsletter July 2023
-[
-सम्पादन करी
-]
-
-
 Please feel free to translate it into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 Greetings! We are pleased to inform you that CIS-A2K has successfully completed several activities during the month of July. As a result, our monthly newsletter, which covers the highlights of the previous month, is now ready to be shared. We have taken care to mention the conducted events/activities in this newsletter, ensuring that all relevant information is captured.
-
-
-
 Conducted events
-
-
 Wikibase session with RIWATCH GLAM
-
-
 Wikibase technical session with ACPR GLAM
-
-
 Wikidata Training Sessions for Santali Community
-
-
 An interactive session with some Wikimedia Foundation staff from India
-
-
 Announcement
-
-
 Train The Trainer 2023 Program
-
-
-Please find the Newsletter link 
+Please find the Newsletter link
 here
-. 
-
-If you want to subscribe/unsubscribe to this newsletter, click 
+.
+If you want to subscribe/unsubscribe to this newsletter, click
 here
-. 
-
-
-Thank you 
+.
+Thank you
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २२:०८, ८ अगस्त २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Invitation to the Indic Community Monthly Engagement Call on September 8, 2023
-[
-सम्पादन करी
-]
-
-
 Dear Wikimedians,
-
-A2K is excited to invite you to the third call of the 
+A2K is excited to invite you to the third call of the
 Indic Community Monthly Engagement Calls
- initiative scheduled for September 8, 2023, where A2K is hosting “Learning Clinic: Collective learning from grantee reports in South Asia” by Let's Connect. This event is designed to foster collaboration and knowledge-sharing among community members interested in the region's progress, grantees, potential grantees, and Regional Fund Committee members. The dedicated meta page is 
+initiative scheduled for September 8, 2023, where A2K is hosting “Learning Clinic: Collective learning from grantee reports in South Asia” by Let's Connect. This event is designed to foster collaboration and knowledge-sharing among community members interested in the region's progress, grantees, potential grantees, and Regional Fund Committee members. The dedicated meta page is
 here
 . Here are the details:
-
-
-
 Date: September 8th
-
-
 Time: 6:00 PM - 7:30 PM IST
-
-
 Language: English
-
-
 Facilitation: Jessica Stephenson (WMF - Let's Connect), Pavan Santhosh (CIS-A2K), Chinmayee Mishra (Let's Connect working group)
-
-
 Duration: 1.5 hours
-
-
-Zoom Link: 
+Zoom Link:
 Zoom Link
-
-
-You can find detailed information on the given meta page. We look forward to meeting you there tomorrow. :) Regards 
+You can find detailed information on the given meta page. We look forward to meeting you there tomorrow. :) Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १६:४६, ७ सितम्बर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Announcing Indic Wikimedia Hackathon 2023 and Invitation to Participate
-[
-सम्पादन करी
-]
-
-
-Dear Wikimedians, 
-
-The 
+Dear Wikimedians,
+The
 Indic MediaWiki Developers User Group
- is happy to announce 
+is happy to announce
 Indic Wikimedia Hackathon 2023 on 16-17 December 2023 in Pondicherry, India
-. 
-
-The event is for everyone who contributes to Wikimedia's technical spaces code developers, maintainers, translators, designers, technical writers and other related technical aspects. Along with that, contributors who don't necessarily contribute to technical spaces but have good understanding of issues on wikis and can work with developers in addressing them can join too. You can come with a project in mind, join an existing project, or create something new with others. The goal of this event is to bring together technical contributors from India to resolve pending technical issues, bugs, brainstorm on tooling ideas, and foster connections between contributors. 
-
-We have scholarships to support participation of contributors residing in India. The 
-scholarship form can be filled at 
+.
+The event is for everyone who contributes to Wikimedia's technical spaces code developers, maintainers, translators, designers, technical writers and other related technical aspects. Along with that, contributors who don't necessarily contribute to technical spaces but have good understanding of issues on wikis and can work with developers in addressing them can join too. You can come with a project in mind, join an existing project, or create something new with others. The goal of this event is to bring together technical contributors from India to resolve pending technical issues, bugs, brainstorm on tooling ideas, and foster connections between contributors.
+We have scholarships to support participation of contributors residing in India. The
+scholarship form can be filled at
 https://docs.google.com/forms/d/e/1FAIpQLSd_Qqctj7I87QfYt5imc6iPcGPWuPfncCOyAd_OMbGiqxzxhQ/viewform?usp=sf_link
- and will close at 23:59 hrs on 15 October 2023 (Sunday) [IST].
-
-
-Please reach out to contact@indicmediawikidev.org if you have any questions or need support. 
-
+and will close at 23:59 hrs on 15 October 2023 (Sunday) [IST].
+Please reach out to contact@indicmediawikidev.org if you have any questions or need support.
 Best, Indic MediaWiki Developers UG, १०:२५, ४ अक्टुबर २०२३ (+0545)
-
-
-
-Image Description Month in India: 1 October to 31st October
-[
-सम्पादन करी
-]
-
-
 Apologies for writing in English.
-
-
 Dear everyone,
-
-We're excited to invite you to the 
+We're excited to invite you to the
 Image Description Month India
- description-a-thon, set to take place from October 1st to October 31st, 2023. During this event, we'll be focusing on improving image-related content across Wikimedia projects, including Wikipedia, Wikidata, and Wikimedia Commons.
-
-To stay updated and get involved, please visit our dedicated event page 
+description-a-thon, set to take place from October 1st to October 31st, 2023. During this event, we'll be focusing on improving image-related content across Wikimedia projects, including Wikipedia, Wikidata, and Wikimedia Commons.
+To stay updated and get involved, please visit our dedicated event page
 event Page
 .
-
-Your active participation will be instrumental in enhancing Wikimedia content and making it more accessible to users worldwide. Thank you :) 
+Your active participation will be instrumental in enhancing Wikimedia content and making it more accessible to users worldwide. Thank you :)
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २०:२०, ५ अक्टुबर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Newsletter for September 2023
-[
-सम्पादन करी
-]
-
-
 Please feel free to translate it into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 In September, CIS-A2K successfully completed several initiatives. As a result, A2K has compiled a comprehensive monthly newsletter that highlights the events and activities conducted during the previous month. This newsletter provides a detailed overview of the key information related to our endeavors.
-
-
-
 Conducted events
-
-
 Learning Clinic: Collective learning from grantee reports in South Asia
-
-
 Relicensing and Digitisation workshop at Govinda Dasa College, Surathkal
-
-
 Relicensing and Digitisation workshop at Sayajirao Gaekwad Research Centre, Aurangabad
-
-
 Wiki Loves Monuments 2023 Outreach in Telangana
-
-
 Mula Mutha Nadi Darshan Photography contest results and exhibition of images
-
-
 Train The Trainer 2023
-
-
-Please find the Newsletter link 
+Please find the Newsletter link
 here
-. 
-
-If you want to subscribe/unsubscribe to this newsletter, click 
+.
+If you want to subscribe/unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २१:३७, १० अक्टुबर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-अन्तर-समुदाय विकी भेंटघाट सम्बन्धमे
-[
-सम्पादन करी
-]
-
-
 प्रणाम, मैथिली विकिमिडियन्स मित्र लोकनि,
-वर्तमान परिप्रेक्षयमे मैथिली विकिमिडियन्स समुदायद्वारा विभिन्न विकी सम्बन्धित कार्यक्रमसभक आयोजना कएल जा रहल अछि। एहिमे सँ एकटा क्रियाकलाप अन्तर-समुदाय विकी भेंटघाट सेहो अछि। एहि कार्यक्रमक निरन्तरता देबऽकऽ लेल पुनः एकटा अनुदानक आवश्यकता बुझाए रहल अछि।  
-
+वर्तमान परिप्रेक्षयमे मैथिली विकिमिडियन्स समुदायद्वारा विभिन्न विकी सम्बन्धित कार्यक्रमसभक आयोजना कएल जा रहल अछि। एहिमे सँ एकटा क्रियाकलाप अन्तर-समुदाय विकी भेंटघाट सेहो अछि। एहि कार्यक्रमक निरन्तरता देबऽकऽ लेल पुनः एकटा अनुदानक आवश्यकता बुझाए रहल अछि।
 ताए समुदायमे एहि विषयमे चर्चा आ अप्पन महत्वपूर्ण सुझाओ कऽ लेल अनुरोध सहित धन्यवाद।--
 Biplab Anand
- (
+(
 वार्ता
-) 
+)
 ०८:११, १७ अक्टुबर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-विचार
-[
-सम्पादन करी
-]
-
-
- 
 समर्थन
-----अग्रीम शुभकामना अछि आओर अहाँक ई प्रस्ताव सराहनीय अछि आ हम एकर स्वागत करैत छी।  
+----अग्रीम शुभकामना अछि आओर अहाँक ई प्रस्ताव सराहनीय अछि आ हम एकर स्वागत करैत छी।
 IamTrendsetter
- (
+(
 वार्ता
-) 
+)
 २०:०१, १८ अक्टुबर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-एहन कोनो भी कार्य जाहिसँ मैथिली विकिपिडियाक विकास आ विस्तारक काज होइ ओहिमे हमर आँखि मुनिकें 
- 
+एहन कोनो भी कार्य जाहिसँ मैथिली विकिपिडियाक विकास आ विस्तारक काज होइ ओहिमे हमर आँखि मुनिकें
 समर्थन
- अछि। विलम्ब नहि करि यथासीघ्र आगा बढ़ल जाए। साधुवाद
-
-
-कृपया ip ‎2401:4900:706f:4f03:b8e3:80ff:fee2:5b8dअवरुद्ध करू
-[
-सम्पादन करी
-]
-
-
+अछि। विलम्ब नहि करि यथासीघ्र आगा बढ़ल जाए। साधुवाद
 @
 Biplab Anand
 : , @
 PANKAJ DEO
 :, @
 Tulsi
-: एहि आईपी के 
+: एहि आईपी के
 जेफ बेजोस‎
- पेज पर तोड़फोड़ अछि कृपया ओकरा ब्लॉक करू -- 
+पेज पर तोड़फोड़ अछि कृपया ओकरा ब्लॉक करू --
 सुयश द्विवेदी
- (
+(
 वार्ता
-) 
+)
 २२:१५, २४ अक्टुबर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Newsletter for October 2023
-[
-सम्पादन करी
-]
-
-
 Please feel free to translate it into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 In the month of October, CIS-A2K achieved significant milestones and successfully concluded various initiatives. As a result, we have compiled a comprehensive monthly newsletter to showcase the events and activities conducted during the preceding month. This newsletter offers a detailed overview of the key information pertaining to our various endeavors.
-
-
-
 Conducted events
-
-
 Image Description Month in India
-
-
 WikiWomen Camp 2023
-
 WWC 2023 South Asia Orientation Call
-
-
 South Asia Engagement
-
-
 Wikimedia Commons session for Birdsong members
-
-
 Image Description Month in India Training Session
-
-
-Please find the Newsletter link 
+Please find the Newsletter link
 here
-. 
-
-If you want to subscribe/unsubscribe to this newsletter, click 
+.
+If you want to subscribe/unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 ११:१०, ७ नवम्बर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Community Needs Assessment Form
-[
-सम्पादन करी
-]
-
-
-In late November, A2K hosted a significant call as part of 
+In late November, A2K hosted a significant call as part of
 WikiConverse India discussions
-, aiming to understand the diverse needs of Indian Communities! We deeply appreciate the active participation of every community member, as your valuable suggestions and opinions will be instrumental in shaping A2K's future initiatives. 
-
-To enrich this collaborative effort, we've crafted a 
+, aiming to understand the diverse needs of Indian Communities! We deeply appreciate the active participation of every community member, as your valuable suggestions and opinions will be instrumental in shaping A2K's future initiatives.
+To enrich this collaborative effort, we've crafted a
 form
-. Your responses will provide key components for a broader needs assessment, offering profound insights into the community's suggestions and guiding A2K’s future plans. We invite you to invest just a few precious minutes in sharing your thoughts, ideas, efforts, and impactful initiatives! If you have any doubts or queries, feel free to reach out to nitesh@cis-india.org. 
-
-Thank you for being an integral part of our vibrant community! Regards 
+. Your responses will provide key components for a broader needs assessment, offering profound insights into the community's suggestions and guiding A2K’s future plans. We invite you to invest just a few precious minutes in sharing your thoughts, ideas, efforts, and impactful initiatives! If you have any doubts or queries, feel free to reach out to nitesh@cis-india.org.
+Thank you for being an integral part of our vibrant community! Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १४:२९, ५ दिसम्बर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Enhancing Your Wikimania 2024 Scholarship Application: Community Call and Volunteer Support
-[
-सम्पादन करी
-]
-
-
 Dear Wikimedians,
-
 I hope this message finds you well. A2K is excited to share news about an upcoming A2K initiative to support Indian Wikimedians in the Wikimania 2024 scholarship process.
-
-
-
 Community Call with Experienced Wikimedians
-
-
-
-
 Join the community call on December 9, 2023, featuring experienced Indian Wikimedians. Gain insights into the Wikimania scholarship process, key application elements, and participate in a Q&A session.
-
-
-
 Volunteer Committee
-
-
-
-
 A dedicated volunteer committee will assist applicants through Zoom Room Support Sessions, offering one-on-one discussions, personalized feedback, and application enhancement strategies.
-
 For more details and to register:
-
-
-
-Community Call Meta page: 
+Community Call Meta page:
 link
-
-
 Date: 9 December 2023
-
-
 Time: 6:00 PM to 7:30 PM IST
-
-
-We invite your active participation and look forward to your engagement in this community call. Regards 
+We invite your active participation and look forward to your engagement in this community call. Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १२:३५, ७ दिसम्बर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for November 2023
-[
-सम्पादन करी
-]
-
-
 Please feel free to translate it into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 CIS-A2K wrapped up several initiatives in November, and we've compiled a detailed monthly newsletter highlighting the events and activities from the past month. This newsletter provides a comprehensive overview of key information regarding our diverse endeavors.
-
-
-
 Conducted events
-
-
 Heritage Walk in 175 year old Pune Nagar Vachan Mandir library
-
-
 2023 A2K Needs Assessment Event
-
-
 Train The Trainer Report
-
-
-Please find the Newsletter link 
+Please find the Newsletter link
 here
-. 
-
-If you want to subscribe/unsubscribe to this newsletter, click 
+.
+If you want to subscribe/unsubscribe to this newsletter, click
 here
-. 
- Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 ११:३९, ११ दिसम्बर २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for December 2023
-[
-सम्पादन करी
-]
-
-
 Please feel free to translate it into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 In December, CIS-A2K successfully concluded various initiatives, and we have curated an in-depth monthly newsletter summarizing the events and activities of the past month. This newsletter offers a comprehensive overview of key information, showcasing our diverse endeavors.
-
-
-
 Conducted events
-
-
 Digital Governance Roundtable
-
-
 Indic Community Monthly Engagement Calls: Wikimania Scholarship Call
-
-
 Indic Wikimedia Hackathon 2023
-
-
 A2K Meghalaya Visit Highlights: Digitization and Collaboration
-
-
 Building Bridges: New Hiring in CIS-A2K
-
-
 Upcoming Events
-
 Upcoming Call: Disinformation and Misinformation in Wikimedia projects
-
-
-Please find the Newsletter link 
+Please find the Newsletter link
 here
-. 
-
-If you want to subscribe/unsubscribe to this newsletter, click 
+.
+If you want to subscribe/unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १२:३९, १२ जनवरी २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for January 2024
-[
-सम्पादन करी
-]
-
-
 Feel free to translate into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 In January, CIS-A2K successfully concluded several initiatives, and we are pleased to present a comprehensive monthly newsletter summarizing the events and activities of the past month. This newsletter provides an extensive overview of key information, highlighting our diverse range of endeavors.
-
-
-
 Conducted Events
-
-
 Roundtable on Digital Cultures
-
-
 Discussion on Disinformation and Misinformation in Wikimedia Projects
-
-
 Roundtable on Digital Access
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 ०१:०२, १० फरबरी २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Global ban proposal for Slowking4
-[
-सम्पादन करी
-]
-
-
-Hello. This is to notify the community that there is an ongoing global ban proposal for 
+Hello. This is to notify the community that there is an ongoing global ban proposal for
 User:Slowking4
- who has been active on this wiki. You are invited to participate at 
+who has been active on this wiki. You are invited to participate at
 m:Requests for comment/Global ban for Slowking4 (2)
-. 
+.
 Seawolf35
- (
+(
 वार्ता
-) 
+)
 १८:५०, १५ मार्च २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for February 2024
-[
-सम्पादन करी
-]
-
-
 Feel free to translate into your language.
-
-
-
-
-
-
 Dear Wikimedians,
-
 In February, CIS-A2K effectively completed numerous initiatives, and we are delighted to share a detailed monthly newsletter encapsulating the events and activities from the previous month. This newsletter offers a thorough glimpse into significant updates, showcasing the breadth of our varied undertakings.
-
-
-
 Collaborative Activities and Engagement
-
-
 Telugu Community Conference 2024
-
-
 International Mother Language Day 2024 Virtual Meet
-
-
 Wiki Loves Vizag 2024
-
-
 Reports
-
-
 Using the Wikimedia sphere for the revitalization of small and underrepresented languages in India
-
-
 Open Movement in India (2013-23): The Idea and Its Expressions Open Movement in India 2013-2023 by Soni
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १९:५७, १८ मार्च २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-CIS-A2K announcing Community Collaborations program
-[
-सम्पादन करी
-]
-
-
 Please feel free to translate this into your preferred language.
-
-
 Dear Wikimedians,
-
 Exciting news from A2K! We're thrilled to announce that CIS-A2K is now seeking proposals for collaborative projects and activities to advance Indic Wikimedia projects. If you've got some interesting ideas and are keen on co-organizing projects or activities with A2K, we'd love to hear from you.
-
-Check out all the details about requirements, process, timelines, and proposal drafting guidelines right 
+Check out all the details about requirements, process, timelines, and proposal drafting guidelines right
 here
 .
-
 We're looking forward to seeing your proposals and collaborating to boost Indic Wikimedia projects and contribute even more to the open knowledge movement.
-
-Regards 
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २०:१०, १८ मार्च २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for March 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 A2K is pleased to present its  monthly newsletter for March, highlighting the impactful initiatives undertaken by CIS-A2K during the month. This newsletter provides a comprehensive overview of the events and activities conducted, giving you insight into our collaborative efforts and engagements.
-
-
-
 Collaborative Activities and Engagement
-
-
 Wiki Loves Vizag: Fostering Open Knowledge Through Photography
-
-
 Monthly Recap
-
-
 She Leads Program (Support)
-
-
 WikiHour: Amplifying Women's Voices (Virtual)
-
-
 Wikimedia India Summit 2024
-
-
 Department of Language and Culture, Government of Telangana
-
-
 From the Team- Editorial
-
-
 Comic
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १८:०२, ११ अप्रैल २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for April 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We are pleased to present our monthly newsletter for April, highlighting the impactful initiatives undertaken by CIS-A2K during the month. This newsletter provides a comprehensive overview of the events and activities conducted, giving you insight into our collaborative efforts and engagements.
-
-
-
 In the Limelight- Chandan Chiring
-
-
 Monthly Recap
-
-
 Commons:Tribal Culture Photography Competition
-
-
 m:CIS-A2K/Events/Indic Community Monthly Engagement Calls/April 12, 2024 Call
-
-
 Wikipedia Training to Indian Language educators
-
-
 m:Wiki Explores Bhadrachalam
-
-
 Wikimedia Summit
-
-
 From the Team- Editorial
-
-
 Comic
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २२:०७, १४ मई २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-WMF’s Annual Plan Draft (2024-2025) and Session during the South Asia Open Community Call (SAOCC)
-[
-सम्पादन करी
-]
-
-
 Hi Everyone,
-
-This message is regarding the 
+This message is regarding the
 Wikimedia Foundation’s Draft Annual Plan for 2024-2025
-, and in continuation of 
+, and in continuation of
 Maryana’s email
 ; inviting inputs from members of the movement. The entire annual plan is available in multiple languages and a shorter summary is available in close to 30 languages including many from South Asia; and open for your feedback.
-
-We invite you all to a session on the Annual Plan during 19th May's [:m:South Asia Open Community Call|South Asia Open Community Call (SAOCC)]], in line with the 
+We invite you all to a session on the Annual Plan during 19th May's [:m:South Asia Open Community Call|South Asia Open Community Call (SAOCC)]], in line with the
 collaborative approach
- adopted by the foundation for finalizing Annual Plans. The discussion will be hosted by members of the senior leadership of the Wikimedia Foundation.
-
+adopted by the foundation for finalizing Annual Plans. The discussion will be hosted by members of the senior leadership of the Wikimedia Foundation.
 Call Details (Please add the details to your respective calendars)
-
-
-
 Google Meeting
-
-
 Date/Time: 19th May 2024 @ 1230-1400 UTC or 1800-1930 IST
-
-
-You can add any questions/comments on Etherpad 
-[१]
+You can add any questions/comments on Etherpad
 ; pre-submissions welcomed.
-
-Ps: To know more about the purpose of an Annual Plan, please read our 
+Ps: To know more about the purpose of an Annual Plan, please read our
 listed FAQs
 . Look forward to seeing you on the call.
-
-Best 
+Best
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २२:२०, १४ मई २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-CA alias removal
-[
-सम्पादन करी
-]
-
-
-Hey everyone! Just wanted to give you a heads-up: there's a 
+Hey everyone! Just wanted to give you a heads-up: there's a
 request
- on Phabricator to remove 'CA' as an alias for the category because it's conflicting with a language code. Thanks! 
+on Phabricator to remove 'CA' as an alias for the category because it's conflicting with a language code. Thanks!
 DreamRimmer
- (
+(
 वार्ता
-) 
+)
 २३:५०, १४ मई २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for May 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We are pleased to present our May newsletter, showcasing the impactful initiatives undertaken by CIS-A2K throughout the month. This edition offers a comprehensive overview of our events and activities, providing insights into our collaborative efforts and community engagements.
-
-
-
 In the Limelight
-
-
 Openness for Cultural Heritage
-
-
 Monthly Recap
-
-
 Digitisation Workshop
-
-
 Commons:Tribal Culture Photography Competition
-
-
 Wiki Technical Training
-
-
 Dispatches from A2K
-
-
 Coming Soon
-
-
 Future of Commons Convening
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १८:२१, २७ जुन २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for June 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We are excited to share our June newsletter, highlighting the impactful initiatives undertaken by CIS-A2K over the past month. This edition provides a detailed overview of our events and activities, offering insights into our collaborative efforts and community engagements and a brief regarding upcoming initiatives for next month.
-
-
-
 In the Limelight- Book Review
-
-
 Geographies of Digital Exclusion
-
-
 Monthly Recap
-
-
 Wiki Technical Training
-
-
 Strategy discussion (Post-Summit Event)
-
-
 Dispatches from A2K
-
-
 Future of Commons
-
-
 Coming Soon - Upcoming Activities
-
-
 Gearing up for Wikimania 2024
-
-
 Commons workshop and photo walk in Hyderabad
-
-
 Comic
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १२:०८, २६ जुलाई २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Train-the-Trainer (TTT) 2024: Call for Applications
-[
-सम्पादन करी
-]
-
-
 Apologies for writing in English, please feel free to post this into your language.
-
-
 Dear Wikimedians,
-
 We are thrilled to announce the 9ninth iteration of the Train-the-Trainer (TTT) program, co-hosted by CIS-A2K and the Odia Wikimedians User Group. TTT 2024 will be held from October 18-20, 2024, in Odisha.
-
 This event aims to enhance leadership and training skills among active Indian Wikimedians, with a focus on innovative approaches to foster deeper engagement and learning.
-
-
-
 Key Details
-
-
-
-
 Event Dates: October 18-20, 2024
-
-
 Location: Odisha, India
-
-
 Eligibility: Open to active Indian Wikimedians
-
-
 Scholarship Application Deadline: Thursday, August 15, 2024
-
-
-We encourage all interested community members to apply for scholarships. Please review the event details and application guidelines on the 
+We encourage all interested community members to apply for scholarships. Please review the event details and application guidelines on the
 Meta page
- before submitting your application.
-Apply Here: 
+before submitting your application.
+Apply Here:
 Scholarship Application Form
-
-For any questions, please post on the 
+For any questions, please post on the
 Event talk page
- or email nitesh@cis-india.org. 
-
+or email nitesh@cis-india.org.
 We look forward to your participation and contributions!
-
-Regards 
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १६:३०, ३१ जुलाई २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Reminder: Apply for TTT 2024 Scholarships by August 22
-[
-सम्पादन करी
-]
-
-
 Dear Wikimedians,
-
 Important Reminder
 : The scholarship application deadline has been extended till Thursday, August 22, 2024. We encourage active Wikimedians to submit their applications before the deadline.
-
-Please ensure you review the essential details on 
+Please ensure you review the essential details on
 Meta page
- regarding this event.
-
-Scholarship Application 
+regarding this event.
+Scholarship Application
 form
-
-
 For any questions, please reach out on the Event talk page or via email at nitesh@cis-india.org or Chinmayee at chinumishra70@gmail.com.
-
 Regards,
-
 TTT 2024 Organising team
-
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 ०२:००, २१ अगस्त २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for July 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We are excited to share our July newsletter, highlighting the impactful initiatives undertaken by CIS-A2K over the past month. This edition provides a detailed overview of our events and activities, offering insights into our collaborative efforts and community engagements and a brief regarding upcoming initiatives for next month.
-
-
-
 In the Limelight- NEP Study Report
-
-
 Monthly Recap
-
-
 Future of Commons
-
-
 West Bengal Travel Report
-
-
 Coming Soon - Upcoming Activities
-
-
 Train the Trainer 2024
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १४:५०, २८ अगस्त २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-AdvancedSiteNotices
- बाह्य ब्रांड जोड़नि से प्रतिबंधित हैं?
-[
-सम्पादन करी
-]
-
-
-केओक लोग बीचरला विकीपीडिया ख़बर आर बीचरला विकीपीडिया AdvancedSiteNotices मे Telegram, Instagram, Google Form जकरा ब्रांड नाम पूरा उल्लेख न करलि आर एकरा बाहरी लिंक न बना कऽ कहनि, आर ई सभ बात 
+केओक लोग बीचरला विकीपीडिया ख़बर आर बीचरला विकीपीडिया AdvancedSiteNotices मे Telegram, Instagram, Google Form जकरा ब्रांड नाम पूरा उल्लेख न करलि आर एकरा बाहरी लिंक न बना कऽ कहनि, आर ई सभ बात
 Phabricator T375253 पर तुरंत ठीक करी जाए
- । ई मोटाई मे अवास्तविक आर बहुत आघाती लागत अछि, आर हम आशा करत छी कि आप सभ के और अधिक राय सुनी। कारण आप के विकी मे भी एही समस्या अछि आर ई समस्या बहुत जल्दी सुलझाइल जाएत, तेँ हम सुझाव देत छी कि आप लोग के समुदाय समझौता होई आर फेर Phabricator T375253 के एकर राय दिही। ओ कहलक: "मुझे पूरा यकीन हैं कि आप सितेनोटिस मे Telegram या Instagram या Google के ब्रांड नाम का जिक्र नहीं कर सकते या उनकी लिंक नहीं दे सकते। CentralNotice से तो नहीं दे सकते, तो यहां पर अलग नीति क्यों लागु होनी चाहिए। आप अपने विकी पर उनका पृष्ठ बना सकते हैं और सितेनोटिस से उस पृष्ठ पर लिंक दे सकते हैं, लेकिन सितेनोटिस से सीधे बाहरी साइट पर लिंक नहीं दे सकते। ई बहुत जरूरी है, तुरंत ठीक करके देखो। (जब तक कि आप हमें नहीं दिखा देते कि कोई ऐसा कहा है कि ये ठीक है)"
-
-AdvancedSiteNotices is prohibited from linking to external brands? 
-
-Someone believes that the Chinese Wikipedia News and Chinese Wikipedia AdvancedSiteNotices should not fully mention brand names such as Telegram, Instagram, Google Form, or use external links to these, and this needs to be 
+। ई मोटाई मे अवास्तविक आर बहुत आघाती लागत अछि, आर हम आशा करत छी कि आप सभ के और अधिक राय सुनी। कारण आप के विकी मे भी एही समस्या अछि आर ई समस्या बहुत जल्दी सुलझाइल जाएत, तेँ हम सुझाव देत छी कि आप लोग के समुदाय समझौता होई आर फेर Phabricator T375253 के एकर राय दिही। ओ कहलक: "मुझे पूरा यकीन हैं कि आप सितेनोटिस मे Telegram या Instagram या Google के ब्रांड नाम का जिक्र नहीं कर सकते या उनकी लिंक नहीं दे सकते। CentralNotice से तो नहीं दे सकते, तो यहां पर अलग नीति क्यों लागु होनी चाहिए। आप अपने विकी पर उनका पृष्ठ बना सकते हैं और सितेनोटिस से उस पृष्ठ पर लिंक दे सकते हैं, लेकिन सितेनोटिस से सीधे बाहरी साइट पर लिंक नहीं दे सकते। ई बहुत जरूरी है, तुरंत ठीक करके देखो। (जब तक कि आप हमें नहीं दिखा देते कि कोई ऐसा कहा है कि ये ठीक है)"
+AdvancedSiteNotices is prohibited from linking to external brands?
+Someone believes that the Chinese Wikipedia News and Chinese Wikipedia AdvancedSiteNotices should not fully mention brand names such as Telegram, Instagram, Google Form, or use external links to these, and this needs to be
 fixed on Phabricator T375253
- immediately. I find this to be completely unreasonable and deeply regrettable, and I hope to seek more opinions from you all. Since your wiki also has the same situation and this problem should be fixed very soon in the future, I suggest that you reach a community consensus and then submit an opinion to Phabricator T375253. They said: "I'm pretty sure you're not allowed to link to or even mention the brand names Telegram or Instagram or Google from a sitenotice. you can't from a CentralNotice, I don't see why a different policy should apply here. you can link to those pages from a page on your wiki and link from the sitenotice to that page on your wiki. but not directly from sitenotice to the external site. this is urgent, must be fixed immediately. (unless you can show us where someone said this is ok?)"--
+immediately. I find this to be completely unreasonable and deeply regrettable, and I hope to seek more opinions from you all. Since your wiki also has the same situation and this problem should be fixed very soon in the future, I suggest that you reach a community consensus and then submit an opinion to Phabricator T375253. They said: "I'm pretty sure you're not allowed to link to or even mention the brand names Telegram or Instagram or Google from a sitenotice. you can't from a CentralNotice, I don't see why a different policy should apply here. you can link to those pages from a page on your wiki and link from the sitenotice to that page on your wiki. but not directly from sitenotice to the external site. this is urgent, must be fixed immediately. (unless you can show us where someone said this is ok?)"--
 Kitabc12345
- (
+(
 वार्ता
-) 
+)
 ०९:०८, २१ सितम्बर २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for August 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We are excited to present our August newsletter, showcasing the impactful initiatives led by CIS-A2K throughout the month. In this edition, you'll find a comprehensive overview of our events and activities, highlighting our collaborative efforts, community engagements, and a sneak peek into the exciting initiatives planned for the coming month.
-
-
-
 In the Limelight- Doing good as a creative person
-
-
 Monthly Recap
-
-
 Wiki Women Collective - South Asia Call
-
-
 Digitizing the Literary Legacy of Sane Guruji
-
-
 A2K at Wikimania
-
-
 Multilingual Wikisource
-
-
 Coming Soon - Upcoming Activities
-
-
 Tamil Content Enrichment Meet
-
-
 Santali Wiki Conference
-
-
 TTT 2024
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २२:४०, २६ सितम्बर २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for September 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We are thrilled to share our September newsletter, packed with highlights of the key initiatives driven by CIS-A2K over the past month. This edition features a detailed recap of our events, collaborative projects, and community outreach efforts. You'll also get an exclusive look at the exciting plans and initiatives we have in store for the upcoming month. Stay connected with our vibrant community and join us in celebrating the progress we’ve made together!
-
-
-
 In the Limelight- Santali Wiki Regional Conference 2024
-
-
 Dispatches from A2K
-
-
 Monthly Recap
-
-
 Book Lover’s Club in Belagavi
-
-
 CIS-A2K’s Multi-Year Grant Proposal
-
-
 Supporting the volunteer-led committee on WikiConference India 2025
-
-
 Tamil Content Enrichment Meet
-
-
 Experience of CIS-A2K's Wikimania Scholarship recipients
-
-
 Coming Soon - Upcoming Activities
-
-
 Train-the-trainer 2024
-
-
 Indic Community Engagement Call
-
-
 A2K at Wikimedia Technology Summit 2024
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २०:५८, १० अक्टुबर २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Announcing Indic Wikimedia Hackathon Bhubaneswar 2024 & scholarship applications
-[
-सम्पादन करी
-]
-
-
 Dear Wikimedians,
-
-We hope you are well. 
-
-We are thrilled to announce the upcoming 
+We hope you are well.
+We are thrilled to announce the upcoming
 Indic Wikimedia Hackathon Bhubaneswar 2024
-, hosted by the 
+, hosted by the
 Indic MediaWiki Developers UG
- (aka Indic-TechCom) in collaboration with the 
+(aka Indic-TechCom) in collaboration with the
 Odia Wikimedians UG
 . The event will take place in Bhubaneswar during 20-22 December 2024.
-
 Wikimedia hackathons are spaces for developers, designers, content editors, and other community stakeholders to collaborate on building technical solutions that help improve the experience of contributors and consumers of Wikimedia projects. The event is intended for:
-
-
-
 Technical contributors active in the Wikimedia technical ecosystem, which includes developers, maintainers (admins/interface admins), translators, designers, researchers, documentation writers etc.
-
-
 Content contributors having in-depth understanding of technical issues in their home Wikimedia projects like Wikipedia, Wikisource, Wiktionary, etc.
-
-
 Contributors to any other FOSS community or have participated in Wikimedia events in the past, and would like to get started with contributing to Wikimedia technical spaces.
-
-
-We encourage you to follow the essential details & updates on Meta-Wiki regarding this event. 
-
-Event Meta-Wiki page: 
+We encourage you to follow the essential details & updates on Meta-Wiki regarding this event.
+Event Meta-Wiki page:
 https://meta.wikimedia.org/wiki/Indic_Wikimedia_Hackathon_Bhubaneswar_2024
-
-
-Scholarship application form: 
-Click here to apply 
-
-
+Scholarship application form:
+Click here to apply
 (Scholarships are available to assist with your attendance, covering travel, accommodation, food, and related expenses.)
-
-
 Please read the application guidance on the Meta-Wiki page before applying.
-
 The scholarship application is open until the end of the day 2 November 2024 (Saturday).
-
 If you have any questions, concerns or need any support with the application, please start a discussion on the event talk page or reach out to us contact@indicmediawikidev.org via email.
-
 Best,
-
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १५:२०, १९ अक्टुबर २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Bot approval request
-[
-सम्पादन करी
-]
-
-
-Hi, the rules of this wiki require me to notify this page when requesting bot status, so here you go: 
+Hi, the rules of this wiki require me to notify this page when requesting bot status, so here you go:
 विकिपिडिया:बोट/अनुमोदनक_लेल_अनुरोध#User:Leaderbot
-. Please let me know if there are any issues. 
+. Please let me know if there are any issues.
 Leaderboard
- (
+(
 वार्ता
-) 
+)
 १४:५१, ६ नवम्बर २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Report for October 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We’re thrilled to share our October newsletter, featuring the impactful work led or support by CIS-A2K over the past month. In this edition, you’ll discover a detailed summary of our events and initiatives, emphasizing our collaborative projects, community interactions, and a preview of the exciting plans on the horizon for next month.
-
-
-
 In the Limelight
-
-
 TTT
-
-
 Dispatches from A2K
-
-
 Monthly Recap
-
-
 Wikimedia Technology Summit
-
-
 Coming Soon - Upcoming Activities
-
-
 TTT follow-ups
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
-Regards 
+.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १७:५४, ८ नवम्बर २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Announcing Wikifile-transfer v2, and second community call
-[
-सम्पादन करी
-]
-
-
 Dear Wikimedia Community,
-
 We are excited to announce the release of Wikifile-transfer v2, an enhanced tool to streamline media transfers across Wikimedia projects.  Wikifile-transfer supports users in moving non-free images across wiki projects. This tool is helpful for contributors managing media across multiple language wikis.
-
-
-
 You can learn more about it here:
- 
 https://meta.wikimedia.org/wiki/Indic-TechCom/Tools/Wikifile-transfer/v2
-
-
 You can try the new version here:
- 
 https://wikifile-transfer.toolforge.org/#/
-
-
-
-We invite you to join our second community call on 
+We invite you to join our second community call on
 November 10, 2024, at 18:00 IST (6:00 PM)
 . This meeting is an opportunity to discuss the new features, share feedback, and connect with us.
-
-Please add your name at 
+Please add your name at
 https://meta.wikimedia.org/wiki/Indic-TechCom/Tools/Wikifile-transfer/v2#Community_call
 .
-
-
 Since this is a major new release, some bugs may still exist. We encourage you to report any issues you encounter to help us improve the tool further. We're looking forward to your feedback as we continue refining WikiFile-Transfer to meet the needs of our community.
-
 Regards -
 ParasharSarthak
- (
+(
 वार्ता
 )
-
-
-
-A2K Monthly Report – November 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 We’re excited to bring you the November edition of the CIS-A2K newsletter, highlighting our impactful initiatives and accomplishments over the past month. This issue offers a comprehensive recap of our events, collaborative projects, and community engagement efforts. It also provides a glimpse into the exciting plans we have lined up for the coming month. Stay connected with our vibrant community as we celebrate the progress we’ve made together!
-
-
-
 In the Limelight
-
-
 Tulu Wikisource
-
-
 Dispatches from A2K
-
-
 Monthly Recap
-
-
 Learning hours Call
-
-
 Dandari-Gussadi Festival Documentation, Commons Education Project: Adilabad
-
-
 Executive Directors meeting at Oslo
-
-
 Coming Soon - Upcoming Activities
-
-
 Indic Wikimedia Hackathon 2024
-
-
 Learning Hours
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
+.
 Warm regards,
-CIS-A2K Team 
+CIS-A2K Team
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २२:३१, १० दिसम्बर २०२४ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Invitation to Participate in the Wikimedia SAARC Conference Community Engagement Survey
-[
-सम्पादन करी
-]
-
-
 Dear Community Members,
-
 I hope this message finds you well. Please excuse the use of English; we encourage translations into your local languages to ensure inclusivity.
-
 We are conducting a Community Engagement Survey to assess the sentiments, needs, and interests of South Asian Wikimedia communities in organizing the inaugural Wikimedia SAARC Regional Conference, proposed to be held in Kathmandu, Nepal.
-
 This initiative aims to bring together participants from eight nations to collaborate towards shared goals. Your insights will play a vital role in shaping the event's focus, identifying priorities, and guiding the strategic planning for this landmark conference.
-
-Survey Link: 
+Survey Link:
 https://forms.gle/en8qSuCvaSxQVD7K6
-
-
 We kindly request you to dedicate a few moments to complete the survey. Your feedback will significantly contribute to ensuring this conference addresses the community's needs and aspirations.
-
 Deadline to Submit the Survey: 20 January 2025
-
 Your participation is crucial in shaping the future of the Wikimedia SAARC community and fostering regional collaboration. Thank you for your time and valuable input.
-
 Warm regards,
-
-
 Biplab Anand
-
-
-
-
-A2K Monthly Report – December 2024
-[
-सम्पादन करी
-]
-
-
-
-
 Dear Wikimedians,
-
 Happy 2025! We are thrilled to share with you the December edition of the CIS-A2K Newsletter, showcasing our initiatives and achievements from the past month. In this issue, we offer a detailed recap of key events, collaborative projects, and community engagement efforts. Additionally, we provide a preview of the exciting plans we have in store for the upcoming month. Stay connected with our dynamic community as we celebrate the progress we’ve made together!
-
-
-
 In the Limelight
-
-
 Santali Food Festival
-
-
 Dispatches from A2K
-
-
 Monthly Recap
-
-
 Learning hours Call
-
-
 Indic Wikimedia Hackathon 2024
-
-
 Santali Food Festival
-
-
 Coming Soon - Upcoming Activities
-
-
 She Leads Bootcamp
-
-
-You can access the newsletter 
+You can access the newsletter
 here
 .
-
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
+.
 Warm regards,
-CIS-A2K Team 
-
+CIS-A2K Team
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २२:५६, १२ जनवरी २०२५ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-New Wikimedia Campaign Launching Tomorrow: Indic Writing Systems Campaign 2025
-[
-सम्पादन करी
-]
-
-
 Dear Wikimedians,
-
-We are excited to announce the launch of the 
+We are excited to announce the launch of the
 Indic writing systems campaign 2025
-, which will take place from 23 January 2025 (World Endangered Writing Day) to 21 February 2025 (International Mother Language Day). This initiative is part of the ongoing efforts of 
+, which will take place from 23 January 2025 (World Endangered Writing Day) to 21 February 2025 (International Mother Language Day). This initiative is part of the ongoing efforts of
 WikiProject writing Systems
- to raise awareness about the documentation and revitalization of writing systems, many of which are currently underrepresented or endangered.
-
-Representatives from important organizations that work with writing systems, such as Endangered Alphabets and the Script Encoding Initiative, support the campaign. The campaign will feature two primary activities focused on the 
+to raise awareness about the documentation and revitalization of writing systems, many of which are currently underrepresented or endangered.
+Representatives from important organizations that work with writing systems, such as Endangered Alphabets and the Script Encoding Initiative, support the campaign. The campaign will feature two primary activities focused on the
 list of target scripts
 :
-
-
-
 Wikidata Labelathon
 : A focused effort to improve and expand the information related to South Asian scripts on Wikidata.
-
-
 Wikipedia Translatathon
 : A collaborative activity aimed at enhancing the coverage of South Asian writing systems and their cultural significance on Wikipedia.
-
-
-
-We are looking for local organizers to engage their respective communities. If you are interested in organizing, kindly sign-up 
+We are looking for local organizers to engage their respective communities. If you are interested in organizing, kindly sign-up
 here
-. We also encourage all Indic Wikimedians to 
+. We also encourage all Indic Wikimedians to
 join us
- in this important campaign to help document and celebrate the diverse writing systems of South Asia. 
-
-
-Thank you for your support, and we look forward to your active participation. 
-
-
-Regards 
+in this important campaign to help document and celebrate the diverse writing systems of South Asia.
+Thank you for your support, and we look forward to your active participation.
+Regards
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २३:१४, २२ जनवरी २०२५ (+0545)
-
 Navya sri Kalli
 [
 उत्तर दें
 ]
-
-
-
-
-A2K Monthly Newsletter – January 2025
-[
-सम्पादन करी
-]
-
-
 Dear Wikimedians,
-
 We are delighted to share the January edition of the CIS-A2K Newsletter, highlighting our initiatives and accomplishments from the past month. This issue features a detailed recap of key events, collaborative projects, and community engagement efforts. Plus, get a sneak peek at the exciting plans we have for the upcoming month. Let’s continue strengthening our community and celebrating our collective progress!
-
-
-
 In the Limelight
-
-
 Wikipedia and Wikimedia Commons App Usage in India: Key Insights and Challenges
-
-
 Dispatches from A2K
-
-
 Monthly Highlights
-
-
 Learning Hours Call
-
-
 She Leads Bootcamp 2025
-
-
 Wikisource Reader App
-
-
 Coming Soon – Upcoming Activities
-
-
 Participation in Wikisource Conference
-
-
 Second Iteration of She Leads
-
-
-Please read the full newsletter 
+Please read the full newsletter
 here
-To subscribe or unsubscribe to this newsletter, click 
+To subscribe or unsubscribe to this newsletter, click
 here
-. 
-
-
+.
 Looking forward to another impactful year ahead!
-
 Regards,
-CIS-A2K Team 
+CIS-A2K Team
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २०:१९, १२ फरबरी २०२५ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-
-
-
-
-

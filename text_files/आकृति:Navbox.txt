@@ -1,10 +1,4 @@
-
-
-
-
-
-
- Template documentation
+Template documentation
 [
 view
 ] [
@@ -20,48 +14,6 @@ purge
 
 
 
-
-
-
-
- 
-ई आकृति कऽ प्रयोग 
-48000+ पृष्ठसभमे
- कएल जा रहल अछि ।
-पैग मात्रामे व्यवधान आ अनावश्यक सर्भर लोडसँ वचवाक लेल, कोनो भी परिवर्तनके पहिने ई आकृतिके 
-/प्रयोगपृष्ठ
- उपपृष्ठ या अपन 
-उपयोगकर्ता स्थान
- पर जाँचि कऽ देखी । जाँचल गेल परिवर्तनके ई आकृतिमे एक बेरमे जोड़ल जा सकैत अछि । अन्य उपयोगकर्ताक लेल, परिवर्तन करिसँ पहिने एहिसँ सम्बन्धित वार्तालाप 
-वार्ता पृष्ठ
- पर करी । 
-
-
-
-
-
-
-Navbox suite
-{{
-Navbox
-}}
-{{
-Navbox long
-}}
-{{
-Navbox subgroup
-}}
-{{
-Navbox subgroup long
-}}
-{{
-Navbox with columns
-}}
-{{
-Navbox with collapsible groups
-}}
-
-
 This template allows a 
 navigational template
  to be set up relatively quickly by supplying it with one or more lists of links.  It comes equipped with default styles that should work for most navigational templates. Changing the default styles is possible, but not recommended.  Using this template, or one of its "Navbox suite" sister templates, is highly recommended for standardization of navigational templates, and for ease of use.
@@ -70,7 +22,6 @@ navigational template
 
 
 
-Usage
 [
 सम्पादन करी
 ]
@@ -103,29 +54,11 @@ Please remove the parameters that are left blank.
 
 
 
-Parameter list
 [
 सम्पादन करी
 ]
 
 
-v
-t
-e
-{{{title}}}
-{{{above}}}
-{{{group1}}}
-{{{list1}}}
-{{{image}}}
-{{{group2}}}
-{{{list2}}}
-{{{list3}}} 
-without {{{group3}}}
-{{{group4}}}
-{{{list4}}}
-{{{below}}} 
- See alternate navbox formats under: 
-Layout of table
 
 
 The navbox uses lowercase parameter names, as shown in the box (
@@ -210,7 +143,6 @@ below –
 optional text to appear below the group/list section.
 
 
-Parameter descriptions
 [
 सम्पादन करी
 ]
@@ -238,7 +170,6 @@ Navbox with collapsible groups
 
 
 
-Setup parameters
 [
 सम्पादन करी
 ]
@@ -398,7 +329,6 @@ border
 }}
 
 
-Cells
 [
 सम्पादन करी
 ]
@@ -528,7 +458,6 @@ Lists of the provinces and territories of Canada
 }}.
 
 
-Style parameters
 [
 सम्पादन करी
 ]
@@ -826,7 +755,6 @@ vertical-align: middle;
 
 
 
-Advanced parameters
 [
 सम्पादन करी
 ]
@@ -945,13 +873,11 @@ microformat
 
 
 
-Layout of table
 [
 सम्पादन करी
 ]
 
 
-Without image, above and below
 [
 सम्पादन करी
 ]
@@ -971,21 +897,8 @@ below
 
 
 
-v
-t
-e
-{{{title}}}
-{{{group1}}}
-{{{list1}}}
-{{{group2}}}
-{{{list2}}}
-{{{list3}}} 
-without {{{group3}}}
-{{{group4}}}
-{{{list4}}}
 
 
-With image, above and below
 [
 सम्पादन करी
 ]
@@ -1005,24 +918,8 @@ below
 
 
 
-v
-t
-e
-{{{title}}}
-{{{above}}}
-{{{group1}}}
-{{{list1}}}
-{{{image}}}
-{{{group2}}}
-{{{list2}}}
-{{{list3}}} 
-without {{{group3}}}
-{{{group4}}}
-{{{list4}}}
-{{{below}}}
 
 
-With image and without groups
 [
 सम्पादन करी
 ]
@@ -1050,25 +947,13 @@ below
 
 
 
-v
-t
-e
-{{{title}}}
-{{{imageleft}}}
-{{{list1}}}
-{{{image}}}
-{{{list2}}}
-{{{list3}}}
-{{{list4}}}
 
 
-Examples
 [
 सम्पादन करी
 ]
 
 
-No image
 [
 सम्पादन करी
 ]
@@ -1110,67 +995,8 @@ No image
 
 
 
-v
-t
-e
-MSC Malaysia
-Centre
 
 
-Cyberjaya
-
-
-Area
-
-
-Klang Valley
-
-
-Major landmarks
-
-
-Petronas Twin Towers
-
-
-Kuala Lumpur Tower
-
-
-Kuala Lumpur Sentral
-
-
-Technology Park Malaysia
-
-
-Putrajaya
-
-
-Cyberjaya
-
-
-Kuala Lumpur International Airport
-
-
-Infrastructure
-
-
-Express Rail Link
-
-
-KL-KLIA Dedicated Expressway
-
-
-Prime applications
-
-
-EGovernment
-
-
-MyKad
-
-
-
-
-With image, without groups
 [
 सम्पादन करी
 ]
@@ -1194,36 +1020,8 @@ With image, without groups
 
 
 
-v
-t
-e
-MSC Malaysia
 
 
-Petronas Twin Towers
-
-
-Kuala Lumpur Tower
-
-
-Kuala Lumpur Sentral
-
-
-Technology Park Malaysia
-
-
-Putrajaya
-
-
-Cyberjaya
-
-
-Kuala Lumpur International Airport
-
-
-
-
-With two images, without groups, multiple lists
 [
 सम्पादन करी
 ]
@@ -1255,45 +1053,8 @@ With two images, without groups, multiple lists
 
 
 
-v
-t
-e
-MSC Malaysia
 
 
-Petronas Twin Towers
-
-
-Kuala Lumpur Tower
-
-
-Kuala Lumpur Sentral
-
-
-
-
-Express Rail Link
-
-
-KL-KLIA Dedicated Expressway
-
-
-
-
-EGovernment
-
-
-MyKad
-
-
-
-
-Klang Valley
-
-
-
-
-With image, groups, above, below
 [
 सम्पादन करी
 ]
@@ -1338,66 +1099,8 @@ With image, groups, above, below
 
 
 
-v
-t
-e
-MSC Malaysia
-Above text goes here
-Centre
 
 
-Cyberjaya
-
-
-Area
-
-
-Klang Valley
-
-
-Major landmarks
-
-
-Petronas Twin Towers
-
-
-Kuala Lumpur Tower
-
-
-Kuala Lumpur Sentral
-
-
-Technology Park Malaysia
-
-
-Putrajaya
-
-
-Cyberjaya
-
-
-Infrastructure
-
-
-Express Rail Link
-
-
-KL-KLIA Dedicated Expressway
-
-
-Prime applications
-
-
-EGovernment
-
-
-MyKad
-
-
-Below text goes here
-
-
-Child navboxes
 [
 सम्पादन करी
 ]
@@ -1428,7 +1131,6 @@ border
 
 
 
-Subgroups example
 [
 सम्पादन करी
 ]
@@ -1454,33 +1156,8 @@ liststyle = background:transparent;
 
 
 
-v
-t
-e
-Multiple subgroup example
-Above
-Group1
-List1
-Group2
-Group2.1
-List1
-Group2.2
-List2
-Group2.3
-List3
-Group3
-List3
-Group4
-Group4.1
-List1
-Group4.2
-List2
-Group4.3
-List3
-Below
 
 
-Multiple show/hides in a single container
 [
 सम्पादन करी
 ]
@@ -1500,227 +1177,8 @@ name
 
 
 
-v
-t
-e
- 
- 
-Former French overseas empire
-Former French colonies
- in 
-Africa
- and the 
-Indian Ocean
-Mahgreb
 
 
-Algeria
-
-
-Morocco
- 
-(
-Arguin Island
-)
-
-
-Tunisia
-
-
-French West Africa
-
-
-Côte d'Ivoire
-
-
-Dahomey
-
-
-French Sudan
-
-
-Guinea
-
-
-Mauritania
-
-
-Niger
-
-
-Senegal
-
-
-Upper Volta
-
-
-French Togoland
-
-
-James Island
-
-
-French Equatorial Africa
-
-
-Chad
-
-
-Gabon
-
-
-Middle Congo
-
-
-Oubangui-Chari
-
-
-Comoros
-
-
-Anjouan
-
-
-Grande Comore
-
-
-Mohéli
-
-
-French Somaliland (Djibouti)
-
-
-Madagascar
-
-
-Ile de France
-
-
-Seychelles
-
-
-Former French colonies
- in the 
-Americas
-
-
-New France
-  
-(
-Acadia
-, 
-Louisiana
-, 
-Canada
-, 
-Terre Neuve
-) 1655–1763 
-
-
-
-
-Inini
-
-
-Berbice
-
-
-Saint-Domingue
-
-
-Haiti
-
-
-Tobago
-
-
-Virgin Islands
-
-
-France Antarctique
-
-
-France Équinoxiale
-
-
-French West India Company
-Former French colonies
- in 
-Asia
- and 
-Oceania
-French India
-
-
-Chandernagor
-
-
-Coromandel Coast
-
-
-Madras
-
-
-Mahé
-
-
-Pondichéry
-
-
-Karaikal
-
-
-Yanaon
-
-
-French Indochina
-
-
-Cambodia
-
-
-Laos
-
-
-Vietnam
- 
-(
-Annam
-, 
-Cochinchina
-, 
-Tonkin
-)
-
-
-Other Asian
-
-
-Alaouites
-
-
-Alexandretta-Hatay
-
-
-Ceylon
-
-
-Kwangchowan
-
-
-Oceania
-
-
-New Hebrides
-
-
-Vanuatu
-
-
-French East India Company
-
-
-Relationship with other Navbox templates
 [
 सम्पादन करी
 ]
@@ -1746,7 +1204,6 @@ child
 
 
 
-Technical details
 [
 सम्पादन करी
 ]
@@ -1769,7 +1226,6 @@ MediaWiki:Common.js
 .
 
 
-Intricacies
 [
 सम्पादन करी
 ]
@@ -1802,7 +1258,6 @@ The default margin-left and margin-right of the outer navbox table are set to "a
 style = width: 22em; float: right; margin-left: 1em; margin-right: 0;
 
 
-Copying to other projects or wikis?
 [
 सम्पादन करी
 ]
@@ -1820,7 +1275,6 @@ talk page
 
 
 
-Known issues
 [
 सम्पादन करी
 ]
@@ -1851,7 +1305,6 @@ hlist
  class avoids the delimiter transclusion issue altogether, as the delimiters are rendered via CSS.
 
 
-See also
 [
 सम्पादन करी
 ]
@@ -1899,187 +1352,6 @@ hlist
 
 
 
-Navigation template comparison
-
-
-
-
-
-
-देखु
- 
-•
- 
-संवाद
- 
-•
- 
-सम्पादन
-
-
-
-
-collapsible
-
-
-Header color
-†
-
-
-
-
-Image
-
-
-Groups
-
-
-Style (body)
-parameter/s
-
-
-Examples
-
-
-
-
-
-{{
-Navbox
-}}
-
-
-
-collapsible
-
-
-navbox
-
-
-
-Left/right of body
-
-
-समर्थन
-
-
-समर्थन
-
-
-{{
-USCongress
-}}, {{
-Apollo program
-}}
-
-
-
-
-
-{{
-Navbox with columns
-}}
-
-
-
-collapsible
-
-
-navbox
-
-
-
-Left/right of columns
-
-
-विरोध
-
-
-समर्थन
-
-
-{{
-Current U.S. Senators
-}}, {{
-UK subdivisions
-}}
-
-
-
-
-
-
-
-
-
-
-
-†
- The background color for the header or title is inherited from the class listed below.  The templates have 
-titlestyle
- parameters that can be used to override the default.
-
-
-
-
-
-Collapsible attributes
-
-
-
-
-
-
-Type
-
-
-CSS classes
-
-
-Collapses when
-
-
-Custom
-initial state
-
-
-Nesting
-
-
-Default
-header color
-
-
-Font size
-
-
-
-
-
-Collapsible tables
-
-
-
-
-collapsible, navbox
-
-
-
-2 or more autocollapse on page
-
-
-समर्थन
-
-
-समर्थन
-
-
-
-#ccccff
-
-
-90%
-
 
 
 
@@ -2114,10 +1386,3 @@ Add categories to the
  subpage. 
 Subpages of this template
 .
-
-
-
-
-
-
-

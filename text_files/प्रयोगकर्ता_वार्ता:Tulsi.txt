@@ -1,2727 +1,324 @@
-
-
-
-
-सहायता
-
-
-
-
-
-
-
-
-अभिलेख १
-
-
-
-
-
-
-
-
-Translation
-[
-सम्पादन करी
-]
-
-
-Hello, could you please translate 
+Hello, could you please translate
 Automatic refresh (स्वचालित ताज़ा करना)
- to नेपाली (NE), मैथिली (MAI), भोजपुरी (BH), Fiji Hindi (HIF) and संस्कृतम् (SA)? Thanks 
+to नेपाली (NE), मैथिली (MAI), भोजपुरी (BH), Fiji Hindi (HIF) and संस्कृतम् (SA)? Thanks
 -XQV-
- (
+(
 वार्ता
 ) ०१:५५, १२ जनवरी २०१७ (NPT)
-
-
-
-विचार आ समीक्षाक लेल अनुरोध
-[
-सम्पादन करी
-]
-
-
 प्रिय मैथिल विकिपिडियन मित्र लोकनि,
-मैथिली विकिपिडियाक चबुतरामे भऽ रहल 
+मैथिली विकिपिडियाक चबुतरामे भऽ रहल
 चर्चा
- मे भाग ली ।--
+मे भाग ली ।--
 बिप्लब आनन्द
- ११:०९, ३ मार्च २०१७ (NPT)
-
-
-
-Editing News #1—2017
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-
-
-Did you know?
-
-
-
-
-Did you know that you can review your changes visually? 
-
-
-
-When you are finished editing the page, type your edit summary and then choose "अपने बदलाव की समीक्षा करें".  
-
-In visual mode, you will see additions, removals, new links, and formatting highlighted.  Other changes, such as changing the size of an image, are described in notes on the side.
-
-
-
-
-
-
-
-
-Click the toggle button to switch between visual and wikitext diffs.
-
-
-
-
-
-
-
-
-The wikitext diff is the same diff tool that is used in the wikitext editors and in the page history. You can read and help translate 
-the user guide
-, which has more information about how to use the visual editor.
-
-
-
-
-
-
-Since the last newsletter, the 
-VisualEditor Team
- has spent most of their time supporting 
-the 2017 wikitext editor mode
- which is available inside the visual editor as a Beta Feature, and adding 
-the new visual diff tool
-. Their workboard is available 
-in Phabricator
-.  You can find links to the work finished each week at  
-mw:VisualEditor/Weekly triage meetings
-.   Their 
-current priorities
- are fixing bugs, supporting the 2017 wikitext editor as a 
-beta feature
-, and improving the visual diff tool.   
-
-
-
-Recent changes
-[
-सम्पादन करी
-]
-
-
-A 
-new wikitext editing mode
- is available as a Beta Feature on desktop devices.  The 
-2017 wikitext editor
- has the same toolbar as the visual editor and can use the citoid service and other modern tools.  Go to 
-Special:Preferences#mw-prefsection-betafeatures
- to enable the ⧼Visualeditor-preference-newwikitexteditor-label⧽.
-
-
-A new 
-visual diff tool
- is available in VisualEditor's visual mode.  You can toggle between wikitext and visual diffs.  More features will be added to this later.  In the future, this tool may be integrated into other MediaWiki components. 
-[१]
-
-
-The team have added 
-multi-column support for lists of footnotes
-. The 
-<references />
- block can automatically display long lists of references in columns on wide screens.  This makes footnotes easier to read.  You can 
-request multi-column support
- for your wiki. 
-[२]
-
-
-You can now use your web browser's function to switch typing direction in the new wikitext mode. This is particularly helpful for RTL language users like Urdu or Hebrew who have to write JavaScript or CSS. You can use Command+Shift+X or Control+Shift+X to trigger this. 
-[३]
-
-
-The way to switch between the visual editing mode and the wikitext editing mode is now consistent. There is a drop-down menu that shows the two options. This is now the same in desktop and mobile web editing, and inside things that embed editing, such as Flow. 
-[४]
-
-
-The श्रेणियाँ item has been moved to the top of the पृष्ठ विकल्प menu (from clicking on the "hamburger" icon) for quicker access. 
-[५]
- There is also now a "Templates used on this page" feature there. 
-[६]
-
-
-You can now create 
-<chem>
-  tags (sometimes used as 
-<ce>
-) for chemical formulas inside the visual editor. 
-[७]
-
-
-Tables can be set as collapsed or un-collapsed. 
-[८]
-
-
-The विशेष संकेत menu now includes characters for Canadian Aboriginal Syllabics and angle quotation marks (‹› and ⟨⟩) .  The team thanks the volunteer developer, 
-Tpt
-. 
-[९]
-
-
-A bug caused some section edit conflicts to blank the rest of the page.  This has been fixed.  The team are sorry for the disruption. 
-[१०]
-
-
-There is a new keyboard shortcut for citations:  
-Control
-+
-Shift
-+
-K
- on a PC, or 
-Command
-+
-Shift
-+
-K
- on a Mac.  It is based on the keyboard shortcut for making links, which is 
-Control
-+
-K
- or 
-Command
-+
-K
- respectively. 
-[११]
-
-
-Future changes
-[
-सम्पादन करी
-]
-
-
-The team is working on a syntax highlighting tool.  It will highlight matching pairs of 
-<ref>
- tags and other types of wikitext syntax.  You will be able to turn it on and off.  It will first become available in VisualEditor's built-in wikitext mode, maybe late in 2017. 
-[१२]
-
-
-The kind of button used to पूर्वप्रदर्शन, परिवर्तन देखाबी, and finish an edit will change in all WMF-supported wikitext editors.  The new buttons will use 
-OOjs UI
-.  The buttons will be larger, brighter, and easier to read.  The labels will remain the same.  You can test the new button by editing a page and adding 
-&ooui=1
- to the end of the URL, like this:  
-https://www.mediawiki.org/wiki/Project:Sandbox?action=edit&ooui=1
-  The old appearance will no longer be possible, even with local CSS changes.  
-[१३]
-
-
-The 
-outdated 2006 wikitext editor
- will be removed later this year.  It is used by approximately 0.03% of active editors.  See 
-a list of editing tools on mediawiki.org
- if you are uncertain which one you use.  
-[१४]
-
-
-If you aren't reading this in your preferred language, then please help us with translations! Subscribe to the 
-Translators mailing list
- or 
-contact us
- directly, so that we can notify you when the next issue is ready. धन्यवाद!
-
-
-—
-Elitre (WMF)
-
-
-
-
- २३:४४, १२ मई २०१७ (+0545)
-
-फ्याब्रिकेटर टास्कक सम्बन्धमे
-[
-सम्पादन करी
-]
-
-
+११:०९, ३ मार्च २०१७ (NPT)
+२३:४४, १२ मई २०१७ (+0545)
 तुल्सी जी,
-गेरिट पर अहाँक काज देखलौं आ बहुत प्रसन्न भेलौं । प्याच गिट ब्यासक माध्यमसँ उपारोपण केलौं की वेबक माध्यम सँ ? अहाँ एक बेर 
+गेरिट पर अहाँक काज देखलौं आ बहुत प्रसन्न भेलौं । प्याच गिट ब्यासक माध्यमसँ उपारोपण केलौं की वेबक माध्यम सँ ? अहाँ एक बेर
 न्युक
 क सम्बन्धमे वार्ता केनए छलौं की मैथिली विकिपिडियामे ओ काज नै करि रहल अछि । अहाँ पुन एक बेर जाँच करि देखी आ उद्द्यतन करी । आभार--
 Biplab Anand
- (
+(
 वार्ता
 ) २०:१६, १ फरबरी २०१८ (NPT)
-
-
-
-धन्यवाद 
+धन्यवाद
 बिप्लबजी
- ! हम प्याच उपारोपण वेबक माध्यम सँ केलौ आ गिट ब्यासक माध्यम सँ केना कएल जाई से सिक रहल छी आ एतय मैथिली विकिमे 
+! हम प्याच उपारोपण वेबक माध्यम सँ केलौ आ गिट ब्यासक माध्यम सँ केना कएल जाई से सिक रहल छी आ एतय मैथिली विकिमे
 न्युकके
- स्थिति जरूर जाँच आ उद्द्यतन करब । — 
+स्थिति जरूर जाँच आ उद्द्यतन करब । —
 तुल्सी भगत
- 
 (
 वार्तालाप
 )
- २०:३२, १ फरबरी २०१८ (NPT)
-
-
-तस्वीर अपलोड
-[
-सम्पादन करी
-]
-
-
+२०:३२, १ फरबरी २०१८ (NPT)
 प्रिय तुल्सी,
-
 हरिवंश राय बच्चनक
- लेखमे तस्वीर नै आबि रहल अछि कृपया अपलोड करि देब । आभारी --
- 
+लेखमे तस्वीर नै आबि रहल अछि कृपया अपलोड करि देब । आभारी --
 पंकज देव
- 
 (
 वार्ता
 )
- १६:१७, २ फरबरी २०१८ (NPT)
-
-
-
-अन्तर्राष्ट्रिय मातृभाषा दिवस सम्पादनथन प्रतियोगिता
-[
-सम्पादन करी
-]
-
-
+१६:१७, २ फरबरी २०१८ (NPT)
 नमस्ते मैथिली विकिपिडिया मित्रसभ,
-
-
 अन्तर्राष्ट्रिय मातृभाषा दिवसक
- उपलक्ष्यमे हम मैथिली विकिपिडियामे ३ दिनक (२१ फरबरी सँ २३ फरबरी) धरिक सम्पादनथन प्रतियोगिता सञ्चालन करवाक लेल 
+उपलक्ष्यमे हम मैथिली विकिपिडियामे ३ दिनक (२१ फरबरी सँ २३ फरबरी) धरिक सम्पादनथन प्रतियोगिता सञ्चालन करवाक लेल
 चबुतरा
- उपर एक प्रस्ताव करैत छी । ई प्रतियोगिता अवधिमे विश्वक भाषा, भाषा परिवार सँ सम्बन्धित लेख निर्माण कएल जाइत । कृपया अपन मत राखी । धन्यवाद-- 
+उपर एक प्रस्ताव करैत छी । ई प्रतियोगिता अवधिमे विश्वक भाषा, भाषा परिवार सँ सम्बन्धित लेख निर्माण कएल जाइत । कृपया अपन मत राखी । धन्यवाद--
 Biplab Anand
- (
+(
 वार्ता
 )
-
-
-
-मातृभाषा सम्पादनथन
-[
-सम्पादन करी
-]
-
-
-
-
 नमस्ते मैथिली विकिपिडियन जी,
-
-कृपया मैथिली विकिपिडियामे होमए जा रहल 
+कृपया मैथिली विकिपिडियामे होमए जा रहल
 विकिपिडिया:मातृभाषा सम्पादनथन
- प्रतियोगितामे अपन 
+प्रतियोगितामे अपन
 सहभागिता
- जनाएल जाए ।
-
-
-
-Editing News #1—2018
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-
-
-
-
-Did you know?
-
-
-Did you know that you can now use the 
-visual diff tool
- on any page?
-
-
-
-
-
-Sometimes, it is hard to see important changes in a wikitext diff.  This screenshot of a wikitext diff (click to enlarge) shows that the paragraphs have been rearranged, but it does not highlight the removal of a word or the addition of a new sentence.
-
-If you 
-enable the Beta Feature
- for "⧼visualeditor-preference-visualdiffpage-label⧽", you will have a new option.  It will give you a new box at the top of every diff page.  This box will let you choose either diff system on any edit.
-
-
-
-
-
-Click the toggle button to switch between visual and wikitext diffs.
-
-In the visual diff, additions, removals, new links, and formatting changes will be highlighted.  Other changes, such as changing the size of an image, are described in notes on the side.
-
-
-
-
-
-This screenshot shows the same edit as the wikitext diff.  The visual diff highlights the removal of one word and the addition of a new sentence.
-
-You can read and help translate 
-the user guide
-, which has more information about how to use the visual editor.
-
-
-
-
-
-Since 
-the last newsletter
-, the 
-Editing Team
- has spent most of their time supporting 
-the 2017 wikitext editor mode
-, which is available inside the visual editor as a Beta Feature, and improving 
-the visual diff tool
-. Their work board is available 
-in Phabricator
-.  You can find links to the work finished each week at 
-mw:VisualEditor/Weekly triage meetings
-.  Their 
-current priorities
- are fixing bugs, supporting the 2017 wikitext editor, and improving the visual diff tool.
-
-
-
-Recent changes
-[
-सम्पादन करी
-]
-
-
-The 
-2017 wikitext editor
- is 
-available as a Beta Feature
- on desktop devices.  It has the same toolbar as the visual editor and can use the citoid service and other modern tools.  The team have been comparing the performance of different editing environments.  They have studied how long it takes to open the page and start typing.  The study uses data for more than one million edits during December and January.  Some changes have been made to improve the speed of the 2017 wikitext editor and the visual editor.  Recently, the 2017 wikitext editor opened fastest for most edits, and the 2010 WikiEditor was fastest for some edits.  More information will be posted at 
-mw:Contributors/Projects/Editing performance
-.
-
-
-The 
-visual diff tool
- was developed for the visual editor.  It is now available to all users of the visual editor and the 2017 wikitext editor.  When you review your changes, you can toggle between wikitext and visual diffs.  You can also 
-enable the new Beta Feature
- for "Visual diffs".  The Beta Feature lets you use the visual diff tool to view other people's edits on page histories and 
-Special:RecentChanges
-.  
-[१५]
-
-
-Wikitext syntax highlighting
- is available as a Beta Feature for both 
-the 2017 wikitext editor
- and the 2010 wikitext editor. 
-[१६]
-
-
-The 
-citoid service
- automatically translates URLs, DOIs, ISBNs, and PubMed id numbers into wikitext citation templates.  It is very popular and useful to editors, although it can be a bit tricky to set up.  
-Your wiki can have this service.  Please 
-read the instructions
-. You can 
-ask the team to help you enable citoid at your wiki
-.
-
-
-Let's work together
-[
-सम्पादन करी
-]
-
-
-The team will talk about editing tools at an upcoming 
-Wikimedia Foundation metrics and activities meeting
-.
-
-
-Wikibooks, Wikiversity, and other communities may have the visual editor made available by default to contributors.  If your community wants this, then please contact 
-Dan Garry
-.
-
-
-The 
-<references />
- block can 
-automatically display long lists of references in columns
- on wide screens.  This makes footnotes easier to read.  You can 
-request multi-column support
- for your wiki. 
-[१७]
-
-
-If you aren't reading this in your preferred language, then please help us with translations! Subscribe to the 
-Translators mailing list
- or 
-contact us
- directly. We will notify you when the next issue is ready for translation. धन्यवाद!
-
-
-—
-Elitre (WMF)
-
-
-
-
- ०२:३९, ३ मार्च २०१८ (NPT)
-
-Blind deletion
-[
-सम्पादन करी
-]
-
-
-Surprised ! You deleted 
+जनाएल जाए ।
+०२:३९, ३ मार्च २०१८ (NPT)
+Surprised ! You deleted
 मैथिली विकिपिडिया
- because it was short article ! --
+because it was short article ! --
 SM7
---बातचीत--
- ०१:२७, १८ सितम्बर २०१८ (NPT)
-
-
-
+०१:२७, १८ सितम्बर २०१८ (NPT)
 @
 SM7
-: Hi, Please see the deletion reason nicely. It was deleted because the content there is out of this project's language. Also, It was tagged by "PANKAJ DEO" for deletion. There is no useful content. So with the above reasons, I feel to delete it. If you want to restore the page then please leave a message regarding restoration on 
+: Hi, Please see the deletion reason nicely. It was deleted because the content there is out of this project's language. Also, It was tagged by "PANKAJ DEO" for deletion. There is no useful content. So with the above reasons, I feel to delete it. If you want to restore the page then please leave a message regarding restoration on
 Administrators' Noticeboard
- with suitable reason. Regards, — 
+with suitable reason. Regards, —
 तुल्सी भगत
- 
 (
 योगदान
- | 
+|
 वार्ता
 )
- ०८:२०, १८ सितम्बर २०१८ (NPT)
-
-
+०८:२०, १८ सितम्बर २०१८ (NPT)
 I have no such intention dear Sir, but you or your would be admin PANKAJ could have translated or rewritten at least a few lines and kept the article. Clicking to tag and to delete is quite easy, but I would suggest not to behave like an enwiki admin as if we have lakhs of articles here. --
 SM7
---बातचीत--
- १०:२३, १८ सितम्बर २०१८ (NPT)
-
-
-Editing News #2—2018
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-
-
-
-
-Did you know?
-
-
-
-
-
-
-Did you know that you can use the visual editor on a mobile device?
-
-
-
-
-
-Tap on the pencil icon to start editing.  The page will probably open in the wikitext editor.
-
-You will see another pencil icon in the toolbar.  Tap on that pencil icon to the switch between visual editing and wikitext editing.
-
-
-
-
-
-Remember to publish your changes when you're done.
-
-
-You can read and help translate 
-the user guide
-, which has more information about how to use the visual editor.
-
-
-Since the last newsletter, the 
-Editing Team
- has wrapped up most of their work on the 
-2017 wikitext editor
- and 
-the visual diff tool
-.  The team has begun investigating the needs of editors who use mobile devices.  Their work board is available 
-in Phabricator
-.  Their 
-current priorities
- are fixing bugs and improving mobile editing.   
-
-
-
-Recent changes
-[
-सम्पादन करी
-]
-
-
-The Editing team has published an 
-initial report about mobile editing
-.
-
-
-The Editing team has begun a design study of visual editing on the mobile website.  New editors have trouble doing basic tasks on a smartphone, such as adding links to Wikipedia articles.  You can 
-read the report
-.
-
-
-The Reading team is working on a 
-separate mobile-based contributions project
-.
-
-
-The 2006 wikitext editor is 
-no longer supported
-.  If you used 
-that toolbar
-, then you will no longer see any toolbar.  You may choose another editing tool in your 
-editing preferences
-, 
-local gadgets
-, or 
-beta features
-.
-
-
-The Editing team described the history and status of 
-VisualEditor
- in 
-this recorded public presentation
- (starting at 29 minutes, 30 seconds).
-
-
-The Language team released 
-a new version of Content Translation
- (CX2) last month, on 
-International Translation Day
-. It integrates the visual editor to support templates, tables, and images.  It also produces better wikitext when the translated article is published. 
-[१८]
-
-
-Let's work together
-[
-सम्पादन करी
-]
-
-
-The Editing team wants to improve visual editing on the mobile website.  
-Please read 
-their ideas
- and tell the team what you think would help editors who use the mobile site.
-
-
-The 
-Community Wishlist Survey
- begins next week.
-
-
-If you aren't reading this in your preferred language, then please help us with translations! Subscribe to the 
-Translators mailing list
- or 
-contact us
- directly. We will notify you when the next issue is ready for translation. धन्यवाद!
-
-
-—
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- २०:००, २ नवम्बर २०१८ (NPT)
-
-विकि लभ्स विमिन २०१९ मे सहभागिताक लेल
-[
-सम्पादन करी
-]
-
-
+१०:२३, १८ सितम्बर २०१८ (NPT)
+२०:००, २ नवम्बर २०१८ (NPT)
 विकी लभ्स विमिन २०१९
-
-
 नमस्ते Tulsi जी,
-
-कृपया मैथिली विकिपिडियामे भऽ रहल 
+कृपया मैथिली विकिपिडियामे भऽ रहल
 विकिपिडिया:विकी लभ्स विमिन २०१९
- प्रतियोगितामे अपन 
+प्रतियोगितामे अपन
 सहभागिता
- जनाएल जाए आ बेसी सँ बेसी लेखकें निर्माण करऽमे सहयोग करी। धन्यवाद--
+जनाएल जाए आ बेसी सँ बेसी लेखकें निर्माण करऽमे सहयोग करी। धन्यवाद--
 Nilam Karn
-
-
-
-
-Editing News #1—July 2019
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-
-
-
-
-Did you know?
-
-
-
-
-
-
-Did you know that you can use the visual editor on a mobile device?
-
-Every article has a pencil icon at the top.  Tap on the pencil icon 
- to start editing.  
-
-Edit Cards
-
-
-
-
-
-
-This is what the new 
-Edit Cards for editing links
- in the mobile visual editor look like. You can try the prototype here: 
-📲 Try Edit Cards
-.
-
-
-
-
-
-
-Welcome back to the 
-Editing
- newsletter.
-
-Since 
-the last newsletter
-, the team has released two new features for the 
-mobile visual editor
- and has started developing three more.  All of this work is part of the team's goal to 
-make editing on mobile web simpler
-.  
-
-Before talking about the team's recent releases, we have a question for you:  
-
-Are you willing to try a new way to add and change links?
-
-
-If you are interested, we would value your input!  You can try this new link tool in the mobile visual editor on a separate wiki. 
-
-Follow these instructions and share your experience:
-
-
-📲 Try Edit Cards
-.
-
-
-
-
-Recent releases
-[
-सम्पादन करी
-]
-
-
-The mobile visual editor is a simpler editing tool, for smartphones and tablets using the 
-mobile site
-.  The Editing team recently launched two new features to improve the mobile visual editor: 
-
-
-
-Section editing
-
-
-The purpose is to help contributors focus on their edits.
-
-
-The team studied this with an A/B test.  
-This test showed
- that contributors who could use section editing were 
-1% more likely to publish
- the edits they started than people with only full-page editing.
-
-
-Loading overlay
-
-
-The purpose is to smooth the transition between reading and editing.
-
-
-Section editing and the new loading overlay are 
-now available to everyone
- using the mobile visual editor.
-
-
-
-New and active projects
-[
-सम्पादन करी
-]
-
-
-This is a list of our most active projects. 
-Watch
- these pages to learn about project updates and to share your input on new designs, prototypes and research findings.
-
-
-
-Edit cards
-: This is a clearer way to add and edit links, citations, images, templates, etc. in articles.  You can try this feature now.  
-Go here to see how:
- 
-📲 
-Try Edit Cards
-.
-
-
-Mobile toolbar refresh
-: This project will learn if contributors are more successful when the editing tools are easier to recognize.
-
-
-Mobile visual editor availability
-: This A/B test asks:  
-Are newer contributors more successful if they use the mobile visual editor?
-  We are collaborating with 
-20 Wikipedias
- to answer this question.
-
-
-Usability improvements
-: This project will make the mobile visual editor easier to use.  The goal is to let contributors stay focused on editing and to feel more confident in the editing tools.
-
-
-Looking ahead
-[
-सम्पादन करी
-]
-
-
-Wikimania:
-  Several members of the Editing Team will be attending 
-Wikimania
- in August 2019.  They will lead a session about mobile editing in the 
-Community Growth space
-.  Talk to the team about how editing can be improved.
-
-
-Talk Pages:
-  In the coming months, the Editing Team will begin 
-improving talk pages
- and communication on the wikis.
-
-
-Learning more
-[
-सम्पादन करी
-]
-
-
-The 
-VisualEditor on mobile
- is a good place to learn more about the projects we are working on. The team wants to talk with you about anything related to editing. If you have something to say or ask, please leave a message at 
-Talk:VisualEditor on mobile
-.
-
-PPelberg (WMF)
- (
-talk
-) & 
-Whatamidoing (WMF)
- (
-talk
-) 
-
-
-
- ००:१८, २४ जुलाई २०१९ (+0545)
-
-Editing News #2 – Mobile editing and talk pages
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-Inside this newsletter, the 
-Editing team
- talks about their work on the 
-mobile visual editor
-, on 
-the new talk pages project
-, and at 
-Wikimania 2019
-.
-
-
-
-Help
-[
-सम्पादन करी
-]
-
-
-What talk page interactions do you remember?
- Is it a story about how someone helped you to learn something new? Is it a story about how someone helped you get involved in a group? Something else?  Whatever your story is, we want to hear it!  
-
-Please tell us a story about how you used a talk page.  
-Please share a link to a memorable discussion, or describe it on the 
-talk page for this project
-.
-  The team wants your examples.  These examples will help everyone develop a shared understanding of what this project should support and encourage.
-
-
-
-Talk pages project
-[
-सम्पादन करी
-]
-
-
-The 
-Talk Pages Consultation
- was a global consultation to define better tools for wiki communication. From February through June 2019, more than 500 volunteers on 20 wikis, across 15 languages and multiple projects, came together with members of the Foundation to create a product direction for a set of discussion tools.  The 
-Phase 2 Report
- of the Talk Page Consultation was published in August. It summarizes the product direction the team has started to work on, which you can read more about here: 
-Talk Page Project project page
-. 
-
-The team needs and wants your help at this early stage.  They are starting to develop the first idea. Please add your name to the 
-"Getting involved"
- section of the project page, if you would like to hear about opportunities to participate.
-
-
-
-Mobile visual editor
-[
-सम्पादन करी
-]
-
-
-The Editing team is trying to make it simpler to edit on mobile devices.  The team is changing the 
-visual editor on mobile
-. If you have something to say about editing on a mobile device, please leave a message at 
-Talk:VisualEditor on mobile
-.
-
-
-
-Edit Cards
-[
-सम्पादन करी
-]
-
-
-What happens when you click on a link.  The new Edit Card is bigger and has more options for editing links.
-
-
-On 3 September, the Editing team released 
-version 3 of Edit Cards
-. Anyone could use the new version in the mobile visual editor.
-
-
-There is an 
-updated design
- on the Edit Card for adding and modifying links.  There is also a new, 
-combined workflow for editing a link's display text and target
-.
-
-
-Feedback: You can try the new Edit Cards by opening the mobile visual editor on a smartphone. Please post your feedback on the 
-Edit cards talk page
-.
-
-
-Toolbar
-[
-सम्पादन करी
-]
-
-
-The editing toolbar is changing in the mobile visual editor.  The old system had two different toolbars.  Now, all the buttons are together.  
-Tell the team what you think about the new toolbar
-.
-
-
-In September, the Editing team updated the mobile visual editor's editing toolbar.  Anyone could see these changes in the mobile visual editor.
-
-One toolbar:
- All of the editing tools are located in one toolbar.  Previously, the toolbar changed when you clicked on different things.
-
-
-New navigation:
- The buttons for moving forward and backward in the edit flow have changed.
-
-
-Seamless switching:
- an 
-improved workflow
- for switching between the visual and wikitext modes.
-
-
-Feedback: You can try the refreshed toolbar by opening the mobile VisualEditor on a smartphone. Please post your feedback on the 
-Toolbar feedback talk page
-.
-
-
-Wikimania
-[
-सम्पादन करी
-]
-
-
-The Editing Team attended 
-Wikimania 2019
- in Sweden.  They led a session on 
-the mobile visual editor
- and a session on 
-the new talk pages project
-.  They tested 
-two
- new 
-features
- in the mobile visual editor with contributors.  You can read more about what the team did and learned in 
-the team's report on Wikimania 2019
-.
-
-
-
-Looking ahead
-[
-सम्पादन करी
-]
-
-
-Talk Pages Project:
- The team is thinking about the first set of proposed changes.  The team will be working with a few communities to pilot those changes. The best way to stay informed is by adding your username to the list on the project page: 
-Getting involved
-.
-
-
-Testing the mobile visual editor as the default:
-  The Editing team plans to post results before the end of the calendar year. The best way to stay informed is by adding the project page to your watchlist: 
-VisualEditor as mobile default project page
-.
-
-
-Measuring the impact of Edit Cards:
-  This study asks whether the project helped editors add links and citations.  The Editing team hopes to share results in November.  The best way to stay informed is by adding the project page to your watchlist: 
-Edit Cards project page
-.
-
-
-– 
-PPelberg (WMF)
- (
-talk
-) & 
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- १६:५६, २९ अक्टुबर २०१९ (+0545)
-
-Wikipedia Asian Month 2019
-[
-सम्पादन करी
-]
-
-
-
-
-
-
-
-
-कृपया अपनी भाषा में अनुवादित करने में सहायता करें
-
-
-Greetings!
-
-Thank you for organizing 
-Wikipedia Asian Month 2019
- for your local Wikipedia language. For rules and guidelines, refer to 
-this page
- on Meta. To reach out for support for the contest or ask any query, reach out to us on our 
-Contact Us
- page. Our 
-International Team
- will be assisting you through out the contest duration. Thank you for your efforts in making this project successful.
-
-Best wishes,
-
-WAM 2019 International Team
-
-
-
-
-Stay Updated 
-  
-
-
-
-
+००:१८, २४ जुलाई २०१९ (+0545)
+१६:५६, २९ अक्टुबर २०१९ (+0545)
 --
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १७:३१, २ नवम्बर २०१९ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Extension of Wikipedia Asian Month contest
-[
-सम्पादन करी
-]
-
-
-In consideration of a week-long internet block in Iran, 
+In consideration of a week-long internet block in Iran,
 Wikipedia Asian Month 2019
- contest has been extended for a week past November. The articles submitted till 7th December 2019, 23:59 UTC will be accepted by the fountain tools of the participating wikis.
-
-Please help us translate and spread this message in your local language. 
-
+contest has been extended for a week past November. The articles submitted till 7th December 2019, 23:59 UTC will be accepted by the fountain tools of the participating wikis.
+Please help us translate and spread this message in your local language.
 Wikipedia Asian Month international team
 .
-
 --
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १९:५७, २७ नवम्बर २०१९ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-What's Next (WAM)!
-[
-सम्पादन करी
-]
-
-
 Congratulations! The Wikipedia Asian Month has ended successfully and you've done amazing work of organizing. What we've got and what's next?
-
-
-
 We have a total of 10,186 articles made during this edition and it's the highest of all time.
-
-
-Make sure you judge all articles before December 20th, Once you finish the judging, please update 
+Make sure you judge all articles before December 20th, Once you finish the judging, please update
 this page
 .
-
-
 There will be two round of address collection scheduled: December 22th and December 27th 2019.
-
-
-Please report the local Wikipedia Asian Ambassador (who has most accepted articles) on 
+Please report the local Wikipedia Asian Ambassador (who has most accepted articles) on
 this page
 , if the 2nd participants have more than 30 accepted articles, you will have two ambassadors.
-
-
-In case you wondering how can you use the WAM tool (Fountain) in your own contest, contact the developer 
+In case you wondering how can you use the WAM tool (Fountain) in your own contest, contact the developer
 Le Loy
- for more information.
-
-
+for more information.
 Best wishes,
-
 Wikipedia Asian Month International Team
-
-
 --
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 २३:१५, १४ दिसम्बर २०१९ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-WAM 2019 Postcard
-[
-सम्पादन करी
-]
-
-
 Dear Participants and Organizers,
-
 Congratulations!
-
-It's WAM's honor to have you all participated in 
+It's WAM's honor to have you all participated in
 Wikipedia Asian Month 2019
 , the fifth edition of WAM. Your achievements were fabulous, and all the articles you created make the world can know more about Asia in different languages!
 Here we, the WAM International team, would like to say thank you for your contribution also cheer for you that you are eligible for the postcard of Wikipedia Asian Month 2019.
-Please kindly fill 
+Please kindly fill
 the form
 , let the postcard can send to you asap!
-
 Cheers!
-
 Thank you and best regards,
-
 Wikipedia Asian Month International Team
- 
 --
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १४:०१, ३ जनवरी २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-WAM 2019 Postcard
-[
-सम्पादन करी
-]
-
-
 Wikipedia Asian Month 2019
-
-
 Dear Participants and Organizers,
-
-Kindly remind you that we only collect the information for 
+Kindly remind you that we only collect the information for
 WAM
- postcard 31/01/2019 UTC 23:59. If you haven't filled 
+postcard 31/01/2019 UTC 23:59. If you haven't filled
 the google form
 , please fill it asap. If you already completed the form, please stay tun, wait for the postcard and tracking emails.
-
 Cheers!
-
 Thank you and best regards,
-
 Wikipedia Asian Month International Team
- 2020.01
-
-
-
+2020.01
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 ०२:४३, २१ जनवरी २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-WAM 2019 Postcard: All postcards are postponed due to the postal system shut down
-[
-सम्पादन करी
-]
-
-
 Wikipedia Asian Month 2019
-
-
 Dear all participants and organizers,
-
 Since the outbreak of COVID-19, all the postcards are postponed due to the shut down of the postal system all over the world. Hope all the postcards can arrive as soon as the postal system return and please take good care.
-
 Best regards,
-
 Wikipedia Asian Month International Team
- 2020.03
-
-
-
-Editing news 2020 #1 – Discussion tools
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-This early version of the Reply tool automatically signs and indents comments.
-
-
-The 
-Editing team
- has been working on 
-the talk pages project
-.  The goal of the talk pages project is to help contributors communicate on wiki more easily.  This project is the result of the 
-Talk pages consultation 2019
-. 
-
-
-
-In a future update, the team plans to test a tool for easily linking to another user's name, a rich-text editing option, and other tools.
-
-
-The team is building a 
-new tool for replying
- to comments now.  This early version can sign and indent comments automatically.  
-Please 
-test the new Reply tool
-.
-
-
-
-
-On 31 March 2020, the new उत्तर दें tool was offered as a 
-Beta Feature
- editors at four Wikipedias:  
-Arabic
-, 
-Dutch
-, 
-French
-, and 
-Hungarian
-.  If your community also wants early access to the new tool, contact 
-User:Whatamidoing (WMF)
-.
-
-
-The team is planning some upcoming changes.  
-Please 
-review the proposed design
- and share your thoughts on the talk page.
-  The team will test features such as:
-
-an easy way to mention another editor ("pinging"),
-
-
-a rich-text visual editing option, and
-
-
-other features identified through user testing or recommended by editors.
-
-
-To hear more about Editing Team updates, please add your name to the 
-"Get involved"
- section of the project page. You can also watch 
- these pages: 
-the main project page
-, 
-Updates
-, 
-Replying
-, and 
-User testing
-.
-
-– 
-PPelberg (WMF)
- (
-talk
-) & 
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- ००:५०, ९ अप्रैल २०२० (+0545)
-
-Images on mai.wikipedia
-[
-सम्पादन करी
-]
-
-
+2020.03
+००:५०, ९ अप्रैल २०२० (+0545)
 Hello!
-
 I like to work on files and I noticed that mai.wiki have 105 files. Only admins can upload files.
-
-All files must meet 
+All files must meet
 wmf:Resolution:Licensing_policy
- and that means all files must meet either:
-
-
-
+and that means all files must meet either:
 Free files must have a valid license etc.
-
-
 Non-free files must live up to the EDP (it requires that mai.wiki have one)
-
-
 If the files do not meet the requirements they should be replaced by other files and be deleted.
-
-I can't see mai listed on 
+I can't see mai listed on
 m:Non-free_content
 . If you want to host non-free images you need an EDP and perhaps you should make it possible for other than admins to upload files? If you decide you do not want to host non-free files you should delete the uploaded files. --
 MGA73
- (
+(
 वार्ता
-) 
+)
 १६:१५, ९ अप्रैल २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Editing news 2020 #2
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-The new features include a toolbar.  
-What do you think should be in the toolbar?
-
-
-This issue of the 
-Editing
- newsletter includes information the 
-Talk pages project
-, an effort to help contributors communicate on wiki more easily.
-
-
-
-Reply tool
-: This is available as a Beta Feature at the four partner wikis (Arabic, Dutch, French, and Hungarian Wikipedias).  The Beta Feature is called "चर्चा उपकरण".  The Beta Feature will get 
-new features
- soon.  The new features include writing comments in a new visual editing mode and pinging other users by typing 
-@
-. You can 
-test the new features
- on the 
-Beta Cluster
- now.  Some other wikis will have a chance to try the Beta Feature in the coming months.
-
-
-New requirements for user signatures
-:  Soon, users will not be able to save invalid custom signatures in 
-Special:Preferences
-. This will reduce signature spoofing, prevent page corruption, and make new talk page tools more reliable.  Most editors will not be affected.
-
-
-New discussion tool
-:  The Editing team is beginning work on a simpler process for starting new discussions.   You can 
-see the initial design on the project page
-.
-
-
-Research on the use of talk pages
-:  The Editing team worked with the 
-Wikimedia research team
- to study how talk pages help editors improve articles.  We learned that new editors who use talk pages make more edits to the main namespace than new editors who don't use talk pages.
-
-
-– 
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- ०२:१४, १८ जुन २०२० (+0545)
-
-Digital Postcards and Certifications
-[
-सम्पादन करी
-]
-
-
+०२:१४, १८ जुन २०२० (+0545)
 Wikipedia Asian Month 2019
-
-
 Dear Participants and Organizers,
-
 Because of the COVID19 pandemic, there are a lot of countries’ international postal systems not reopened yet. We would like to send all the participants digital postcards and digital certifications for organizers to your email account in the upcoming weeks. For the paper ones, we will track the latest status of the international postal systems of all the countries and hope the postcards and certifications can be delivered to your mailboxes as soon as possible.
-
 Take good care and wish you all the best.
-
-This message was sent by 
+This message was sent by
 Wikipedia Asian Month International Team
- via 
+via
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 ००:४३, २१ जुन २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Wiki Loves Women South Asia Barnstar Award
-[
-सम्पादन करी
-]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Greetings!
-
-Thank you for contributing to the 
-Wiki Loves Women South Asia 2020
-. We are appreciative of your tireless efforts to create articles about Women in Folklore on Wikipedia. We are deeply inspired by your persistent efforts, dedication to bridge the gender and cultural gap on Wikipedia. Your tireless perseverance and love for the movement has brought us one step closer to our quest for attaining equity for underrepresented knowledge in our Wikimedia Projects. We are lucky to have amazing Wikimedians like you in our movement. Please find your Wiki Loves Women South Asia postcard 
-here
-. Kindly obtain your postcards before 15th July 2020.
-
-Keep shining!
-
-Wiki Loves Women South Asia Team
-
-
-
-
-
 MediaWiki message delivery
- (
+(
 वार्ता
-) 
+)
 १९:१२, ५ जुलाई २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Editing news 2020 #3
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-More than 
-50 million edits
- have been made using the visual editor on desktop.
-
-
-Seven years ago this month, the 
-Editing team
- offered the visual editor to most Wikipedia editors.  Since then, editors have achieved many milestones:
-
-
-
-More than 
-50 million edits
- have been made using the visual editor on desktop.
-
-
-More than 
-2 million new articles
- have been created in the visual editor. More than 600,000 of these new articles were created during 2019.
-
-
-The visual editor is 
-increasingly popular
-.  The proportion of all edits made using the visual editor has increased every year since its introduction.
-
-
-In 2019, 
-35% of the edits by newcomers
- (logged-in editors with ≤99 edits) used the visual editor. This percentage has 
-increased every year
-.
-
-
-Almost 
-5 million edits on the mobile site
- have been made with the visual editor.  Most of these edits have been made since the Editing team started improving the 
-mobile visual editor
- in 2018.
-
-
-On 17 November 2019, the 
-first edit from outer space
- was made in the mobile visual editor. 🚀 👩‍🚀
-
-
-Editors have made more than 
-7 million edits in the 2017 wikitext editor
-, including starting 
-600,000 new articles
- in it.  The 
-2017 wikitext editor
- is VisualEditor's built-in wikitext mode.  You can 
-enable it in your preferences
-.
-
-
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- १८:३३, ९ जुलाई २०२० (+0545)
-
-Editing news 2020 #4
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-Reply tool
-[
-सम्पादन करी
-]
-
-
-The number of comments posted with the Reply Tool from March through June 2020. People used the Reply Tool to post over 
-7,400 comments
- with the tool.
-
-
-The 
-Reply tool
- has been available as a 
-Beta Feature
- at the Arabic, Dutch, French and Hungarian Wikipedias since 31 March 2020.  The 
-first analysis showed positive results
-.
-
-
-
-More than 
-300 editors
- used the Reply tool at these four Wikipedias.  They  posted more than 
-7,400 replies
- during the study period.
-
-
-Of the people who posted a comment with the Reply tool, about 70% of them used the tool multiple times.  About 60% of them used it on multiple days.
-
-
-Comments from Wikipedia editors are positive.  One said, 
-أعتقد أن الأداة تقدم فائدة ملحوظة؛ فهي تختصر الوقت لتقديم رد بدلًا من التنقل بالفأرة إلى وصلة تعديل القسم أو الصفحة، التي تكون بعيدة عن التعليق الأخير في الغالب، ويصل المساهم لصندوق التعديل بسرعة باستخدام الأداة.
-  ("I think the tool has a significant impact; it saves time to reply while the classic way is to move with a mouse to the Edit link to edit the section or the page which is generally far away from the comment. And the user reaches to the edit box so quickly to use the Reply tool.")
-[१९]
-
-
-The Editing team released the Reply tool as a Beta Feature at eight other Wikipedias in early August.  Those Wikipedias are in the Chinese, Czech, Georgian, Serbian, Sorani Kurdish, Swedish, Catalan, and Korean languages.  If you would like to use the Reply tool at your wiki, please tell 
-User talk:Whatamidoing (WMF)
-.
-
-The Reply tool is still in active development.  Per request from the Dutch Wikipedia and other editors, you will be able to 
-customize the edit summary
-.  (The default edit summary is "Reply".)  A "ping" feature is available in the Reply tool's visual editing mode.  This feature searches for usernames.  Per request from the Arabic Wikipedia, each wiki will be able to 
-set its own preferred symbol
- for pinging editors.  Per request from editors at the Japanese and Hungarian Wikipedias, each wiki can 
-define a preferred signature prefix
- in the page 
-MediaWiki:Discussiontools-signature-prefix
-.   For example, some languages omit spaces before signatures.  Other communities want to add a dash or a non-breaking space.
-
-
-
-New requirements for user signatures
-[
-सम्पादन करी
-]
-
-
-The 
-new requirements for custom user signatures
- began on 6 July 2020.  If you try to create a custom signature that does not meet the requirements, you will get an error message.
-
-
-Existing custom signatures that do not meet the new requirements will be unaffected 
-temporarily
-. Eventually, all custom signatures will need to meet the new requirements.  You can 
-check your signature and see lists of active editors
- whose custom signatures need to be corrected.  Volunteers have been contacting editors who need to change their custom signatures.  If you need to change your custom signature, then please 
-read the help page
-.
-
-
-Next: New discussion tool
-[
-सम्पादन करी
-]
-
-
-Next, the team will be working on a tool for quickly and easily starting a new discussion section to a talk page. To follow the development of this new tool, please put the 
-New Discussion Tool
- project page on your watchlist.
-
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- २०:५६, ३१ अगस्त २०२० (+0545)
-
-Wikipedia Asian Month 2020
-[
-सम्पादन करी
-]
-
-
-Wikipedia Asian Month 2020
-
-
-Hi WAM organizers and participants!
-
-Hope you are all doing well! Now is the time to sign up for 
-Wikipedia Asian Month 2020
-, which will take place in this November.
-
-For organizers:
-
-
-Here are the 
-basic guidance and regulations
- for organizers. Please remember to:
-
-
-
-use 
-Fountain tool
- (you can find the 
-usage guidance
- easily on meta page), or else you and your participants’ will not be able to receive the prize from WAM team.
-
-
-Add your language projects and organizer list to the 
-meta page
- before 
-October 29th, 2020
-.
-
-
-Inform your community members WAM 2020 is coming soon!!!
-
-
-If you want WAM team to share your event information on 
-Facebook
- / 
-twitter
-, or you want to share your WAM experience/ achievements on our blog, feel free to send an email to info@asianmonth.wiki or PM us via facebook.
-
-
-If you want to hold a thematic event that is related to WAM, a.k.a. 
-WAM sub-contest
-. The process is the same as the language one.
-
-For participants:
-
-
-Here are the 
-event regulations
- and 
-Q&A information
-. Just join us! Let’s edit articles and win the prizes!
-
-Here are some updates from WAM team:
-
-
-
-
-Due to the 
-COVID-19
- pandemic, this year we hope all the Edit-a-thons are online not physical ones.
-
-
-The international postal systems are not stable enough at the moment, WAM team have decided to send all the qualified participants/ organizers extra digital postcards/ certifications. (You will still get the paper ones!)
-
-
-Our team has created a 
-meta page
- so that everyone tracking the progress and the delivery status.
-
-
-If you have any suggestions or thoughts, feel free to reach out the WAM team via emailing 
-info@asianmonth.wiki
- or discuss on the meta talk page. If it’s urgent, please contact the leader directly (
-jamie@asianmonth.wiki
-).
-
-Hope you all have fun in Wikipedia Asian Month 2020
-
-Sincerely yours,
-
-
-
-Wikipedia Asian Month International Team
- 2020.10
-
-
-Unclosed font tag error in welcome template
-[
-सम्पादन करी
-]
-
-
-Hello, currently the welcome template 
+१८:३३, ९ जुलाई २०२० (+0545)
+२०:५६, ३१ अगस्त २०२० (+0545)
+Hello, currently the welcome template
 आकृति:स्वागतम
- has missing end tag error. Since this a widely used template, thousands of pages containing it are showing missing end tag errors. I request you to correct this error, since I don't have permission to edit it. Thanks 
+has missing end tag error. Since this a widely used template, thousands of pages containing it are showing missing end tag errors. I request you to correct this error, since I don't have permission to edit it. Thanks
 AVS
 malnad
 77
- 
- वार्ता
- 
 १३:३९, १० दिसम्बर २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
 @
 AVSmalnad77
 :
- Hello! Please check if it's fixed or not. Kind regards, — 
+Hello! Please check if it's fixed or not. Kind regards, —
 तुलसी भगत
- 
-[ 
-योगदान
- | 
-वार्ता
- ]
- 
 १९:४७, १० दिसम्बर २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-Yes, the errors are gone now. Thanks for fixing. Previously there was nineteen thousand errors. Now there is two thousand. So the welcome template was affecting seventeen thousand pages. The error reports can be seen in विशेष पन्नासभ → Lint errors → Missing end tag. I have cleaned up some of them. 
+Yes, the errors are gone now. Thanks for fixing. Previously there was nineteen thousand errors. Now there is two thousand. So the welcome template was affecting seventeen thousand pages. The error reports can be seen in विशेष पन्नासभ → Lint errors → Missing end tag. I have cleaned up some of them.
 AVS
 malnad
 77
- 
- वार्ता
- 
 २१:५४, १० दिसम्बर २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
 @
 AVSmalnad77
 :
- You're doing a fantastic job. Thank you very very much for your contributions. Kind regards, — 
+You're doing a fantastic job. Thank you very very much for your contributions. Kind regards, —
 तुलसी भगत
- 
-[ 
-योगदान
- | 
-वार्ता
- ]
- 
 १६:२४, ११ दिसम्बर २०२० (+0545)
 [
 उत्तर दें
 ]
-
-
-Editing news 2021 #1
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-Reply tool
-[
-सम्पादन करी
-]
-
-
-Completion rates for comments made with the Reply tool and full-page wikitext editing. Details and limitations are in this 
-report
-.
-
-
-The 
-Reply tool
- is available at most Wikipedias. 
-
-
-
-The Reply tool has been deployed as an opt-out 
-preference
- to all editors at the Arabic, Czech, and Hungarian Wikipedias.
-
-
-It is also available as a 
-Beta Feature
- at almost all Wikipedias except for the English, Russian, and German-language Wikipedias.  If it is not available at your wiki, you can request it by following 
-these simple instructions
-.
-
-
-Research notes:
-
-
-
-
-As of January 2021, 
-more than 3,500 editors
- have used the Reply tool to post about 
-70,000 comments
-.
-
-
-We have preliminary data from the Arabic, Czech, and Hungarian Wikipedia on the Reply tool.  
-Junior Contributors
- who use the Reply tool are more likely to publish the comments they start writing than those who use full-page wikitext editing.
-[२०]
-
-
-The Editing and Parsing teams have significantly reduced the number of edits that affect other parts of the page.  About 0.3% of edits did this during the last month.
-[२१]
- Some of the remaining changes are automatic corrections for 
-Special:LintErrors
-.
-
-
- 
-A large 
-A/B test
- will start soon.
-[२२]
- This is part of 
-the process
- to offer the Reply tool to everyone.  During this test, half of all editors at 
-24 Wikipedias
- will have the Reply tool automatically enabled, and half will not. You can still turn it on or off for your own account in 
-Special:Preferences
-.
-
-
-New discussion tool
-[
-सम्पादन करी
-]
-
-
-Screenshot of version 1.0 of the 
-New Discussion Tool
- prototype.
-
-
-The new tool for 
-starting new discussions
- (new sections) will join the Discussion tools in 
-Special:Preferences#mw-prefsection-betafeatures
- at the end of January.  You can try the tool for yourself.
-[२३]
-  You can leave feedback 
-in this thread
- or on the talk page.
-
-
-
-Next:  Notifications
-[
-सम्पादन करी
-]
-
-
-
-
-During 
-Talk pages consultation 2019
-, editors 
-said
- that it should be easier to know about new activity in conversations they are interested in.  The 
-Notifications
- project is just beginning.  What would help you become aware of new comments?  What's working with the current system?  Which pages at your wiki should the team look at?  Please post your advice at 
-notifications-talk
-.
-
-–
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- ००:२३, २२ जनवरी २०२१ (+0545)
-
-विकिमिडिया फाउन्डेसन सामुदायिक समिति सिट: प्रतिक्रियाक लेल बैठक
-[
-सम्पादन करी
-]
-
-
+००:२३, २२ जनवरी २०२१ (+0545)
 विकिमिडिया फाउन्डेसन न्यासी समितिद्वारा सन् २०२१ फरबरी १ सँ मार्च १ धरि सामुदायिक चयन प्रक्रियासभक सम्बन्धमे प्रतिक्रियाक लेल बैठकक आयोजना करि रहल अछि। विकिमिडिया फाउन्डेसन आ विकिमिडिया अभियान विगत १० बर्षमे लगभग पाँच गुणासँ वृद्धि भऽ गेल अछि मुदा एकर समिति कऽ संरचना आ प्रक्रियासभ मूल रूपमे पहिने जका अछि। वर्तमान समितिक संरचनामे अप्पनसभक क्षमता, प्रदर्शन, आ अभियानक विविधता अनुसार प्रतिनिधित्व अभाव एकटा समस्याक रूपमे रहल अछि। प्रत्यक्ष निर्वाचनक कारण अग्रणी भाषा समुदाय कऽ उम्मेदवारसभक पक्ष लैत आएल अछि  आओर  ओकरसभक सीप आ अनुभवद्वारा समिति सदस्यक रूपमे सेवा देनाए कतेक सान्दर्भिक भऽ सकैत अछि या समितिक विशिष्ट उत्तरदायित्वसभ निर्वाह करवाक क्षमतामे योगदान पहुँचा रहल अछि। तथ्यसभ देखला पर वर्तमान प्रक्रियासभ उत्तर अमेरिका आ पश्चिम युरोपक स्वयंसेवकसभक पक्ष लेनए अछि। वास्तवमे एखन धरि, दक्षिण एसियासँ इतिहासमे एक गोटे सदस्य मात्र समितिमे स्थान बनाबऽमे सफल भऽ सकल अछि।
-
 आबऽ वला महिनामे हमसभ तीन सामुदायिक सिटसभ नवीकरण करऽ जा रहल छी आ नबका सिटमे तीन टा आओर समुदायिक सदस्यसभ नियुक्त करवाक अछि। ई प्रतिक्रियात्मक बैठकमे हमसभ सभ कियो मिल हमसभ अभियानकेँ कोना प्रतिनिधित्व करवाक अछि आ अनुभव, सीप, आओर विश्वासक साथ अन्तरदृष्टिसहित तयार भेल उम्मेदवारसभ चुनाव करवाक प्रारूप रेखा तयार कऽ सकैत छी? एकर विषयमे प्रस्तावित विचारसभ उपर छलफल करऽ लेल आ हमसभ अप्पन विचारसभ साझा करऽ लेल, प्रतिक्रिया देबऽ कऽ लेल आओर प्रक्रियामे योगदान देबऽकऽ लेल सामुदायिक वार्तालाप केनाए उत्तम होएत अछि। एहि विषयमे वार्तालाप करऽ लेल हमसभ एहि मार्च १३ केँ साँझ ८ बजे सँ ९ बजेधरि बैठक आयोजित भऽ रहल अछि। बैठक कऽ सूत्र निम्नलिखित अछि:
-
 https://meet.google.com/ugf-xyyk-ifi
-
-
-नेपालसँ सम्बन्धित भाषासभमे योगदान पहुँचा रहल सम्पूर्ण भाषाक विकिपिडियन आ विकिमिडियनकेर ई बैठकमे अप्पन विचार राखऽकऽ लेल स्वागत कएल जाएत अछि। धन्यवाद, 
+नेपालसँ सम्बन्धित भाषासभमे योगदान पहुँचा रहल सम्पूर्ण भाषाक विकिपिडियन आ विकिमिडियनकेर ई बैठकमे अप्पन विचार राखऽकऽ लेल स्वागत कएल जाएत अछि। धन्यवाद,
 User:KCVelaga (WMF)
-, 
+,
 ११:५१, ७ मार्च २०२१ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-महत्वपूर्ण सामुदायिक वार्तालापमे सहभागिताक लेल आह्वान
-[
-सम्पादन करी
-]
-
-
 नमस्ते, आदरणीय मैथिली विकिपिडिया सम्पादनकर्ता मित्र लोकनि
-
-मैथिली विकिपिडियाक 
+मैथिली विकिपिडियाक
 चबुतरामे
- महत्वपूर्ण सामुदायिक वार्तालाप भऽ रहल अछि। कृपया सहभागी भऽ अप्पन महत्वपूर्ण मत राखी। धन्यवाद
-
-
-
-Editing news 2021 #2
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-When newcomers had the Reply tool and tried to post on a talk page, they were more successful at posting a comment. (
-Source
-)
-
-
-Earlier this year, the Editing team ran a large study of 
-the Reply Tool
-.  The main goal was to find out whether the Reply Tool helped 
-newer editors
- communicate on wiki.  The second goal was to see whether the comments that newer editors made using the tool needed to be reverted more frequently than comments newer editors made with the existing wikitext page editor.
-
-The key results were:
-
-
-
-Newer editors who had automatic ("default on") access to the Reply tool were 
-more likely
- to post a comment on a talk page.
-
-
-The comments that newer editors made with the Reply Tool were also 
-less likely
- to be reverted than the comments that newer editors made with page editing.
-
-
-These results give the Editing team confidence that the tool is helpful.
-
-Looking ahead
-
-
-The team is planning to make the Reply tool available to everyone as an opt-out preference in the coming months.  This has already happened at the Arabic, Czech, and Hungarian Wikipedias.
-
-The next step is to 
-resolve a technical challenge
-. Then, they will deploy the Reply tool first to the 
-Wikipedias that participated in the study
-.  After that, they will deploy it, in stages, to the other Wikipedias and all WMF-hosted wikis.
-
-You can turn on "चर्चा उपकरण" 
-in Beta Features
- now.  After you get the Reply tool, you can change your preferences at any time in 
-Special:Preferences#mw-prefsection-editing-discussion
-.
-
-–
-Whatamidoing (WMF)
- (
-talk
-)
-
-
-
- १९:५७, २४ जुन २०२१ (+0545)
-
-Invitation for Wiki Loves Women South Asia 2021
-[
-सम्पादन करी
-]
-
-
-
-
-Wiki Loves Women South Asia 2021
-September 1 - September 30, 2021
-view details!
-
-
-
-
-Wiki Loves Women South Asia
- is back with the 2021 edition. Join us to minify gender gaps and enrich Wikipedia with more diversity. Happening from 1 September - 30 September, 
-Wiki Loves Women South Asia
- welcomes the articles created on gender gap theme. This year we will focus on women's empowerment and gender discrimination related topics.
-
-We are proud to announce and invite you and your community to participate in the competition. You can learn more about the scope and the prizes at the 
-project page
-.
-
-Best wishes,
-
-
-Wiki Loves Women Team
- ०३:२७, १९ अगस्त २०२१ (+0545)
-
-
-
-
-
-Wikipedia Asian Month 2021
-[
-सम्पादन करी
-]
-
-
-
-
-Hi 
-Wikipedia Asian Month
- organizers and participants!
-Hope you are all doing well! Now is the time to sign up for 
-Wikipedia Asian Month 2021
-, which will take place in this November.
-
-For organizers:
-
-
-Here are the 
-basic guidance and regulations
- for organizers. Please remember to:
-
-
-
-use 
-Fountain tool
- (you can find the 
-usage guidance
- easily on meta page), or else you and your participants' will not be able to receive the prize from Wikipedia Asian Month team.
-
-
-Add your language projects and organizer list to the 
-meta page
- before 
-October 29th, 2021
-.
-
-
-Inform your community members Wikipedia Asian Month 2021 is coming soon!!!
-
-
-If you want Wikipedia Asian Month team to share your event information on 
-Facebook
- / 
-Twitter
-, or you want to share your Wikipedia Asian Month experience / achievements on 
-our blog
-, feel free to send an email to 
-info@asianmonth.wiki
- or PM us via Facebook.
-
-
-If you want to hold a thematic event that is related to Wikipedia Asian Month, a.k.a. 
-Wikipedia Asian Month sub-contest
-. The process is the same as the language one.
-
-For participants:
-
-
-Here are the 
-event regulations
- and 
-Q&A information
-. Just join us! Let's edit articles and win the prizes!
-
-Here are some updates from Wikipedia Asian Month team:
-
-
-
-
-Due to the 
-COVID-19
- pandemic, this year we hope all the Edit-a-thons are online not physical ones.
-
-
-The international postal systems are not stable enough at the moment, Wikipedia Asian Month team have decided to send all the qualified participants/ organizers extra digital postcards/ certifications. (You will still get the paper ones!)
-
-
-Our team has created a 
-meta page
- so that everyone tracking the progress and the delivery status.
-
-
-If you have any suggestions or thoughts, feel free to reach out the Wikipedia Asian Month team via emailing 
-info@asianmonth.wiki
- or discuss on the meta talk page. If it's urgent, please contact the leader directly (
-jamie@asianmonth.wiki
-).
-
-Hope you all have fun in Wikipedia Asian Month 2021
-
-Sincerely yours,
-
-Wikipedia Asian Month International Team
-, 2021.10
-
-
-
-
-
-How we will see unregistered users
-[
-सम्पादन करी
-]
-
-
-
-
-Hi!
-
-You get this message because you are an admin on a Wikimedia wiki.
-
-When someone edits a Wikimedia wiki without being logged in today, we show their IP address. As you may already know, we will not be able to do this in the future. This is a decision by the Wikimedia Foundation Legal department, because norms and regulations for privacy online have changed.
-
-Instead of the IP we will show a masked identity. You as an admin 
-will still be able to access the IP
-. There will also be a new user right for those who need to see the full IPs of unregistered users to fight vandalism, harassment and spam without being admins. Patrollers will also see part of the IP even without this user right. We are also working on 
-better tools
- to help.
-
-If you have not seen it before, you can 
-read more on Meta
-. If you want to make sure you don’t miss technical changes on the Wikimedia wikis, you can 
-subscribe
- to 
-the weekly technical newsletter
-.
-
-We have 
-two suggested ways
- this identity could work. 
-We would appreciate your feedback
- on which way you think would work best for you and your wiki, now and in the future. You can 
-let us know on the talk page
-. You can write in your language. The suggestions were posted in October and we will decide after 17 January.
-
-Thank you. 
-/
-Johan (WMF)
-
-
-
-
-
-
+महत्वपूर्ण सामुदायिक वार्तालाप भऽ रहल अछि। कृपया सहभागी भऽ अप्पन महत्वपूर्ण मत राखी। धन्यवाद
+१९:५७, २४ जुन २०२१ (+0545)
 ००:०२, ५ जनवरी २०२२ (+0545)
-
-
-
-Kindly translate
-[
-सम्पादन करी
-]
-
-
 मुझे मैथिली भाषा नहीं आती। कृपया निम्नलिखित का अनुवाद कर दीजिए
-
-
-
 असंख्य मुर्दा लनवरत अनगिनत फेर अलका नूपुर । कत्थक नृत्य । तखन महाकाली आ हुनक सखसहेनी सभ नरमुंडक माला गंथने - खप्परमे खून चुअबैत ।
-
-
 अंजना सेठ
- (
+(
 वार्ता
-) 
+)
 ०८:२०, १७ मार्च २०२२ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-एक गोट प्रयोक्ता द्वारा बर्बरताक संबंध में
-[
-सम्पादन करी
-]
-
-
-इ प्रयोगकर्ता कोनो तरहेँ मैथिली विकिपीडिया पर रहबा जोग नहि छथि। अश्लीलता फैला रहला अछि। संगहि  एहि प्रयोक्ता द्वारा बनाओल एको पृष्ठक कोनो  ज्ञानकोशीय उल्लेखनीयता नहि अछि। उचित कार्यवाही लेल ध्यान दिय। 
-
+इ प्रयोगकर्ता कोनो तरहेँ मैथिली विकिपीडिया पर रहबा जोग नहि छथि। अश्लीलता फैला रहला अछि। संगहि  एहि प्रयोक्ता द्वारा बनाओल एको पृष्ठक कोनो  ज्ञानकोशीय उल्लेखनीयता नहि अछि। उचित कार्यवाही लेल ध्यान दिय।
 https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7:%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8/Dostojewskij
-
-अधिकांश लेख अहि प्रयोक्ता द्वारा निर्मित अछि 
-
+अधिकांश लेख अहि प्रयोक्ता द्वारा निर्मित अछि
 https://mai.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE:Bibek_bro
-
-
-
-
-संपादन समाचार 2022 #1
-[
-सम्पादन करी
-]
-
-
-
-
-अन्य भाषा में पढ़ें
- • 
-बहुभाषी समाचार पत्र हेतु सदस्यता सूची
-
-
-
-
-इस नए उपकरण के साथ नए संपादक अधिक सफल थे।
-
-
-नया विषय उपकरण
- एडिटर्स को चर्चा पृष्ठों पर नए == सेक्शन == बनाने में मदद करता है।  इस नए उपकरण के साथ नए संपादक अधिक सफल हैं।  आप 
-रिपोर्टपढ़ें
- सकते हैं।  जल्द ही, संपादन विभाग यह सभी संपादकों को 20 विकिपीडिया में पेश करेगी, जो परीक्षण में भाग लेती थी।  आप इसे 
-Special:Preferences#mw-prefsection-editing-discussion
- पर बंद कर पाएंगे।
-
-
-
-
-
 Whatamidoing (WMF)
- 
 ००:२८, ३ मई २०२२ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Editing news 2022 #2
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-
-
-The [सदस्यता लें] button shortens response times.
-
-
-The new [सदस्यता लें] button 
-notifies people when someone replies
- to their comments. It helps newcomers get answers to their questions. People reply sooner. You can 
-read the report
-. The Editing team is turning this tool on for everyone. You will be able to turn it off 
-in your preferences
-.
-
-
-
-
-
 –
 Whatamidoing (WMF)
- 
 ०५:२१, ३० अगस्त २०२२ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-You are invited to join/orginize Wikipedia Asain Month 2022 !
-[
-सम्पादन करी
-]
-
-
-
-
-Wikipedia Asian Month 2022
-
-
-Hi WAM organizers and participants!
-
-Hope you are all doing well! Now is the time to sign up for 
-Wikipedia Asian Month 2022
-, which will take place in this November.
-
-For organizers:
-
-
-Here are the 
-basic guidance and regulations
-  for organizers. Please remember to:
-
-
-
-use 
-Wikipedia Asian Month 2022 Programs & Events Dashboard.
- , or else you and your participants’ will not be able to receive the prize from WAM team.
-
-
-Add your language projects and organizer list to the 
-meta page
- 1 week before 
-your campaign start date
-.
-
-
-Inform your community members WAM 2022 is coming!!!
-
-
-If you want WAM team to share your event information on 
-Facebook
- / 
-twitter
-, or you want to share your WAM experience/ achievements on our blog, feel free to send an email to info@asianmonth.wiki.
-
-
-If you want to hold a thematic event that is related to WAM, a.k.a. 
-WAM sub-contest
-. The process is the same as the language one.
-
-For participants:
-
-
-Here are the 
-event regulations
- and 
-Q&A information
-. Just join us! Let’s edit articles and win the prizes!
-
-Here are some updates from WAM team:
-
-
-
-
-Based on the 
-COVID-19
- pandemic situation in different region, this year we still suggest all the Edit-a-thons are online, but you are more then welcome to organize local offline events.
-
-
-The international postal systems are not stable, WAM team have decided to send all the qualified participants/ organizers a 
-digital Barnstars
-.
-
-
-If you have any suggestions or thoughts, feel free to reach out the WAM team via emailing 
-info@asianmonth.wiki
- or discuss on the meta talk page. If it’s urgent, please contact the leader directly (
-reke@wikimedia.tw
-).
-
-Hope you all have fun in Wikipedia Asian Month 2022
-
-Sincerely yours,
-
-
-
-Wikipedia Asian Month International Team
- 2022.10
-
-
-
-
-Editing news 2023 #1
-[
-सम्पादन करी
-]
-
-
-
-
-Read this in another language
- • 
-Subscription list for this multilingual newsletter
-
-
-This newsletter includes two key updates about the 
-Editing
- team's work:
-
-
-
-The Editing team will finish adding new features to the 
-Talk pages project
- and deploy it.
-
-
-They are beginning a new project, 
-Edit check
-.
-
-
-Talk pages project
-
-
-
-
-Some of the upcoming changes
-
-
-The Editing team is nearly finished with this first phase of the 
-Talk pages project
-. Nearly all 
-new features
- are available now in the 
-Beta Feature for चर्चा उपकरण
-.
-
-It will show information about how active a discussion is, such as the date of the most recent comment. There will soon be a new "विचार-बिन्दु जोडी" button. You will be able to turn them off at 
-Special:Preferences#mw-prefsection-editing-discussion
-. Please 
-tell them what you think
-.
-
-
-
-Daily edit completion rate by test group: DiscussionTools (test group) and MobileFrontend overlay (control group)
-
-
-An A/B test for 
-चर्चा उपकरण on the mobile site
- has finished. Editors were 
-more successful with चर्चा उपकरण
-. The Editing team is enabling these features for all editors on the mobile site.
-
-New Project: Edit Check
-
-
-The Editing team is beginning 
-a project to help new editors of Wikipedia
-. It will help people identify some problems before they click "परिवर्तन प्रकाशित करी". The first tool will encourage people to add references when they add new content. Please 
-watch
- that page for more information. You can 
-join a conference call on 3 March 2023
- to learn more.
-
-
-
-
-
 –
 Whatamidoing (WMF)
- (
+(
 वार्ता
-) 
+)
 ०५:०३, २३ फरबरी २०२३ (+0545)
 [
 उत्तर दें
 ]
-
-
-
-
-Invitation to Participate in the Wikimedia SAARC Conference Community Engagement Survey
-[
-सम्पादन करी
-]
-
-
 Dear Community Members,
-
 I hope this message finds you well. Please excuse the use of English; we encourage translations into your local languages to ensure inclusivity.
-
 We are conducting a Community Engagement Survey to assess the sentiments, needs, and interests of South Asian Wikimedia communities in organizing the inaugural Wikimedia SAARC Regional Conference, proposed to be held in Kathmandu, Nepal.
-
 This initiative aims to bring together participants from eight nations to collaborate towards shared goals. Your insights will play a vital role in shaping the event's focus, identifying priorities, and guiding the strategic planning for this landmark conference.
-
-Survey Link: 
+Survey Link:
 https://forms.gle/en8qSuCvaSxQVD7K6
-
-
 We kindly request you to dedicate a few moments to complete the survey. Your feedback will significantly contribute to ensuring this conference addresses the community's needs and aspirations.
-
 Deadline to Submit the Survey: 20 January 2025
-
 Your participation is crucial in shaping the future of the Wikimedia SAARC community and fostering regional collaboration. Thank you for your time and valuable input.
-
 Warm regards,
-
-
 Biplab Anand
-
-
-
-
-
-
-
-
-
