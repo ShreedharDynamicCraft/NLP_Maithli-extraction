@@ -1,2 +1,3 @@
 __pycache__/ # Ignore Python cache
 .DS_Store # Ignore macOS system files
+downloaded_site.zip
