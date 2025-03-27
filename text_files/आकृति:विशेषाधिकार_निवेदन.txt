@@ -1,0 +1,124 @@
+v
+t
+e
+विशेषाधिकार निवेदन
+प्रकार
+
+
+स्वसमिक्षक
+
+
+समिक्षक
+
+
+आइपी अवरोध मुक्त
+
+
+अटोविकिब्राउजर
+
+
+स्वतःअनुमोदित प्रयोक्ता
+
+
+रोलब्याकर
+
+
+खाता निर्माणकर्ता
+
+
+आयातकर्ता
+
+
+लौगसभ
+
+
+अभिलेख
+
+
+स्वीकृत
+
+
+अस्वीकृत
+
+
+अन्य
+
+
+प्रबन्धक
+
+
+प्रशासक
+
+
+प्रयोगकर्ता अधिकार स्तर
+
+
+
+
+
+
+
+
+
+
+ Template documentation
+
+
+How to manage this template's initial visibility
+
+To manage this template's visibility when it first appears, 
+add the parameter
+:
+
+
+
+|state=collapsed
+ to show the template in its collapsed state, i.e. hidden apart from its titlebar – e.g. 
+{{विशेषाधिकार निवेदन |state=collapsed}}
+
+
+|state=expanded
+ to show the template in its expanded state, i.e. fully visible – e.g. 
+{{विशेषाधिकार निवेदन |state=expanded}}
+
+
+|state=autocollapse
+ to show the template in its collapsed state 
+but only if
+ there is another template of the same type on the page – e.g. 
+{{विशेषाधिकार निवेदन |state=autocollapse}}
+
+
+Unless set otherwise (see the 
+|state=
+ parameter in the template's code), the template's default state is 
+autocollapse
+.
+
+
+
+
+
+
+
+Editors can experiment in this template's sandbox 
+(
+create
+ | 
+mirror
+)
+ and testcases 
+(
+create
+)
+ pages.
+ 
+Subpages of this template
+.
+
+
+
+
+
+
+

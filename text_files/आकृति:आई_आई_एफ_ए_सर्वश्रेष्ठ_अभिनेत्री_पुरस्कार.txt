@@ -1,0 +1,122 @@
+v
+t
+e
+सर्वश्रेष्ठ अभिनेत्रीक
+ लेल 
+आईआईएफए पुरस्कार
+
+
+ऐश्वर्या राय
+ (२०००)
+
+
+करिश्मा कपूर
+ (२००१)
+
+
+तबु
+ (२००२)
+
+
+ऐश्वर्या राय
+ (२००३)
+
+
+प्रीति जिन्टा
+ (२००४)
+
+
+रानी मुखर्जी
+ (२००५)
+
+
+रानी मुखर्जी
+ (२००६)
+
+
+रानी मुखर्जी
+ (२००७)
+
+
+करीना कपूर खान
+ (२००८)
+
+
+प्रियङ्का चोपडा
+ (२००९)
+
+
+विद्या बालन
+ आ 
+करीना कपूर खान
+ (२०१०)
+
+
+अनुष्का शर्मा
+ (२०११)
+
+
+विद्या बालन
+ (२०१२)
+
+
+विद्या बालन
+ (२०१३)
+
+
+दीपिका पादुकोण
+ (२०१५)
+
+
+कङ्गना राणावत
+ (२०१५)
+
+
+दीपिका पादुकोण
+ (२०१६)
+
+
+आलिया भट्ट
+ (२०१७)
+
+
+
+
+How to manage this template's initial visibility
+
+To manage this template's visibility when it first appears, 
+add the parameter
+:
+
+
+
+|state=collapsed
+ to show the template in its collapsed state, i.e. hidden apart from its titlebar – e.g. 
+{{आई आई एफ ए सर्वश्रेष्ठ अभिनेत्री पुरस्कार |state=collapsed}}
+
+
+|state=expanded
+ to show the template in its expanded state, i.e. fully visible – e.g. 
+{{आई आई एफ ए सर्वश्रेष्ठ अभिनेत्री पुरस्कार |state=expanded}}
+
+
+|state=autocollapse
+ to show the template in its collapsed state 
+but only if
+ there is another template of the same type on the page – e.g. 
+{{आई आई एफ ए सर्वश्रेष्ठ अभिनेत्री पुरस्कार |state=autocollapse}}
+
+
+Unless set otherwise (see the 
+|state=
+ parameter in the template's code), the template's default state is 
+autocollapse
+.
+
+
+
+
+
+
+
+

@@ -1,0 +1,1857 @@
+ 
+Accepted
+
+
+
+
+
+
+ Template documentation
+
+
+This documentation page is shared by several tempates in the same family.
+
+
+
+
+Usage
+[
+सम्पादन करी
+]
+
+
+This template is used inline, usually at the beginning of a talk or process page comment, to indicate the resolution status of a request or other item that preceded it.  It does not end with any punctuation.  The template takes no parameters.
+
+Placing the code:
+
+
+
+{{
+Accepted
+}}
+
+
+ I've reviewed this carefully, and ...
+
+
+produces
+
+
+
+ 
+Accepted
+
+
+ I've reviewed this carefully, and ...
+
+
+See also
+[
+सम्पादन करी
+]
+
+
+
+
+
+
+
+
+Similar templates: 
+
+
+
+
+
+
+
+
+view
+talk
+edit
+
+
+Inline icon templates by shape and color
+[
+सम्पादन करी
+]
+
+
+Any of the following inline, comment-level templates can be converted into {{
+Resolved
+}}-style hatnotes by using {{
+Resbox
+}} to put a box around the icon and text.
+
+
+
+
+
+ 
+Green check marks
+ 
+ 
+Resolved
+ 
+{{
+Resolved mark large
+}}
+ 
+ 
+Implemented
+ 
+{{
+Implemented
+}}
+ 
+ 
+Partially implemented
+ 
+{{
+PImplemented
+}}
+ 
+ 
+समाधान
+ 
+{{
+Resolved mark
+}}
+ 
+ 
+Accepted
+ 
+{{
+Accepted
+}}
+ 
+ 
+Agree
+ 
+{{
+Agree
+}}
+ 
+ 
+Approved
+ 
+{{
+Approved
+}}
+ 
+ 
+Checked
+ 
+{{
+Checked2
+}}
+ 
+ 
+Verified
+ 
+{{
+Verified
+}}
+ 
+ 
+Confirmed
+ 
+{{
+Confirmed
+}}
+ 
+ 
+Confirmed
+ with respect to the named user(s), 
+ 
+No comment
+ with respect to IP address(es).
+ 
+{{
+Confirmed-nc
+}}
+ 
+ 
+Technically indistinguishable
+ 
+{{
+Tallyho
+}}
+ 
+ All socks blocked and tagged. Closing case.
+ 
+{{
+Blockedtaggedclosing
+}}
+ 
+Y
+ 
+{{
+Check mark
+}}
+ 
+Y
+ 
+{{
+Tick
+}}
+ 
+ 
+Helped.
+ 
+{{
+Helped
+}}
+ 
+ 
+सम्पन्न
+ 
+{{
+Done
+}}
+ 
+ 
+Task complete.
+ 
+{{
+Donetask
+}}
+ 
+ 
+सम्पन्न
+ - as a contested 
+proposed deletion
+, the article has been restored on request.
+ 
+{{
+Unprod
+}}
+
+
+ 
+Answered on user's talk page.
+ 
+{{
+Autp
+}}
+
+
+ 
+Responded at the appropriate venue.
+ 
+{{
+Responded
+}}
+ 
+  
+Y
+ 
+Merger
+ complete.
+ 
+{{
+Merge done
+}}
+ 
+✓
+ 
+{{
+Marked
+}}
+ 
+✓
+ 
+Done
+ 
+{{
+Done-t
+}}
+ 
+✓
+ 
+Pass
+ 
+{{
+Pass
+}}
+ 
+Y
+ 
+{{
+Aye
+}}
+ 
+ Yes
+ 
+{{
+Yes check
+}}
+ 
+✓
+ 
+{{
+Y&
+}}
+
+
+ 
+Cross marks
+ 
+N
+ 
+{{
+X mark big
+}}
+ 
+N
+ 
+{{
+Cross
+}}
+ 
+N
+This offer has expired
+ 
+{{
+Expired
+}}
+ 
+N
+ 
+{{
+Xmark
+}}
+ 
+N
+ 
+Deleted
+ 
+{{
+Deleted
+}}
+ 
+ 
+Not done
+ 
+{{
+Not done
+}}
+ 
+N
+ 
+Not done and not likely to be done
+ 
+{{
+Not done not likely
+}}
+ 
+N
+ 
+Stale
+ 
+{{
+Stale-small
+}}
+ 
+ 
+Rejected
+ 
+{{
+Smallrejected
+}}
+ 
+N
+ 
+{{
+Nay
+}}
+ 
+ No
+ 
+{{
+No mark
+}}
+ 
+✗
+ 
+No pass
+ 
+{{
+No pass
+}}
+ 
+✗
+ 
+Not done
+ 
+{{
+Not done-t
+}}
+ 
+✗
+ 
+Fail
+ 
+{{
+Fail
+}}
+ 
+✗
+ 
+{{
+N&
+}}
+ 
+N
+ 
+{{
+X mark-n
+}}
+ 
+ 
+{{
+Xed box
+}}
+ 
+ 
+Cancelled
+ 
+{{
+Cancelled
+}}
+ 
+ 
+Deleted
+ 
+{{
+Deleted-image
+}}
+ 
+ 
+Already declined
+ 
+{{
+Already declined
+}}
+ 
+ 
+Blocked
+ 
+{{
+Opblocked
+}}
+ 
+ 
+User blocked
+ 
+{{
+User-blocked
+}}
+ 
+ 
+Not a bug
+ 
+{{
+Notabug
+}}
+ 
+ 
+Not fixed
+ 
+{{
+Notfixed
+}}
+ 
+ 
+Won't fix
+ 
+{{
+Won't fix
+}}
+ 
+ 
+I withdraw my nomination
+ 
+{{
+Withdraw
+}}
+ 
+ 
+No technical evidence
+ 
+{{
+Nojoy
+}}
+ 
+ 
+Unrelated
+ 
+{{
+Unrelated
+}}
+
+
+ 
+Black check marks
+ 
+ 
+Already done
+ 
+{{
+Already done
+}}
+ 
+ 
+Resolved
+ 
+{{
+Resolved1
+}}
+ 
+Y
+ 
+{{
+Check mark-n
+}}
+ 
+ 
+{{
+Checked
+}}
+
+
+ 
+{{
+Checked box
+}}
+
+
+ 
+Yellow check marks
+ 
+Y
+ 
+{{
+Yellow tick
+}}
+ 
+Y
+ 
+Half done
+ 
+{{
+Half done
+}}
+ 
+Y
+ 
+Partly done
+ 
+{{
+Partly done
+}}
+ 
+✓
+ 
+Partly done
+ 
+{{
+Partly done-t
+}}
+
+
+ 
+Blue check marks
+ 
+ 
+Semi-done
+ 
+{{
+Semi-done
+}}
+ 
+ 
+Fixed
+ 
+{{
+Fixed
+}}
+ 
+ 
+Fixed by reporter
+ 
+{{
+Fixed by reporter
+}}
+ 
+ 
+Pending
+ 
+{{
+Bug pending
+}}
+ 
+ 
+Resolved
+ 
+{{
+Bug resolved
+}}
+ 
+ 
+Blocked and tagged
+ 
+{{
+Blockedandtagged
+}}
+ 
+ 
+IP block exemption granted
+ 
+{{
+Ipbedone
+}}
+ 
+ 
+IP blocked
+ 
+{{
+IPblock
+}}
+ 
+ 
+Proxy blocked
+ 
+{{
+Pblock
+}}
+ 
+ 
+Proxies blocked
+ 
+{{
+Psblock
+}}
+ 
+ 
+Range blocked
+ 
+{{
+Rblock
+}}
+
+
+ 
+Minus sign
+ 
+ 
+Closed
+ 
+ 
+{{
+Close
+}}
+ 
+ 
+Denied
+ 
+{{
+Denied
+}}
+ 
+ 
+Disagree
+ 
+{{
+Disagree
+}}
+ 
+ 
+Not approved
+ 
+{{
+Unapproved
+}}
+ 
+ 
+Not bug
+ 
+{{
+NotBug
+}}
+ 
+ 
+Duplicate bug
+ 
+{{
+Duplicate bug
+}}
+ 
+ 
+Invalid
+ 
+{{
+Invalid
+}}
+ 
+ 
+Declined
+ 
+{{
+Declined
+}}
+ 
+ 
+No action
+ 
+{{
+No action
+}}
+ 
+ 
+No comment
+ 
+{{
+Nocomment
+}}
+ 
+ 
+Unnecessary
+ 
+{{
+Unnecessary
+}}
+ 
+ 
+No comment
+ with respect to IP address(es)
+ 
+{{
+Nc
+}}
+ 
+ 
+Removed
+ 
+{{
+Removed
+}}
+
+
+ 
+Plus sign
+ 
+ 
+Added
+ 
+{{
+Added
+}}
+ 
+ 
+Posted
+ 
+{{
+Posted
+}}
+ 
+ 
+Works for me
+ 
+{{
+Works for me
+}}
+ 
+ 
+Likely
+ 
+{{
+Likely
+}}
+ 
+ 
+Clerk endorsed
+ 
+{{
+Endorse
+}}
+ 
+ 
+Clerk declined
+ 
+{{
+Decline
+}}
+ 
+ 
+Clerk declined
+ - Checkuser will not link accounts to IPs, per the 
+privacy policy
+.
+ 
+{{
+Decline-IP
+}}
+ 
+ 
+Endorsed by a 
+CheckUser
+ 
+{{
+Cu-endorsed
+}}
+ 
+ 
+CheckUser declined
+ 
+{{
+Cudecline
+}}
+ 
+ 
+Delisted
+ 
+{{
+Delisted
+}}
+ 
+ 
+Inconclusive
+ 
+{{
+Inconclusive
+}}
+ 
+ 
+Not Applicable
+ 
+{{
+N/A icon
+}}
+
+
+ 
+Neutral sign
+ 
+ 
+Closed
+ 
+{{
+Bug closed
+}}
+ 
+ 
+New
+ 
+{{
+Bug new
+}}
+ 
+ 
+Second opinion requested
+ 
+{{
+GA2ndopinion
+}}
+
+
+ 
+Purple turn-right
+ 
+ 
+Deferred
+ 
+{{
+Deferred
+}}
+ 
+ 
+Defer to 
+Abuse filter
+ 
+{{
+Deferabusefilter
+}}
+ 
+ 
+Defer to 
+Local blacklist
+ 
+{{
+Deferblack
+}}
+ 
+ 
+Defer to 
+Global blacklist
+ 
+{{
+Defermetablack
+}}
+ 
+ 
+Defer to 
+RS/N
+ 
+{{
+Deferrsn
+}}
+ 
+ 
+Defer to 
+WPSPAM
+ 
+{{
+Deferspam
+}}
+ 
+ 
+Defer to 
+XLinkBot
+ 
+{{
+Deferspambot
+}}
+ 
+ 
+Defer to 
+Whitelist
+ 
+{{
+Deferwhite
+}}
+
+
+ 
+Simple clock
+ 
+ 
+Pending approval
+ 
+{{
+PendingRequest
+}}
+ 
+ 
+GA on hold
+ 
+{{
+GAOnHold
+}}
+ 
+ 
+On hold
+ 
+{{
+On hold
+}}
+ 
+ 
+On hold until 
+ 
+{{
+OnHoldUntil
+}}
+
+
+ 
+Clock
+ 
+   
+Proposal on hold
+ 
+{{
+ProposalOnHold
+}}
+
+
+ 
+Reviewing request.
+ 
+{{
+Reviewing request
+}}
+ 
+ 
+Awaiting administrative action
+ 
+{{
+Awaitingadmin
+}}
+ 
+C
+ 
+{{
+Await
+}}
+ 
+ 
+Later
+ 
+{{
+Later
+}}
+ 
+ 
+Pending
+ 
+{{
+Tobedone
+}}
+ 
+ 
+वार्तालाप
+ चरणमे
+...
+ 
+{{
+Discussing
+}}
+ 
+ 
+भऽ रहल अछि...
+ 
+{{
+Doing
+}}
+ 
+ 
+[[User:|]] is doing...
+ 
+{{
+Isdoing
+}}
+ 
+ 
+Started
+ 
+{{
+Started
+}}
+ 
+ 
+प्रगतीमे
+ 
+{{
+Inprogress
+}}
+ 
+ 
+Checking...
+ 
+{{
+Checking
+}}
+
+
+ 
+Note mark
+ 
+ 
+Needs discussion
+ 
+{{
+NeedsDiscussion
+}}
+ 
+ 
+Note:
+ 
+{{
+Note2
+}}
+ 
+ 
+Note:
+ 
+{{
+A note
+}}
+ 
+ 
+Administrator note:
+ 
+{{
+Administrator note
+}}
+ 
+ 
+Assigned
+ 
+{{
+Bug assigned
+}}
+ 
+ 
+Note:
+ 
+{{
+Take note
+}}
+
+
+ 
+Exclamation
+ 
+*
+ 
+{{
+N.b.
+}}
+ 
+-
+ 
+{{
+Bang
+}}
+ 
+ 
+Bureaucrat note:
+ 
+{{
+Bureaucrat note
+}}
+ 
+ 
+CheckUser note:
+ 
+{{
+CUnote
+}}
+ 
+ 
+Acknowledged
+ 
+{{
+Bug acknowledged
+}}
+ (
+{{
+Ack
+}}
+)
+ 
+ 
+Confirmed
+ 
+{{
+Bug confirmed
+}}
+ 
+ 
+Comment:
+ 
+{{
+Comment
+}}
+ 
+ 
+Remind
+ 
+{{
+Remind
+}}
+ 
+ 
+Remark:
+ 
+{{
+Remark
+}}
+ 
+ 
+Clerk note:
+ 
+{{
+Clerk-Note
+}}
+ 
+ 
+Robot clerk note:
+ 
+{{
+Clerk-Note-bot
+}}
+ 
+ 
+Rollbacker note:
+ 
+{{
+Rollbacker-Note
+}}
+ 
+ 
+Editor note:
+ 
+{{
+Editor-Note
+}}
+ 
+ 
+Renamer note:
+ 
+{{
+Renamer note
+}}
+ 
+ 
+Coordinator note:
+ 
+{{
+Coordinator-note
+}}
+
+
+ 
+Question mark
+ 
+ 
+Suggestion
+ 
+{{
+Suggestion
+}}
+ 
+?
+ 
+{{
+Qmark
+}}
+ 
+?
+ 
+{{
+Question mark
+}}
+ 
+ 
+{{
+InfoNeeded
+}}
+ 
+ 
+Not sure
+ 
+{{
+Not sure
+}}
+ 
+ 
+Not sure. 
+ 
+{{
+Notsure
+}}
+ 
+ 
+Investigating
+ 
+{{
+Investigating
+}}
+ 
+ 
+Question: 
+ 
+{{
+Question
+}}
+ 
+ 
+foo: 
+ 
+{{
+Question
+|label=foo}}
+ 
+ 
+Additional information needed
+ 
+{{
+MoreInfo
+}}
+ 
+ 
+Feedback required
+ 
+{{
+Bug feedback
+}}
+
+
+ 
+Bulb
+ 
+B
+ 
+{{
+Bulb
+}}
+ 
+B
+ 
+{{
+Bulb2
+}}
+ 
+ 
+Idea:
+ 
+{{
+Idea
+}}
+ 
+   
+New proposal
+ 
+{{
+NewProposal
+}}
+
+
+ 
+Smile
+ 
+ 
+Thank you
+ 
+{{
+Thank you
+}}
+ 
+ 
+Thank you very much!
+ 
+{{
+Thank you very much
+}}
+ 
+ 
+You're welcome!
+ 
+{{
+You're welcome
+}}
+ 
+ 
+Sorry!
+ 
+{{
+Sorry
+}}
+ 
+ 
+Thanks
+ 
+{{
+Thank
+}}
+ 
+ Thank you
+ 
+{{
+Wikithanks
+}}
+
+
+ 
+Thumb sign
+ 
+ 
+{{
+Thumbs down
+}}
+ 
+ 
+{{
+Thumbs up
+}}
+ 
+ 
+Great!
+ 
+{{
+Great
+}}
+ 
+ 
+Like
+ 
+{{
+Like
+}}
+ 
+ 
+Dislike
+ 
+{{
+Dislike
+}}
+
+
+
+
+Others
+[
+सम्पादन करी
+]
+
+
+
+
+ 
+ω
+ 
+Awaiting
+ 
+{{
+Awaiting
+}}
+ 
+ 
+Comment.
+ 
+{{
+Commentvote
+}}
+ 
+ 
+Dupe
+ 
+{{
+Bug dupe
+}}
+ 
+ 
+Merged
+ 
+{{
+Clerk-Note-merged
+}}
+ 
+   
+New bug
+ 
+{{
+NewBug
+}}
+ 
+   
+Bug fixed
+ 
+{{
+BugFixed
+}}
+ 
+   
+Duplicate proposal
+ 
+{{
+DuplicateProposal
+}}
+ 
+ 
+Moved to Commons
+ 
+{{
+Moved to commons
+}}
+ 
+ 
+Orz...
+ 
+{{
+Orz
+}}
+ 
+ 
+Possibly
+ 
+{{
+Possibly
+}}
+ 
+ I have read the above message. I will reply when I have a moment.
+ 
+{{
+Read
+}}
+ 
+ 
+Redflag
+ 
+{{
+Redflag
+}}
+ 
+ 
+Redundant
+ 
+{{
+Redundant symbol
+}}
+ 
+ 
+Reopened
+ 
+{{
+Reopened
+}}
+ 
+ 
+Reverted
+ 
+{{
+Reverted
+}}
+ 
+ 
+Review
+ 
+{{
+Twomanrule
+}}
+ 
+ 
+Review
+ - This section is under or has been partially reviewed by
+ 
+{{
+UnderReview
+}}
+ 
+ 
+Facepalm
+ 
+{{
+Facepalm
+}}
+ 
+ 
+Running with scissors is a very silly thing to do!
+ 
+{{
+Scissors
+}}
+ 
+ 
+Self-trout
+ 
+{{
+Self-trout
+}}
+ 
+ 
+Sent
+ 
+{{
+Sent
+}}
+ 
+ per 
+snowball clause
+ 
+ 
+{{
+Snow
+}}
+ 
+ 
+This review has not received any comments in two weeks.
+ 
+{{
+Stale GAN
+}}
+ 
+ 
+SUL Check
+ 
+{{
+SULcheck
+}}
+
+
+ 
+ 
+ToDo
+ 
+{{
+ToDo
+}}
+ 
+ 
+Undone
+ 
+{{
+Undone
+}}
+ 
+ 
+Uploaded
+ 
+{{
+Uploaded
+}}
+ 
+ 
+Warning
+ 
+{{
+Warnsign
+}}
+ 
+ 
+Request withdrawn
+ 
+{{
+Withdrawn
+}}
+ 
+ 
+Working
+ 
+{{
+Working
+}}
+ 
+ 
+Wikipedia is not a 
+crystal ball
+.
+ 
+{{
+WPcrystalball
+}}
+ 
+ 
+Completed
+ 
+{{
+Completed
+}}
+ 
+ 
+Blocked but awaiting tags
+ 
+{{
+Sblock
+}}
+ 
+ 
+Possible
+ 
+{{
+Possible
+}}
+ 
+ 
+Not possible
+ 
+{{
+Impossible
+}}
+ 
+ 
+Possilikely
+ (a mix between possible and likely)
+ 
+{{
+Possilikely
+}}
+ 
+ 
+Unlikely
+ 
+{{
+Unlikely
+}}
+ 
+ 
+It 
+looks like a duck
+ to me
+ 
+{{
+Duck
+}}
+ 
+ 
+It 
+sounds like a duck
+ quacking into a megaphone to me
+ 
+{{
+Megaphoneduck
+}}
+ 
+ 
+Clerk assistance requested:
+ 
+{{
+Clerk Request
+}}
+ 
+ 
+Relisted
+ 
+{{
+Relisted
+}}
+ 
+ 
+No sleepers 
+immediately visible
+ 
+{{
+Nosleepers
+}}
+ 
+ 
+Behavioural evidence needs evaluation
+ 
+{{
+Behaviour
+}}
+ 
+ 
+Stale
+ 
+{{
+StaleIP
+}}
+ 
+ 
+The CheckUser Magic 8-Ball says:
+ 
+{{
+8ball
+}}
+ 
+ 
+CheckUser
+ is not a crystal ball
+ 
+{{
+Crystalball
+}}
+ 
+ 
+CheckUser
+ is not for 
+fishing
+ 
+{{
+Fishing
+}}
+ 
+ 
+CheckUser
+ is not magic 
+pixie dust
+ 
+{{
+Pixiedust
+}}
+
+
+
+
+Multi-sign templates
+[
+सम्पादन करी
+]
+
+
+The following templates implement several icons:
+
+
+
+{{
+AIV
+}} – used by 
+Wikipedia:Administrator intervention against vandalism
+
+
+{{
+EP
+}} – used for servicing requests in edit-protected areas
+
+
+{{
+RFPP
+}} – used by 
+Wikipedia:Requests for page protection
+
+
+{{
+UAA
+}} – used by 
+Wikipedia:Usernames for administrator attention
+
+
+{{
+Smiley
+}} – used for informal communication purposes
+
+
+Others
+[
+सम्पादन करी
+]
+
+
+Template:Resolved/See also
+, the smaller family of thread-level hatnote templates, similar to this but with a box around them.  Any template above can be converted to one of those with {{
+Resbox
+}}
+
+
+Template:Table cell templates/doc
+, the family of table-specific templates that work only in tables
+
+
+Category:Image with comment templates
+
+
+Category:Resolution templates
+
+
+
+
+
+
+
+
+The above 
+documentation
+ is 
+transcluded
+ from 
+आकृति:Accepted/doc
+. 
+(
+edit
+ | 
+history
+)
+Editors can experiment in this template's sandbox 
+(
+create
+ | 
+mirror
+)
+ and testcases 
+(
+create
+)
+ pages.
+ 
+Subpages of this template
+.
+
+
+
+
+
+
+

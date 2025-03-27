@@ -1,0 +1,49 @@
+विकिपीडिया
+ स्वागत जुड़ें! 
+
+आप स्वतंत्र हैं संपादित करने के लिए किसी भी पृष्ठों, लेकिन आप का पालन करना चाहिए मूल प्रावधानों.
+
+सामग्री सूत्रों की नकल मत करो सभी.
+
+
+सामग्री सरल बयान,बहुत लंबा नहीं करते.
+
+आपका स्वागत है लोग हस्ताक्षर किए: ►►►
+ℜicknator
+（
+♥♥
+）◁◁◁ २१:२८, ९ नवंबर २०१४ (NPT)
+
+
+Main Page
+[
+सम्पादन करी
+]
+
+
+Hi, I saw 
+this edit of yours
+. If you want to hide the title on the Main Page, you need to add 
+.action-view.page-Main_Page .firstHeading { display: none !important; }
+ to 
+MediaWiki:Common.css
+. If you are unable to edit that page, feel free to ask me. 
+SPQRobin
+ (
+talk
+) १८:१६, १० नवंबर २०१४ (NPT)
+
+
+
+Done. 
+Alan
+ (
+talk
+) २०:४९, ११ नवंबर २०१४ (NPT)
+
+
+
+
+
+
+

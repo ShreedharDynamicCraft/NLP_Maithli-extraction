@@ -1,0 +1,582 @@
+
+
+
+
+
+
+ Template documentation
+[
+view
+] [
+edit
+] [
+history
+] [
+purge
+]
+
+
+
+
+
+
+
+
+
+
+ 
+This template is used on 
+many pages
+, so changes to it will be widely noticed. Please test any changes in the template's 
+/sandbox
+ or 
+/testcases
+ subpages, or in your own 
+user subpage
+. Please consider discussing changes on the 
+talk page
+ before implementing them. 
+
+
+
+
+
+
+This template uses 
+Lua
+:
+
+Module:Documentation
+
+
+This is the 
+{{Documentation}}
+ template, used on almost every template page to contain that template's 
+documented instructions and information
+.
+
+For detailed instructions on how and when to use this template, see 
+Wikipedia:Template documentation
+ (shortcut: 
+WP:TDOC
+).
+
+This template displays a green documentation box like you are seeing now and automatically loads the content from a /doc subpage. It can also load the content from other places if instructed to.
+
+This template is intended for documenting templates and other pages that are 
+transcluded
+ onto other pages. It can be used in the 
+template namespace
+ and most other 
+namespaces
+.
+
+Use of this template allows templates to be 
+protected
+ where necessary, while allowing anyone to edit the documentation and categories.
+
+
+
+
+
+Usage
+[
+सम्पादन करी
+]
+
+
+Normally this template is used without any parameters, placed at the bottom of the template or page being documented, within a 
+<noinclude>...</noinclude>
+ container:
+
+
+
+<!--Last line of your template code-->
+<noinclude>
+
+
+{{
+Documentation
+}}
+
+
+<!-- Add categories to the /doc subpage, not here! -->
+
+
+</noinclude>
+
+
+
+
+Then this template automatically loads the content from the /doc subpage of the template it is used on.
+
+This template can also load the content from any other page. Like this:
+
+
+
+<!--Last line of your template code-->
+<noinclude>
+
+
+{{
+Documentation
+ 
+|
+Template
+:
+Other
+ 
+page
+/
+doc
+}}
+
+
+</noinclude>
+
+
+
+
+Note that when loading the documentation from a page other than the local /doc page it becomes tricky to handle the categories.
+
+The content can also be fed directly as text. Like this:
+
+
+
+<!--Last line of your template code-->
+<noinclude>
+
+
+{{
+Documentation
+
+ 
+|
+ 
+content
+ 
+=
+
+
+(
+some
+ 
+documentation
+)
+
+
+}}
+</noinclude>
+
+
+
+
+When the 
+|content=
+ parameter is used, the doc box normally does not show the [edit] [purge] links in the top right corner. Note that if the /doc page exists, a link to it is still shown in the link box below the doc box.
+
+Parameter 
+|1=
+ and the 
+|content=
+ parameter can also be combined, like this:
+
+
+
+<!--Last line of your template code-->
+<noinclude>
+
+
+{{
+Documentation
+ 
+|
+1
+=
+Template
+:
+Any
+ 
+page
+/
+doc
+
+
+|
+ 
+content
+ 
+=
+
+
+{{
+Template
+:
+Any
+ 
+page
+/
+doc
+ 
+|
+parameters
+}}
+
+
+}}
+</noinclude>
+
+
+
+
+Then the pagename fed as parameter 1 is used for the [edit] [purge] links and for the /doc link in the link box below the doc box. But the 
+content
+ parameter is used for the content shown in the doc box. The above code means that the content is transcluded as 
+{{Template:Any page/doc|parameters}}
+. In this example a parameter is also fed to the /doc page being loaded.
+
+
+
+Shortcut
+[
+सम्पादन करी
+]
+
+
+To automatically insert the 
+noinclude tags
+, the template call and the guiding comment, use this 
+substitution
+ code:
+
+
+
+
+{{subst:doc-code}}
+
+
+Best practice
+[
+सम्पादन करी
+]
+
+
+The code should be added at the bottom of the template code, with no space before 
+<noinclude>
+ (which would cause extra space on pages where the template is used).
+
+Categories that apply to the template itself should be added to the bottom of the /doc subpage, inside 
+<includeonly>...</includeonly>
+ tags.  Interwiki links that apply to the template should be listed at 
+Wikidata
+ (more at 
+wp:Wikidata
+).  For more complex cases, see 
+Wikipedia:Template documentation#Categories and interwiki links
+.
+
+If the documentation page contains 
+<includeonly>
+ or 
+<noinclude>
+ tags as part of the visible documentation text, replace the "
+<
+" with "
+&lt;
+" or use 
+Template:tag
+.
+
+
+
+Heading
+[
+सम्पादन करी
+]
+
+
+When in the Template namespace, this template shows this heading:
+
+
+
+ 
+Template documentation
+
+
+In most other namespaces, such as "Wikipedia:", it shows this heading:
+
+
+
+Documentation
+
+
+But when on File (image) pages it shows this heading:
+
+
+
+Summary
+
+
+The 
+heading
+ parameter can be used to set the heading to something else. Like this:
+
+
+
+{{Documentation |heading=Infobox documentation}}
+
+
+If the 
+heading
+ parameter is empty but defined, no heading is shown and no [edit] [purge] links are shown. Like this:
+
+
+
+{{Documentation |heading=}}
+
+
+The 
+heading-style
+ parameter can be fed optional 
+CSS
+ values. Without quotation marks 
+" "
+ but with the ending semicolons 
+;
+. For example:
+
+
+
+heading-style=font-size:150%;color:red;
+
+
+Link box
+[
+सम्पादन करी
+]
+
+
+Below the big doc box is a small link box that shows some meta-data about the documentation. The link box shows different things depending on what parameters are fed to this template, and in which namespace it is used. In some cases the link box is not shown at all.
+
+To hide the link box, add the parameter
+
+
+
+|link box=off
+.
+
+
+You can also insert customised text into the link box, by setting the 
+|link box=
+ parameter. For example:
+
+
+
+  |link box=This documentation is automatically generated by [[Template:Country showdata]]
+
+
+
+Automatic functions
+[
+सम्पादन करी
+]
+
+
+If the documentation page does not exist, the [create] link includes a 
+preload
+ page so that clicking it will pre-fill the edit form with the basic documentation page format. Preload text is also used for the /sandbox and /testcases [create] links.
+
+When this template is on a protected template page it now automatically adds {{
+pp-template
+}}, which shows the grey or red padlock in the top right corner. So no need to manually add 
+{{pp-template}}
+ to templates that use {{
+Documentation
+}}.
+
+When this template is on a /sandbox subpage it automatically adds the {{
+Template sandbox notice
+}}.
+
+
+
+Subject namespaces vs. talk namespaces
+[
+सम्पादन करी
+]
+
+
+Terminology: 
+Subject namespaces
+ are the opposite of 
+talk namespaces
+. For instance "Template:" is the subject space of "Template talk:".
+
+This template is usually placed in a subject namespace, within 
+<noinclude>
+ tags. But in some cases this template needs to be on the talk page:
+
+
+
+In the Mediawiki namespace, since 
+<noinclude>
+ often does not work in system messages, and since the Mediawiki namespace needs to be kept clean for performance reasons.
+
+
+When placed on talk pages, this template usually is placed near the top of the page and without 
+<noinclude>...</noinclude>
+ tags.
+
+The /doc, /sandbox and /testcases pages should normally be in the subject namespace, except in the namespaces that do not have the MediaWiki 
+subpage feature
+ enabled: Main, File, Mediawiki and Category. (But currently we only show the /sandbox and /testcases links from User, User talk, Template and Template talk namespaces.) There are also a whole bunch of other technical reasons why the /doc page must be stored under the talk page for those (but only those) namespaces.
+
+This template automatically points its [create] links for the /doc, /sandbox and /testcases to the right namespace.
+
+
+
+Testing
+[
+सम्पादन करी
+]
+
+
+You can simulate the output for a given page by using the 
+|page=
+ parameter. For example, if you use the code 
+|page=Template:Edit protected
+, the template will behave exactly as if it were on the page 
+Template:Edit protected
+, including showing the documentation from 
+Template:Edit protected/doc
+, linking to 
+Template:Edit protected/sandbox
+, etc. This parameter is useful for testing and is used extensively on the 
+module testcases page
+. 
+
+
+
+Technical details
+[
+सम्पादन करी
+]
+
+
+The preload page for the /doc [create] link is 
+Template:Documentation/preload
+. The preload pages for the /sandbox and /testcases [create] links are 
+Template:Documentation/preload-sandbox
+ and 
+Template:Documentation/preload-testcases
+. The preload page for the /sandbox [mirror] link is 
+Template:Documentation/mirror
+.
+
+For more details, see the 
+talk page
+.
+
+
+
+Full syntax
+[
+सम्पादन करी
+]
+
+
+{{Documentation}}
+
+{{Documentation
+ | content =
+}}
+
+{{Documentation
+| [path to documentation page]
+| heading-style = 
+| heading = 
+| link box = 
+}}
+
+
+
+See also
+[
+सम्पादन करी
+]
+
+
+{{
+Documentation subpage
+}}, a notice placed at the top of a /doc subpage explaining its role and including a link to the page it documents.
+
+
+{{
+Barnstar documentation
+}}, a variant of {{
+Documentation
+}} for use with 
+barnstar
+ templates.
+
+
+{{
+Documentation/color scheme
+}} presents the color scheme used by {{
+Documentation
+}}.
+
+
+Wikipedia:Template documentation
+ is a how-to guide to template documentation.
+
+
+Wikipedia:Template sandbox and test cases
+ explains the use of /sandbox and /testcases subpages and includes more information about template testing.
+
+
+User:Technical 13/Scripts/editTemplateNoDoc.js
+, a beta script that enables documentation to be hidden by default when editing templates.
+
+
+
+
+
+
+The above 
+documentation
+ is 
+transcluded
+ from 
+आकृति:Documentation/doc
+. 
+(
+edit
+ | 
+history
+)
+Editors can experiment in this template's 
+sandbox
+ 
+(
+edit
+ | 
+diff
+)
+ and testcases 
+(
+create
+)
+ pages.
+Add categories to the 
+/doc
+ subpage. 
+Subpages of this template
+.
+
+
+
+
+
+
+

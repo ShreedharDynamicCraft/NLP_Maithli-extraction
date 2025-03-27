@@ -1,0 +1,537 @@
+A useful thing to consider:
+
+
+
+
+Most people don’t know English.
+
+
+
+
+The most important technical change that is needed in the software that runs Wikipedia and other Wikimedia projects:
+
+
+
+
+
+
+Templates must become global
+
+
+
+
+
+
+
+
+
+
+
+
+User language
+
+
+
+
+
+
+יש למשתמשת זו 
+דף משתמש
+ ב
+he-Wikipedia
+.
+
+
+
+
+This user has 
+a page
+ on 
+the Hebrew Wikipedia
+.
+למשתמשת הזאת יש 
+דף
+ באתר 
+he-Wikipedia
+.
+
+
+
+
+This 
+user
+ has 
+a page
+ on 
+he-Wikipedia
+.
+This user is a 
+translation administrator
+ on 
+Wikimedia 
+Meta-Wiki
+. 
+(
+verify
+)
+
+
+
+
+
+
+ru
+-N
+
+
+
+
+Русский
+ — 
+родной
+ язык этой участницы.
+
+
+
+
+
+
+
+
+
+he
+-5
+
+
+
+
+משתמשת זו יודעת 
+עברית
+ ברמה 
+מקצועית
+.
+
+
+
+
+
+
+
+
+
+en
+-4
+
+
+
+
+This user has 
+near native speaker
+ knowledge of 
+English
+.
+
+
+
+
+
+
+
+
+
+ca
+-3
+
+
+
+
+Aquesta usuària té un coneixement 
+avançat
+ de 
+català
+.
+
+
+
+
+
+
+
+
+
+eo
+-2
+
+
+
+
+Ĉi tiu uzanto havas 
+meznivelan
+ scion de 
+Esperanto
+.
+
+
+
+
+
+
+
+
+
+es
+-2
+
+
+
+
+Esta usuaria tiene un conocimiento 
+intermedio
+ del 
+español
+.
+
+
+
+
+
+
+
+
+
+it
+-2
+
+
+
+
+Questa utente può contribuire con un livello 
+intermedio
+ in 
+italiano
+.
+
+
+
+
+
+
+
+
+
+fr
+-2
+
+
+
+
+Cette utilisatrice dispose de connaissances 
+intermédiaires
+ en 
+français
+.
+
+
+
+
+
+
+
+
+
+ht
+-1
+
+
+
+
+Itilizatè sa 
+konnen kèk baz
+ nan 
+Kreyòl ayisyen
+.
+
+
+
+
+
+
+
+
+
+am
+-1
+
+
+
+
+ይህ/ች አባል 
+በቀላል
+ ደረጃ 
+አማርኛ
+ ማቀነባበር ይችላሉ።
+
+
+
+
+
+
+
+
+
+ar
+-1
+
+
+
+
+هذا المستخدم لديه معرفة 
+أساسية
+ ب
+العربية
+.
+
+
+
+
+
+
+
+
+
+la
+-1
+
+
+
+
+Haec ustrix 
+simplici
+ 
+lingua Latina
+ conferre potest.
+
+
+
+
+
+
+
+
+
+lt
+-1
+
+
+
+
+Šis naudotojas gali rašyti ir skaityti 
+pradinio
+ lygio 
+lietuvių
+ kalba.
+
+
+
+
+
+
+
+
+
+el
+-1
+
+
+
+
+Αυτός ο χρήστης έχει 
+βασικές
+ γνώσεις 
+Ελληνικών
+.
+
+
+
+
+
+
+
+
+
+sv
+-1
+
+
+
+
+Den här användaren har 
+grundläggande
+ kunskaper i 
+svenska
+.
+
+
+
+
+
+
+
+
+
+de
+-1
+
+
+
+
+Diese Benutzerin beherrscht 
+Deutsch
+ auf 
+grundlegendem
+ Niveau.
+
+
+
+
+
+
+
+
+
+nl
+-1
+
+
+
+
+Deze gebruiker heeft 
+elementaire
+ kennis van het 
+Nederlands
+.
+
+
+
+
+
+
+
+
+
+sw
+-1
+
+
+
+
+Mtumiaji huyu ni mwongeaji wa 
+Kiswahili
+ cha kiwango cha 
+Msingi
+.
+
+
+
+
+
+
+
+
+
+Users by language
+
+
+
+
+My name is Amir E. Aharoni.
+
+
+
+Me in English Wikipedia
+
+
+Me in Hebrew Wikipedia
+
+
+I was born in 
+Moscow
+. After that, I lived in 
+Hahotrim
+, 
+Nesher
+, 
+Giv'at Ye'arim
+, 
+Ora
+, 
+Haifa
+, and 
+Jerusalem
+. Since 2023, I live in 
+Providence, Rhode Island
+.
+
+I am an admin in en.wikipedia, he.wikipedia and he.wikisource. I also frequently write in translatewiki.net, en.wikisource, ru.wikipedia, ca.wikipedia and some other projects. I am a member of the Wikimedia 
+Language committee
+. In 2011-2012 I was a board member of 
+Wikimedia Israel
+.
+
+I received a B.A. from the Hebrew University of Jerusalem in Hebrew language and Structural Linguistics.
+
+This is my personal account.
+
+
+
+
+
+What is the cost of lies? It's not that we'll mistake them for the truth. The real danger is that if we hear enough lies, then we no longer recognize the truth at all. What can we do then? What else is left but to abandon even the hope of truth, and content ourselves instead with stories. (The opening monologue of the TV series 
+Chernobyl
+)
+
+
+
+
+
+Contact:
+
+
+
+Email: amir.aharoni а‏t mail.huji.ac.il
+
+
+Telegram: @amire80
+
+
+Fediverse / Mastodon: 
+@aharoni@wikis.world
+
+
+
+
+Work in progress:
+
+
+
+How to test that your language works well on a wiki
+
+
+Useful links:
+
+
+
+Help:How to start a new Wikipedia
+
+
+Dispute resolution
+
+
+Support Map
+
+
+This user has 
+a page
+ on 
+the English Wikipedia
+.

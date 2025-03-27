@@ -1,0 +1,41 @@
+###########################################################################
+# DO NOT MODIFY THIS LIST UNLESS YOU HAVE A BASIC UNDERSTANDING OF REGEX! #
+###########################################################################
+# External URLs matching this list will be blocked when added to a page.
+# This list affects only the Hindi Wikipedia; refer also to the global blacklist at
+# 
+http://meta.wikimedia.org/wiki/Spam_blacklist
+
+# For documentation see 
+http://www.mediawiki.org/wiki/Extension:SpamBlacklist
+
+
+
+ # 
+ 
+ # Syntax is as follows: 
+ #   * Everything from a "#" character to the end of the line is a comment
+ #   * Every non-blank line is a regex fragment which will only match hosts inside URLs
+
+\bdelhi(?:-university\.in|giftstore\.com|wow\.com|university\.mobi)\b
+\bcar(?:family\.wordpress|pcspecialist|rentalagencies|rentalshub|surveyindia|tedge|tierauctions|warindia)\.com\b
+\bindiaedu\.com\b
+\bindiaeducation\.net\b
+\bza\.samwaad\.com\b
+\bomprakashkashyap\.wordpress\.com\b
+\bwordpress\.com\b
+\bhashiya\.blogspot\.in\b
+\bkrantmlverma\.blogspot\.in\b
+\bachhikhabar\.com\b
+\brachanakar\.org\b
+\bflaxindia\.blogspot\.in\b
+\bajabgjab\.com\b
+\jkhealthworld.com\b
+#
+
+
+
+
+
+
+

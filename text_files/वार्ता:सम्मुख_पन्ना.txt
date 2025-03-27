@@ -1,0 +1,106 @@
+Invite to WikiConference India 2011
+[
+सम्पादन करी
+]
+
+
+
+
+
+
+
+
+Hi सम्मुख पन्ना,
+
+
+The First WikiConference India is being organized in Mumbai and will take place on 18-20 November 2011.
+ You can see our 
+Official website
+, the 
+Facebook event
+ and our 
+Scholarship form
+.
+
+
+But the activities start now with the  
+100 day long WikiOutreach
+.
+
+
+As you are part of WikiMedia India community we invite you to be there for conference and share your experience. Thank you for 
+your contributions
+.
+
+We look forward to see you at Mumbai on 18-20 November 2011   
+
+
+
+
+
+
+Please forward to relevant folks in the community. If you want the bot to do the job please sign up at 
+[१]
+ --
+Naveenpf
+ 05:51, 6 August 2011 (UTC)
+
+
+
+Devanagari or Bengali script
+[
+सम्पादन करी
+]
+
+
+Does this language use the Devanagari or the Bengali script?
+
+I see both on the main page here. --
+Amir E. Aharoni
+ (
+talk
+) 09:11, 24 September 2014 (UTC)
+
+
+
+Global AbuseFilter
+[
+सम्पादन करी
+]
+
+
+Hello,
+
+AbuseFilter
+ is a MediaWiki extension used to detect likely abusive behavior patterns, like pattern vandalism and spam. In 2013, 
+Global AbuseFilters
+ were enabled on a limited set of wikis including Meta-Wiki, MediaWiki.org, Wikispecies and (in early 2014) all the "
+small wikis
+". Recently, global abuse filters were enabled on "
+medium sized wikis
+" as well. These filters are currently managed by stewards on Meta-Wiki and have shown to be very effective in preventing mass spam attacks across Wikimedia projects. However, there is currently no policy on how the global AbuseFilters will be managed although there are proposals. There is an ongoing 
+request for comment
+ on policy governing the use of the global AbuseFilters. In the meantime, specific wikis can opt out of using the global AbuseFilter. These wikis can simply add a request to 
+this list
+ on Meta-Wiki. More details can be found on 
+this page
+ at Meta-Wiki. If you have any questions, feel free to ask on 
+m:Talk:Global AbuseFilter
+.
+
+Thanks,
+
+
+
+PiRSquared17
+, 
+Glaisher
+ — २३:२१, १४ नवंबर २०१४ (NPT)
+
+
+
+
+
+
+
+

@@ -1,0 +1,237 @@
+v
+t
+e
+आन्ध्र प्रदेश
+ 
+राज्य
+राजधानी: 
+अमरावती
+, 
+हैदराबाद
+ (किछ समय लेल)
+बिषय
+
+
+खानपान
+
+
+संस्कृति
+
+
+जनसाङ्ख्यिकी
+
+
+अर्थव्यवस्था
+
+
+भूगोल
+
+
+इतिहास
+
+
+भाषा
+
+
+पर्यटन
+
+
+क्षेत्र
+
+
+तटीय आन्ध्र
+
+
+रायलसीमा
+
+
+जिलासभ
+
+
+अनन्तपुर
+
+
+चित्तूर
+
+
+पूर्व गोदावरी
+
+
+गुन्टुर
+
+
+कडपा
+
+
+कुर्नूल
+
+
+कृष्णा
+
+
+प्रकाशम
+
+
+नेल्लोर
+
+
+श्री काकुलम
+
+
+विशाखापट्टनम
+
+
+विजयनगरम
+
+
+पच्छिम गोदावरी
+
+
+दसलाखी शहर
+
+
+विशाखापट्टनम
+
+
+विजयवाडा
+
+
+नगर
+(जनसङ्ख्या:१ लाख+)
+
+
+अडोनी
+
+
+अनन्तपुर
+
+
+भीमावरम
+
+
+चिल्कालूरिपेट
+
+
+चित्तूर
+
+
+धर्मावरम
+
+
+एलुरु
+
+
+गुडिवाडा
+
+
+गुन्टकल
+
+
+गुन्टुर
+
+
+हिंदुपुर
+
+
+कडपा
+
+
+काकिनाडा
+
+
+कुर्नूल
+
+
+मछलीपट्टनम
+
+
+मदनपल्ली
+
+
+नान्द्याल
+
+
+नरसराओपेट
+
+
+नेल्लोर
+
+
+ओङ्गोल
+
+
+प्रोड्डातूर
+
+
+राजमुन्दरी
+
+
+श्रीकाकुलम
+
+
+ताडेपल्लिगुन्डेम
+
+
+ताडिपत्रि
+
+
+तेनाली
+
+
+तिरुपति
+
+
+विजयवाडा
+
+
+विशाखापट्टनम
+
+
+विजयनगरम
+
+
+
+
+How to manage this template's initial visibility
+
+To manage this template's visibility when it first appears, 
+add the parameter
+:
+
+
+
+|state=collapsed
+ to show the template in its collapsed state, i.e. hidden apart from its titlebar – e.g. 
+{{आन्ध्र प्रदेश |state=collapsed}}
+
+
+|state=expanded
+ to show the template in its expanded state, i.e. fully visible – e.g. 
+{{आन्ध्र प्रदेश |state=expanded}}
+
+
+|state=autocollapse
+ to show the template in its collapsed state 
+but only if
+ there is another template of the same type on the page – e.g. 
+{{आन्ध्र प्रदेश |state=autocollapse}}
+
+
+Unless set otherwise (see the 
+|state=
+ parameter in the template's code), the template's default state is 
+autocollapse
+.
+
+
+
+City – As per 
+census of India
+, towns with a population of 1,00,000 and above are called cities.
+
+
+
+
+
+
+

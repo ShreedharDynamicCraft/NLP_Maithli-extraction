@@ -1,0 +1,245 @@
+
+
+
+
+सङ्क्षेप
+
+
+
+
+
+
+
+
+जानकारी
+Cscr-featured.svg
+
+
+
+
+English: 
+ Shrunken, colored version created for 
+ClockworkSoul's Coffee Roll
+ template theme. Part of the 
+featured stars series
+: 
+If anyone is interested in the original vector/3d files you may contact 
+Avsa
+.
+
+
+
+
+
+
+दिनाङ्क
+
+
+
+२००५ और २००८ के बीच
+date QS:P,+2005-00-00T00:00:00Z/8,P1319,+2005-00-00T00:00:00Z/9,P1326,+2008-00-00T00:00:00Z/9
+
+
+
+
+
+
+स्रोत
+
+
+
+
+ 
+Wikipedia until June, 2006
+ 
+ timestamp 
+ user 
+ size 
+ bytes 
+ comment 
+2015-03-01 14:15
+ 
+Be..anyone
+ 462x438
+ 68681
+ 
+W3C validator nits
+
+
+2008-08-30 18:49
+ 
+Pbroks13
+ 462x438
+ 68473
+Cleaner version
+
+2007-01-13 15:03
+ 
+AzaToth
+ 462x438
+ 87955
+removed surrounding whitespace
+
+2006-08-29 21:17
+ 
+Erina
+ 500x500
+ 88253
+Shrunken, colored version
+
+2006-06-01 15:21
+ 
+White Cat
+ 162x155
+ 23349
+clearing up image
+
+2006-05-22 11:19
+ 
+White Cat
+ 162x155
+ 24443
+reuploading as transparancy wasn't working properly
+
+2005-10-21 23:22
+ 
+Optimager
+ 162x155
+ 21088
+Smaller file size
+
+2005-10-03 22:24
+ 
+CyberSkull
+ 167x162
+ 26834
+transparent version made in 
+Adobe ImageReady CS
+
+
+2005-04-26 05:03
+ 
+ClockworkSoul
+ 50x54
+ 3528
+Shrunken and colored version for the 
+Coffee Roll
+ theme
+
+
+
+
+
+
+लेखक
+
+
+
+Wikimedia users 
+ClockworkSoul
+, 
+CyberSkull
+, 
+Optimager
+, 
+White Cat
+, 
+Erina
+, 
+AzaToth
+, 
+Pbroks13
+.
+
+
+
+
+
+
+अनुमति
+(
+ई फाइलक पुनः उपयोग
+)
+
+
+
+
+
+
+
+
+
+
+
+
+This library is 
+free software
+; you can redistribute it and/or modify it under the terms of the 
+GNU Lesser General Public License
+ as published by the 
+Free Software Foundation
+; either version 2.1 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but 
+without any warranty
+; without even the implied warranty of 
+merchantability
+ or 
+fitness for a particular purpose
+. See 
+version 2.1
+ and 
+version 3 of the GNU Lesser General Public License
+ for more details. 
+http://www.gnu.org/licenses/lgpl.html
+LGPL
+GNU Lesser General Public License
+true
+true
+
+
+
+
+
+
+
+
+दूसरे संस्करण
+
+
+
+Derivative works of this file:  
+OptiCscr-featured.svg
+
+
+
+
+SVG 
+genesis
+InfoField
+ 
+The 
+SVG
+ code is 
+valid
+.
+ 
+This 
+vector image
+ was created with 
+Inkscape
+, and then 
+manually
+ edited
+.
+
+
+
+
+
+
+
+
+
+
+
+
+

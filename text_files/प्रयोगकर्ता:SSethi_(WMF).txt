@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Srishti
+
+
+Srishti Sethi
+
+
+Senior Developer Advocate, Language & Product Localization, Wikimedia Foundation
+
+
+It is important to go to places where you are rare so that you can help your colleagues with your unique skills ~ Megan Smith
+
+
+
+
+
+
+
+
+About me
+
+
+
+
+I originally hail from 
+Bikaner, India
+ and currently live in 
+San Francisco Bay Area
+. Before joining the Wikimedia Foundation, I was a student researcher at the 
+MIT Media Lab
+ exploring how online platforms for learning could be made more peer-led, engaging, participatory and accessible to diverse populations. At the Media Lab, I contributed to the design, development, and research of 
+Unhangout
+, a platform for running large-scale unconference style events online. 
+
+Before MIT, I was working as a software developer with a startup organization in India. As an undergrad, I was involved with the open source community 
+GNOME
+ and its educational project 
+GCompris
+.
+
+
+
+
+
+
+
+
+
+My work
+
+
+
+
+I joined the Wikimedia Foundation in 2016. Since June 2023, I am part of the 
+Language and Product Localization
+ team to provide technical support and outreach to language communities, leading initiatives such as 
+Future of Language Incubation
+ and 
+Language Community Meetings
+. I support technical contributors by promoting tasks, reviewing pull requests, and addressing 
+internationalization and localization issues
+. Occasionally, I have supported 
+Community Tech
+ in engaging volunteer developers through projects identified in the 
+Community Wishlist Survey
+ by organizing 
+Wishathons
+.
+
+Before this, I was part of the 
+Technical Engagement
+ team, contributing to learning and knowledge-sharing initiatives focused on technical outreach, community, and capacity building. My role occasionally involved developing sample code to demonstrate best practices, creating tutorials to explain technical concepts, and building tools to improve workflows around developer support. This team was discontinued in 2022. Some of the projects I contributed to include 
+Outreach programs
+ (Google Summer of Code & Outreachy), 
+Small wiki toolkits
+, 
+
+Hackathons
+,
+
+Toolhub
+, 
+
+MediaWiki Action API docs
+ and
+
+Tech swag program
+.
+
+For a complete list of my tasks, you can check my Phabricator profile here: 
+https://phabricator.wikimedia.org/people/tasks/8466/
+.
+
+
+
+
+
+ 
+Disclaimer:
+ I work for or provide services to the Wikimedia Foundation, and this is the account I try to use for edits or statements I make in that role. However, the Foundation does not vet all my activity, so edits, statements, or other contributions made by this account may not reflect the views of the Foundation.
+
+
+
+
+
+
+Contact me
+
+
+
+
+E-mail: ssethi
+wikimedia.org 
+
+Telegram: 
+@srishakatux
+ 
+ 
+
+
+
+
+
+
+
+
+User language
+
+
+
+
+
+
+
+
+
+
+
+
+en
+-5
+
+
+
+
+This user has 
+professional
+ knowledge of 
+English
+.
+
+
+
+
+
+
+
+
+
+hi
+-N
+
+
+
+
+इस सदस्य को 
+हिन्दी
+ का 
+मातृभाषा के समान
+ ज्ञान है।
+
+
+
+
+
+
+
+
+
+pa
+-2
+
+
+
+
+ਇਸ ਵਰਤੋਂਕਾਰ ਕੋਲ਼ 
+ਪੰਜਾਬੀ
+ ਦਾ 
+ਵਿਚਕਾਰਲੇ
+ ਪੱਧਰ ਦਾ ਗਿਆਨ ਹੈ।
+
+
+
+
+
+
+
+
+
+Users by language
+
+
+
+
+
+
+
+
+

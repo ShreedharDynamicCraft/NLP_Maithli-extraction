@@ -1,0 +1,146 @@
+v
+t
+e
+सर्वश्रेष्ठ अभिनेत्रीक लेल स्क्रिन पुरस्कार
+
+
+माधुरी दीक्षित
+ (१९९५)
+
+
+माधुरी दीक्षित
+ (१९९६)
+
+
+मनिषा कोइराला
+ (१९९७)
+
+
+माधुरी दीक्षित
+ (१९९८)
+
+
+काजोल
+ (१९९९)
+
+
+ऐश्वर्या राय
+ (२०००)
+
+
+तबु
+ (२००१)
+
+
+काजोल
+ (२००२)
+
+
+ऐश्वर्या राय
+ (२००३)
+
+
+उर्मिला मातोंडकर
+ (२००४)
+
+
+रानी मुखर्जी
+ (२००५)
+
+
+रानी मुखर्जी
+ (२००६)
+
+
+करीना कपूर
+ (२००७)
+
+
+करीना कपूर
+ (२००८)
+
+
+प्रियङ्का चोपडा
+ (२००९)
+
+
+विद्या बालन
+ (२०१०)
+
+
+विद्या बालन
+ (२०११)
+
+
+विद्या बालन
+ (२०१२)
+
+
+विद्या बालन
+ (२०१३)
+
+
+दीपिका पादुकोण
+ (२०१४)
+
+
+प्रियङ्का चोपडा
+ (२०१५)
+
+
+दीपिका पादुकोण
+ (२०१६)
+
+
+आलिया भट्ट
+ (२०१७)
+
+
+विद्या बालन
+ (२०१८)
+
+
+आलिया भट्ट
+ (२०१९)
+
+
+
+
+How to manage this template's initial visibility
+
+To manage this template's visibility when it first appears, 
+add the parameter
+:
+
+
+
+|state=collapsed
+ to show the template in its collapsed state, i.e. hidden apart from its titlebar – e.g. 
+{{ScreenAwardBestActress |state=collapsed}}
+
+
+|state=expanded
+ to show the template in its expanded state, i.e. fully visible – e.g. 
+{{ScreenAwardBestActress |state=expanded}}
+
+
+|state=autocollapse
+ to show the template in its collapsed state 
+but only if
+ there is another template of the same type on the page – e.g. 
+{{ScreenAwardBestActress |state=autocollapse}}
+
+
+Unless set otherwise (see the 
+|state=
+ parameter in the template's code), the template's default state is 
+autocollapse
+.
+
+
+
+
+
+
+
+

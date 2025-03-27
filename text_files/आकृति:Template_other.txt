@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+ Template documentation
+[
+view
+] [
+edit
+] [
+history
+] [
+purge
+]
+
+
+
+
+
+
+
+
+
+
+ 
+ई आकृति कऽ प्रयोग 
+190,000+ पृष्ठसभमे
+ कएल जा रहल अछि ।
+पैग मात्रामे व्यवधान आ अनावश्यक सर्भर लोडसँ वचवाक लेल, कोनो भी परिवर्तनके पहिने ई आकृतिके 
+/प्रयोगपृष्ठ
+ उपपृष्ठ या अपन 
+उपयोगकर्ता स्थान
+ पर जाँचि कऽ देखी । जाँचल गेल परिवर्तनके ई आकृतिमे एक बेरमे जोड़ल जा सकैत अछि । अन्य उपयोगकर्ताक लेल, परिवर्तन करिसँ पहिने एहिसँ सम्बन्धित वार्तालाप 
+वार्ता पृष्ठ
+ पर करी । 
+
+
+
+
+
+
+This is the {{
+template other
+}} meta-template.
+
+It helps other templates detect if they are on a "Template:" page or some "other" type of page.
+
+
+
+
+
+Usage
+[
+सम्पादन करी
+]
+
+
+This template usually takes two parameters, like this:
+
+
+
+{{template other | Template page text | Other pages text }}
+
+
+
+If the template is on a "Template:" page, it will return this:
+
+
+
+Template page text
+
+
+If the template is on any other page, it will return this:
+
+
+
+Other pages text
+
+
+A typical usage case could be to make it so that a template only adds a category when not on a template page. Thus not adding the template itself and other templates that are built with it to the category. Like this:
+
+
+
+{{template other | | [[Category:Some maintenance category]] }}
+
+
+
+Note that in the example above the "template" parameter was left empty.
+
+
+
+Demospace
+[
+सम्पादन करी
+]
+
+
+For testing and demonstration purposes this template can take a parameter named 
+demospace
+. 
+
+
+
+If it has the value 
+template
+ it returns the template page text.
+
+
+It if has the value 
+other
+ or any other value such as the name of some other namespace it returns the other pages text.
+
+
+If the parameter is empty or undefined, the actual page type determines the result.
+
+
+Like this:
+
+
+
+{{template other 
+| Template page text 
+| Other pages text 
+| demospace = template
+}}
+
+
+
+No matter on what kind of page the code above is used it will return this:
+
+
+
+Template page text
+
+
+You can make it so your template also understands the 
+demospace
+ parameter. That means you can demonstrate the different appearances of your template in the documentation for your template. Then do like this:
+
+
+
+{{template other 
+| Template page text 
+| Other pages text 
+| demospace = {{{demospace|}}}
+}}
+
+
+
+Technical details
+[
+सम्पादन करी
+]
+
+
+This template detects "Template talk:" pages as type 
+other
+.
+
+This template works like {{
+main talk other
+}}, for more examples and technical details see full documentation there. 
+
+
+
+See also
+[
+सम्पादन करी
+]
+
+
+Easy to use namespace-detection templates:
+
+
+
+{{
+main other
+}} – For article templates.
+
+
+{{
+talk other
+}} – For talk page templates.
+
+
+{{
+book other
+}} – For detecting book pages.
+
+
+{{
+category other
+}} – For category templates.
+
+
+{{
+draft other
+}} – For detecting draft pages.
+
+
+{{
+file other
+}} – For file (image) templates.
+
+
+{{
+help other
+}} – For help page templates.
+
+
+{{
+module other
+}} – For detecting module pages.
+
+
+{{
+portal other
+}} – For portal templates.
+
+
+{{
+template other
+}} – For detecting template pages.
+
+
+{{
+user other
+}} – For user page templates.
+
+
+{{
+wikipedia other
+}} – For detecting "Wikipedia:" pages.
+
+
+More complex namespace-detection templates:
+
+
+
+{{
+namespace detect
+}} – The very versatile one.
+
+
+{{
+namespace detect showall
+}} – The extremely versatile one, has input reuse.
+
+
+{{
+main talk category other
+}} – Separates some namespaces.
+
+
+{{
+main talk other
+}} – Separates some namespaces.
+
+
+{{
+talkspace detect
+}} – For detecting talk pages on various namespaces.
+
+
+Pagename-handling and detection templates:
+
+
+
+{{
+basepage subpage
+}} – For detecting if on a basepage, subpage or subsubpage.
+
+
+{{
+pgn
+}} – Can take apart and put together pagenames in several ways.
+
+
+{{
+if pagename
+}} – For pattern matching on the pagename.
+
+
+{{
+if pagename multi
+}} – For pattern matching on the pagename, has input reuse.
+
+
+{{
+IP-talk
+}} – Return: 1) IP user talk page 2) registered user talk page 3) not user talk page.
+
+
+{{
+IP-user other
+}} – For detecting IP-user pages.
+
+
+Technical stuff:
+
+
+
+Wikipedia:Namespace
+ – Lists all the namespaces.
+
+
+mw:Help:Magic words
+ – About 
+{{NAMESPACE}}
+ etc.
+
+
+mw:Help:Extension:ParserFunctions
+ – About 
+{{#ifeq:|||}}
+ etc.
+
+
+
+
+
+
+The above 
+documentation
+ is 
+transcluded
+ from 
+आकृति:Template other/doc
+. 
+(
+edit
+ | 
+history
+)
+Editors can experiment in this template's sandbox 
+(
+create
+ | 
+mirror
+)
+ and testcases 
+(
+create
+)
+ pages.
+Add categories to the 
+/doc
+ subpage. 
+Subpages of this template
+.
+
+
+
+
+
+
+

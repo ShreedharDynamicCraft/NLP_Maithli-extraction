@@ -1,0 +1,164 @@
+v
+t
+e
+सर्वश्रेष्ठ अभिनेत्रीक लेल फिल्मफेयर क्रिटिक्स पुरस्कार
+
+
+नै देल गेल
+ (१९९१)
+
+
+नै देल गेल
+ (१९९२)
+
+
+डिम्पल कपाडिया
+ (१९९३)
+
+
+नै देल गेल
+ (१९९४)
+
+
+फरीदा जलाल
+ (१९९५)
+
+
+मनिषा कोइराला
+ (१९९६)
+
+
+मनिषा कोइराला
+ (१९९७)
+
+
+तबु
+ (१९९८)
+
+
+शेफाली शाह
+ (१९९९)
+
+
+तबु
+ (२०००)
+
+
+तबु
+ (२००१)
+
+
+करिश्मा कपूर
+ (२००२)
+
+
+मनिषा कोइराला
+ आ 
+रानी मुखर्जी
+ (२००३)
+
+
+उर्मिला मातोंडकर
+ (२००४)
+
+
+करीना कपूर
+ (२००५)
+
+
+रानी मुखर्जी
+ (२००६)
+
+
+करीना कपूर
+ (२००७)
+
+
+तबु
+ (२००८)
+
+
+शहाना गोस्वामी
+ (२००९)
+
+
+माही गिल
+ (२०१०)
+
+
+विद्या बालन
+ (२०११)
+
+
+प्रियङ्का चोपडा
+ (२०१२)
+
+
+ऋचा चड्ढा
+ (२०१३)
+
+
+शिल्पा शुक्ला
+ (२०१४)
+
+
+आलिया भट्ट
+ (२०१५)
+
+
+कङ्गना राणावत
+ (२०१६)
+
+
+सोनम कपूर
+ (२०१७)
+
+
+जायरा वसीम
+ (२०१८)
+
+
+नीना गुप्ता
+ (२०१९)
+
+
+
+
+How to manage this template's initial visibility
+
+To manage this template's visibility when it first appears, 
+add the parameter
+:
+
+
+
+|state=collapsed
+ to show the template in its collapsed state, i.e. hidden apart from its titlebar – e.g. 
+{{FilmfareCriticsAwardBestActress |state=collapsed}}
+
+
+|state=expanded
+ to show the template in its expanded state, i.e. fully visible – e.g. 
+{{FilmfareCriticsAwardBestActress |state=expanded}}
+
+
+|state=autocollapse
+ to show the template in its collapsed state 
+but only if
+ there is another template of the same type on the page – e.g. 
+{{FilmfareCriticsAwardBestActress |state=autocollapse}}
+
+
+Unless set otherwise (see the 
+|state=
+ parameter in the template's code), the template's default state is 
+autocollapse
+.
+
+
+
+
+
+
+
+

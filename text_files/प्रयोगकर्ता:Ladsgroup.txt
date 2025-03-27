@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amir
+
+
+"let me live, love, and say it well in good sentences" -- Sylvia Plath
+
+
+
+
+
+
+
+
+About me
+
+
+
+
+I was born in 1992 in Tehran, Iran but I currently live in Berlin, Germany. I studied physics at university.
+
+
+
+
+
+
+
+
+
+My work
+
+
+
+
+I have been active since 2006 and my home wiki is Persian Wikipedia where I'm sysop, bureaucrat, oversight and check user but you can find me in other wikis too. I'm currently working as Staff Database Architect in WMF (data persistence subteam of SRE). I used to work as software engineer in Wikidata team in Wikimedia Deutschland.
+
+In my volunteer capacity, I've been doing lots of small technical things like maintaining our mailing lists, co-maintaining 
+codesearch
+, building tools for CheckUsers and improving database schema design and consistency of mediawiki core, and improving the software behind mailing lists. I'm also member of 
+Code of Conduct Committee
+ in technical spaces.
+(I try to keep track of my volunteer technical work in 
+mw:User:Ladsgroup/Volunteer stuff
+)
+
+I'm also 
+global interface editor
+, meaning I'll be editing your wiki's interface to prevent it from breaking.
+
+
+
+
+
+Disclaimer:
+ I work for or provide services to the Wikimedia Foundation, but this is my personal account. Edits, statements, or other contributions made from this account are my own, and may not reflect the views of the Foundation.
+ My work account is 
+User:ASarabadani (WMF)
+. Work account of my previous employer is 
+User:Amir Sarabadani (WMDE)
+
+
+
+
+
+
+Contact me
+
+
+
+
+E-mail: ladsgroup
+gmail.com (volunteer stuff)
+ asarabadani
+wikimedia.org (work stuff).
+
+
+IRC: 
+Amir1
+ ("Amir" was taken)
+
+
+My talk page: 
+w:fa:User talk:Ladsgroup
+
+
+GPG key: 
+72D2 86F6 F8F0 3C78 F2C5 9C73 2675 2EBB 0D9E 6218
+ (
+verify
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User language
+
+
+
+
+
+
+
+
+
+
+
+
+fa
+-N
+
+
+
+
+این کاربر 
+فارسی
+ را در حد 
+زبان مادری
+ می‌فهمد.
+
+
+
+
+
+
+
+
+
+en
+-4
+
+
+
+
+This user has 
+near native speaker
+ knowledge of 
+English
+.
+
+
+
+
+
+
+
+
+
+de
+-2
+
+
+
+
+Dieser Benutzer beherrscht 
+Deutsch
+ auf 
+fortgeschrittenem
+ Niveau.
+
+
+
+
+
+
+
+
+
+hu
+-1
+
+
+
+
+Ez a felhasználó 
+alapszinten
+ beszéli a 
+magyar
+ nyelvet.
+
+
+
+
+
+
+
+
+
+ar
+-1
+
+
+
+
+هذا المستخدم لديه معرفة 
+أساسية
+ ب
+العربية
+.
+
+
+
+
+
+
+
+
+
+az
+-1
+
+
+
+
+Bu istifadəçi 
+Azərbaycan dilini
+ 
+zəif
+ bilir.
+
+
+
+
+
+
+
+
+
+Users by language
+
+
+
+
+This MediaWiki 
+developer
+ is gay.

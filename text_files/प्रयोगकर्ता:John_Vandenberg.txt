@@ -1,0 +1,193 @@
+This is a 
+Wiki
+media
+ global user page.
+
+
+If you find this page on any site other than a 
+Wiki
+media
+ one, you are viewing a mirror site. Be aware that the page may be outdated, and that the user whom this page is about may have no personal affiliation with the site. The original page is located at 
+https://meta.wiki
+media.org/wi
+ki/User:John_Vandenberg
+.
+
+
+
+
+
+
+This message is not yet available in Maithili (मैथिली). You can translate it to Maithili at 
+meta
+.
+
+Dieser Hinweis ist noch nicht in Maithili (मैथिली) verfügbar. Sie können eine Maithili-Übersetzung auf 
+meta
+ hinzufügen.
+
+
+
+
+
+
+
+
+
+User language
+
+
+
+
+
+
+
+
+
+
+
+
+en
+-N
+
+
+
+
+This user has a 
+native
+ understanding of 
+English
+.
+
+
+
+
+
+
+
+
+
+id
+-1
+
+
+
+
+Pengguna ini memiliki pengetahuan 
+dasar
+ 
+bahasa Indonesia
+.
+
+
+
+
+
+
+
+
+
+Users by language
+
+
+
+
+Hi, I was a candidate for the 
+Board of Trustees
+.  I have written some thoughts about this at:
+
+
+
+"
+m:User:John Vandenberg/WMF BoT candidature notes
+"
+
+
+I am married to 
+Siska Doviana
+.
+
+I am a sysop on the 
+Multilingual Wikisource
+, 
+English Wikisource
+, 
+Commons
+ and the 
+English Wikipedia
+, have a few contributions on 
+enwikinews
+, 
+enquote
+ and 
+enwikt
+ , and minor contributions on many other -pedia and -source sub-domains.
+
+My favourite Wikipedia article creation is 
+ar:شركة نفط البحرين
+ :- Despite creating it in 2009, I have no idea what it says as I can't read Arabic.(However I did use Google Translate and also googled the Arabic phrases to check for copyright violations)  The fact that the Arabic article is longer than the English article about the same topic makes me smile every time.  That it was expanded by 
+Hccpr
+, who has only six edits, is a shining example of how the values of Wikimedia allow such strange collaborations to be used for good.  However, we need to be vigilant to ensure they are not abused.
+
+I was elected to the 
+English Wikipedia Arbitration Committee
+ by the community twice, serving in 2009 and 2011.
+
+I am also 
+tswiki:User:Jayvdb
+, 
+tools:~john
+, and 
+botwiki:User:Jayvdb
+. (all 404ish now)
+
+My email address is 
+jayvdb
+gmail
+com
+
+
+
+
+Software
+
+
+m:Firefox bugs affecting MediaWiki
+
+
+Investigating 
+wiki<->xml
+ conversion
+.
+
+
+pywikipedia-unusedfiles.diff
+ - fix for unused files generator
+
+
+unusedfiles.py.diff
+ - modifications to 
+pywikipediabot
+ 
+unusedfiles.py
+ for use by 
+s:User:JVbot
+
+
+pagefilters.py
+
+
+todo
+
+
+[1]
+
+
+This user has 
+no objections
+ to 
+being
+ 
+checkusered
+ at any time.
+

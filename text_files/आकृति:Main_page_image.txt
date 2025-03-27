@@ -1,0 +1,93 @@
+
+
+Caption goes here.
+
+
+
+
+
+
+
+
+ Template documentation
+[
+view
+] [
+edit
+] [
+history
+] [
+purge
+]
+
+
+This template is used on the 
+Main Page
+ to show an image or media file with a caption underneath.
+
+
+
+Usage
+[
+सम्पादन करी
+]
+
+
+Note: Prefer images in landscape orientation. If you must use one in portrait orientation, avoid very skinny ones. If you must choose a skinny image, then please specify the height as well (e.g., 
+120x120
+), but note that if you do so, there will be a gap between left or right edge of the image (depending on the what side of the container the template appears) and the edge of the section.
+
+
+
+{{Main page image
+| image         =  <!-- name of the file, with or without the File: prefix -->
+| link          =  <!-- optional: file to which you want the image to link, with or without the File: prefix -->
+| border        =  <!-- optional: "yes" for a border; defaults to no border -->
+| width         =  <!-- optional: width of image in pixels, with or without "px"; defaults to 120; can also use 120x120 syntax -->
+| caption       =  <!-- optional: wiki text -->
+| caption align =  <!-- optional: left, right, or center; defaults to left -->
+| title         =  <!-- optional: image title; if blank, will use the caption, alt text, non-default "link=" target, or nothing (in that order) -->
+| alt           =  <!-- optional: image alt text; if blank, will use the caption, title, or image name (in that order) -->
+}}
+
+
+
+
+
+
+
+The above 
+documentation
+ is 
+transcluded
+ from 
+आकृति:Main page image/doc
+. 
+(
+edit
+ | 
+history
+)
+Editors can experiment in this template's sandbox 
+(
+create
+ | 
+mirror
+)
+ and testcases 
+(
+create
+)
+ pages.
+Add categories to the 
+/doc
+ subpage. 
+Subpages of this template
+.
+
+
+
+
+
+
+

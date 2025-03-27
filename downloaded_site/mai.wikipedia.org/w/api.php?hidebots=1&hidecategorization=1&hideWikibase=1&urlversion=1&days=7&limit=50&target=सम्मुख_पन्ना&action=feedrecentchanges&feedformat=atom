@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="mai">
+	<id>https://mai.wikipedia.org/w/api.php?action=feedrecentchanges&amp;days=7&amp;feedformat=atom&amp;hideWikibase=1&amp;hidebots=1&amp;hidecategorization=1&amp;limit=50&amp;target=%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%81%E0%A4%96_%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE&amp;urlversion=1</id>
+	<title>विकिपिडिया  - &quot;सम्मुख पन्ना&quot; मे भेल परिवर्तन [mai]</title>
+	<link rel="self" type="application/atom+xml" href="https://mai.wikipedia.org/w/api.php?action=feedrecentchanges&amp;days=7&amp;feedformat=atom&amp;hideWikibase=1&amp;hidebots=1&amp;hidecategorization=1&amp;limit=50&amp;target=%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AE%E0%A5%81%E0%A4%96_%E0%A4%AA%E0%A4%A8%E0%A5%8D%E0%A4%A8%E0%A4%BE&amp;urlversion=1"/>
+	<link rel="alternate" type="text/html" href="https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7:RecentChangesLinked"/>
+	<updated>2025-03-27T09:36:06Z</updated>
+	<subtitle>सम्बन्धित परिवर्तन</subtitle>
+	<generator>MediaWiki 1.44.0-wmf.21</generator>
+	<entry>
+		<id>https://mai.wikipedia.org/w/index.php?title=%E0%A4%A6%E0%A4%A1%E0%A4%BC%E0%A4%BF%E0%A4%AD%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%BE&amp;diff=270238&amp;oldid=247208</id>
+		<title>दड़िभङ्गा</title>
+		<link rel="alternate" type="text/html" href="https://mai.wikipedia.org/w/index.php?title=%E0%A4%A6%E0%A4%A1%E0%A4%BC%E0%A4%BF%E0%A4%AD%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%BE&amp;diff=270238&amp;oldid=247208"/>
+		<updated>2025-03-21T03:15:41Z</updated>
+
+		<summary type="html">&lt;p&gt;++&lt;/p&gt;
+&lt;table style=&quot;background-color: #fff; color: #202122;&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;mai&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;←पुरान परिवर्तन&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #202122; text-align: center;&quot;&gt;अन्तिम परिवर्तन  ०९:००, २१ मार्च २०२५&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;4&quot; class=&quot;diff-multi&quot; lang=&quot;mai&quot;&gt;(इ प्रयोक्ताद्वारा कएल गेल बीचके एक अवतरण नै देखाओल गेल)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;पङ्क्त्ति ५:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;पङ्क्त्ति ५:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| other_name              = &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| other_name              = &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| settlement_type         = शहर&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| settlement_type         = शहर&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| image_skyline           =&lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt; Building of Lalit Naryan Mithla University,&lt;/del&gt; Darbhanga &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Bihar&lt;/del&gt;.jpg&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| image_skyline           = Darbhanga &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;Skyline&lt;/ins&gt;.jpg&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| image_alt               = &lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| image_alt               = &lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| image_caption           = दड़िभङ्गाक धरोहरसभ&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| image_caption           = दड़िभङ्गाक धरोहरसभ&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;पङ्क्त्ति ६७:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;पङ्क्त्ति ६७:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| blank3_info_sec1        = [[दड़िभङ्गा (विधान सभा संसदीय क्षेत्र)|दड़िभङ्गा]], [[दड़िभङ्गा ग्रामीण (विधान सभा संसदीय क्षेत्र)|दड़िभङ्गा ग्रामीण]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;| blank3_info_sec1        = [[दड़िभङ्गा (विधान सभा संसदीय क्षेत्र)|दड़िभङ्गा]], [[दड़िभङ्गा ग्रामीण (विधान सभा संसदीय क्षेत्र)|दड़िभङ्गा ग्रामीण]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&#039;&#039;&#039;दड़िभङ्गा&#039;&#039;&#039; [[बिहार]] राज्यक एक नगर आ नगर निगम छी । ई [[दड़िभङ्गा जिला]] आ दड़िभङ्गा क्षेत्रक मुख्यालय छी । दड़िभङ्गा [[बिहार]]क पाँचम &lt;del style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;पैघ&lt;/del&gt; नगर आ सभसँ तेजीसँ बढि रहल नगर छी । दड़िभङ्गा बिहारक दोसर सभसँ पैग चिकित्सा क्षेत्र छी । ऐतिहासिक रूपसँ ई नगर दड़िभङ्गा राजक शासनस्थल छल ।&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;&#039;&#039;&#039;दड़िभङ्गा&#039;&#039;&#039; [[बिहार]] राज्यक एक नगर आ नगर निगम छी । ई [[दड़िभङ्गा जिला]] आ दड़िभङ्गा क्षेत्रक मुख्यालय छी । दड़िभङ्गा [[बिहार]]क पाँचम &lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt;पैग&lt;/ins&gt; नगर आ सभसँ तेजीसँ बढि रहल नगर छी । दड़िभङ्गा बिहारक दोसर सभसँ पैग चिकित्सा क्षेत्र&lt;ins style=&quot;font-weight: bold; text-decoration: none;&quot;&gt; सेहो&lt;/ins&gt; छी । ऐतिहासिक रूपसँ ई नगर दड़िभङ्गा राजक शासनस्थल छल ।&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== नामाकरण ==&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;== नामाकरण ==&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;पङ्क्त्ति १७१:&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;पङ्क्त्ति १७१:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* [http://www.bbc.co.uk/hindi/regionalnews/story/2003/12/printable/031231_darbhanga.shtml कला-संस्कृतिक द्वार छल दरभङ्गा]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* [http://www.bbc.co.uk/hindi/regionalnews/story/2003/12/printable/031231_darbhanga.shtml कला-संस्कृतिक द्वार छल दरभङ्गा]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* [http://bstdc.bih.nic.in/ बिहार पर्यटन विकास निगमक आधिकारिक बेवसाइट] {{Webarchive|url=https://web.archive.org/web/20100127030717/http://bstdc.bih.nic.in/ |date=2010-01-27 }}&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;* [http://bstdc.bih.nic.in/ बिहार पर्यटन विकास निगमक आधिकारिक बेवसाइट] {{Webarchive|url=https://web.archive.org/web/20100127030717/http://bstdc.bih.nic.in/ |date=2010-01-27 }}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-deleted&quot;&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;+&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;{{बिहार}}&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot; data-marker=&quot;−&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;br /&gt;&lt;/td&gt;
+  &lt;td colspan=&quot;2&quot; class=&quot;diff-empty diff-side-added&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[श्रेणी:बिहारक शहरसभ|बिहारक शहरसभ]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[श्रेणी:बिहारक शहरसभ|बिहारक शहरसभ]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[श्रेणी:मिथिला]]&lt;/div&gt;&lt;/td&gt;
+  &lt;td class=&quot;diff-marker&quot;&gt;&lt;/td&gt;
+  &lt;td style=&quot;background-color: #f8f9fa; color: #202122; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[श्रेणी:मिथिला]]&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>PANKAJ DEO</name></author>
+	</entry>
+</feed>

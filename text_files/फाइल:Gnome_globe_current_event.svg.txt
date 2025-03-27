@@ -1,0 +1,243 @@
+
+
+
+
+
+
+जानकारी
+Gnome globe current event.svg
+
+
+
+
+English: 
+ Globe with clock to represent a "current event"
+Español: 
+ Globo terráqueo con un reloj que representa un "evento en curso"
+
+
+日本語:
+ 『
+現在進行中の事象
+』を示すための時計付きの地球
+
+
+
+
+
+
+दिनाङ्क
+
+
+
+
+१२ सितम्बर २००७, १५:३३
+ (UTC)
+
+
+
+
+
+
+स्रोत
+
+
+
+Derived from 
+Image:Gnome-globe.svg
+, 
+Image:Current event clock.svg
+ and 
+Image:Stock alarm.svg
+ (see below).
+
+
+
+
+
+
+लेखक
+
+
+
+David Vignoni (globe, clock face/ring), 
+Anomie
+ (clock hands),  
+David Göthberg
+ (making the clock red, shadows). Anomie and David G (putting all the parts together).
+
+
+
+
+
+
+अनुमति
+(
+ई फाइलक पुनः उपयोग
+)
+
+
+
+
+
+
+
+
+
+
+
+
+This library is 
+free software
+; you can redistribute it and/or modify it under the terms of the 
+GNU Lesser General Public License
+ as published by the 
+Free Software Foundation
+; either version 2.1 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but 
+without any warranty
+; without even the implied warranty of 
+merchantability
+ or 
+fitness for a particular purpose
+. See 
+version 2.1
+ and 
+version 3 of the GNU Lesser General Public License
+ for more details. 
+http://www.gnu.org/licenses/lgpl.html
+LGPL
+GNU Lesser General Public License
+true
+true
+
+
+
+
+
+
+
+
+दूसरे संस्करण
+
+
+
+
+
+
+
+
+
+
+Gnome-globe.svg
+
+
+
+
+
+
+
+
+Stock alarm.svg
+
+
+
+
+
+
+
+
+Current event template.svg
+
+
+
+
+
+
+
+
+Soccerball current event.svg
+
+
+
+
+
+
+
+
+Gnome globe current event plus Padlock.svg
+
+
+
+
+
+
+
+
+Recent death.svg
+
+
+
+
+
+
+
+
+SVG 
+genesis
+InfoField
+ 
+The 
+SVG
+ code is 
+valid
+.
+ 
+इस  
+वेक्टर चित्र
+ को 
+Inkscape
+ की मदद से बनाया गया था.
+
+
+
+
+
+
+Captions
+मैथिली
+Add a one-line explanation of what this file represents
+पुर्तगाली
+Globo com um relógio para representar um "evento atual"
+ब्राज़ीली पुर्तगाली
+Globo com um relógio para representar um "evento atual"
+Items portrayed in this file
+चित्रण
+ 
+हिन्दी
+कॉपीराइट की स्थिति
+ 
+हिन्दी
+कॉपीराइट के अंतर्गत
+ 
+हिन्दी
+अनुज्ञप्ति
+ 
+हिन्दी
+GNU Lesser General Public License, version 2.1 or later
+ 
+अंगरेजी
+निर्माण की तिथि
+ 
+हिन्दी
+१२ सितम्बर 2007
+media type
+ 
+अंगरेजी
+image/svg+xml
+
+
+
+
+
+
+

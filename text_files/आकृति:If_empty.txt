@@ -1,0 +1,41 @@
+
+
+
+
+
+
+ Template documentation
+[
+create
+] [
+purge
+]
+
+
+
+
+
+
+Editors can experiment in this template's sandbox 
+(
+create
+ | 
+mirror
+)
+ and testcases 
+(
+create
+)
+ pages.
+Add categories to the 
+/doc
+ subpage. 
+Subpages of this template
+.
+
+
+
+
+
+
+

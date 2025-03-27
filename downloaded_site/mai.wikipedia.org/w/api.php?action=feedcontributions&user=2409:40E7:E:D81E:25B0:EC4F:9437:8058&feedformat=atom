@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="mai">
+	<id>https://mai.wikipedia.org/w/api.php?action=feedcontributions&amp;feedformat=atom&amp;user=2409%3A40E7%3AE%3AD81E%3A25B0%3AEC4F%3A9437%3A8058</id>
+	<title>विकिपिडिया - सदस्य द्वारा योगदान [mai]</title>
+	<link rel="self" type="application/atom+xml" href="https://mai.wikipedia.org/w/api.php?action=feedcontributions&amp;feedformat=atom&amp;user=2409%3A40E7%3AE%3AD81E%3A25B0%3AEC4F%3A9437%3A8058"/>
+	<link rel="alternate" type="text/html" href="https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%87%E0%A4%B7:%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8/2409:40E7:E:D81E:25B0:EC4F:9437:8058"/>
+	<updated>2025-03-27T09:18:38Z</updated>
+	<subtitle>सदस्य द्वारा योगदान</subtitle>
+	<generator>MediaWiki 1.44.0-wmf.21</generator>
+</feed>
