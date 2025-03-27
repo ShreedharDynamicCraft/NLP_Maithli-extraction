@@ -1,4 +1,4 @@
-Total Sentences: 73868
-Average Sentence Length: 5.65 words
-Max Sentence Length: 176 words
+Total Sentences: 33525
+Average Sentence Length: 6.24 words
+Max Sentence Length: 177 words
 Min Sentence Length: 1 words
